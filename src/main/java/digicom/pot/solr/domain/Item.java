@@ -8,7 +8,7 @@ import java.util.List;
 import org.apache.solr.client.solrj.beans.Field;
 
 /**
- * @author A039883
+ * @author Sagar
  *
  */
 public class Item {

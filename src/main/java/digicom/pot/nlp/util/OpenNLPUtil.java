@@ -1,16 +1,3 @@
-/**
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *     http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
 package digicom.pot.nlp.util;
 
 import java.io.File;
@@ -40,6 +27,7 @@ public class OpenNLPUtil {
     private POSModel partOfSpeechModel;
     private ChunkerModel chunkerModel;
     private TokenNameFinderModel moneyFinderModel;
+   
     // custom models
     private TokenNameFinderModel colorFinderModel;
     private TokenNameFinderModel brandFinderModel;
@@ -110,7 +98,8 @@ public class OpenNLPUtil {
         brandFinderModel = new TokenNameFinderModel(brandFinderModelStream);
     }
 
-    private InputStream getInputStream(String resource) throws FileNotFoundException  {
+    @SuppressWarnings("resource")
+	private InputStream getInputStream(String resource) throws FileNotFoundException  {
     	// For local Eclipse
     	InputStream inputS = null;
     	try {
@@ -228,6 +217,11 @@ public class OpenNLPUtil {
     	return value;
     }
  
+    /**
+     * Configurable pos score method
+     * @param k
+     * @return
+     */
     public float posScore(String k) {
     	float value = 1;
     	switch(k) {

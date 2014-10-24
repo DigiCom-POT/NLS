@@ -3,12 +3,11 @@
  */
 package digicom.pot.solr;
 
-import org.apache.solr.client.solrj.SolrServer;
 import org.apache.solr.client.solrj.impl.HttpSolrServer;
 import org.apache.solr.client.solrj.impl.XMLResponseParser;
 
 /**
- * @author A039883
+ * @author Sagar
  *
  */
 public class AppSolrServer {

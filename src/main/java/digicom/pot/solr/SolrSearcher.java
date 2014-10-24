@@ -5,22 +5,17 @@ package digicom.pot.solr;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
-import java.text.NumberFormat;
 import java.text.ParseException;
 
 import opennlp.tools.util.Span;
 
 import org.apache.log4j.BasicConfigurator;
-import org.apache.solr.client.solrj.SolrQuery;
 import org.apache.solr.client.solrj.SolrServerException;
-import org.apache.solr.client.solrj.impl.HttpSolrServer;
-import org.apache.solr.client.solrj.response.QueryResponse;
-import org.apache.solr.common.SolrDocumentList;
 
 import digicom.pot.nlp.util.OpenNLPUtil;
 
 /**
- * @author A039883
+ * @author Sagar
  * 
  */
 public class SolrSearcher {

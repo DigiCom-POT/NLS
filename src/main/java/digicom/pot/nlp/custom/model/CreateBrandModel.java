@@ -4,17 +4,11 @@
 package digicom.pot.nlp.custom.model;
 
 import java.io.File;
-import java.io.FileWriter;
-import java.util.ArrayList;
-import java.util.List;
 
 import opennlp.addons.modelbuilder.DefaultModelBuilderUtil;
-import opennlp.tools.namefind.NameFinderME;
-import opennlp.tools.namefind.TokenNameFinderModel;
-import opennlp.tools.util.Span;
 
 /**
- * @author A039883
+ * @author Sagar
  *
  */
 public class CreateBrandModel {

@@ -29,7 +29,7 @@ import org.apache.solr.search.SyntaxError;
 import digicom.pot.nlp.util.OpenNLPUtil;
 
 /**
- * @author A039883
+ * @author Sagar
  * 
  */
 public class CustomQParser extends QParser {

@@ -21,12 +21,13 @@ import digicom.pot.solr.custom.ColorHelper;
 import digicom.pot.solr.custom.PriceHelper;
 
 /**
- * @author spras3
+ * @author Sagar
  *
  */
 public class SolrCustomSearcher {
 
 	/**
+	 * Move the main to test methods
 	 * @param args
 	 * @throws SolrServerException
 	 * @throws IOException

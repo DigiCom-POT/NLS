@@ -8,7 +8,8 @@ import digicom.pot.solr.SolrCustomSearcher;
 
 
 /**
- * @author spras3
+ * Simple Web Client for SOLR using spark java
+ * @author Sagar
  * 
  */
 public class ClientApp {

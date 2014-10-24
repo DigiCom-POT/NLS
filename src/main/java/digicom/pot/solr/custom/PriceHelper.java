@@ -16,7 +16,7 @@ import org.apache.solr.client.solrj.SolrServerException;
 import digicom.pot.nlp.util.OpenNLPUtil;
 
 /**
- * @author A039883
+ * @author Sagar
  * 
  */
 public class PriceHelper {

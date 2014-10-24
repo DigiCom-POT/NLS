@@ -10,7 +10,7 @@ import org.apache.solr.search.QParser;
 import org.apache.solr.search.QParserPlugin;
 
 /**
- * @author A039883
+ * @author Sagar
  *
  */
 public class CustomQueryParserPlugin extends QParserPlugin {
