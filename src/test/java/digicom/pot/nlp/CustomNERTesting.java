@@ -13,18 +13,16 @@
  */
 package digicom.pot.nlp;
 
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 import opennlp.tools.util.Span;
 
 import org.junit.Test;
 
 import digicom.pot.nlp.util.OpenNLPUtil;
-
-import java.io.ByteArrayOutputStream;
-import java.io.IOException;
-import java.io.OutputStreamWriter;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 public class CustomNERTesting {
 

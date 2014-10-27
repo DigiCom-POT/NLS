@@ -139,7 +139,7 @@ public class SolrSearcher {
 			String[] tokens = extractor.tokenizeSentence(sentence);
 			Span[] spans = extractor.findMoney(tokens);
 			for (Span span : spans) {
-				for (int position = span.getStart(); position < span.getEnd(); position++) {
+				for (int position = span.getStart(); position < span.getEnd();) {
 					return tokens[position];
 				}
 			}

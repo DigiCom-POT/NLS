@@ -126,8 +126,8 @@ public class OpenNLPUtilTest {
                 System.out.print("token: " + tokens[i]);
                 System.out.print("\t");
                 System.out.print("pos: " + tags[i] + " - " + posValue(tags[i]));
-               // System.out.print("\t");
-               // System.out.print("probability: " + probs[i]);
+                System.out.print("\t");
+                System.out.print("probability: " + probs[i]);
                 System.out.println();
             }
         }

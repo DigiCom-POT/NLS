@@ -79,6 +79,7 @@ public class TestChunker {
 	}
 	
 	
+	@SuppressWarnings("resource")
 	private InputStream getInputStream(String resource) throws FileNotFoundException  {
     	// For local Eclipse
     	InputStream inputS = null;
