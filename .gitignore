@@ -3,3 +3,4 @@
 /.settings
 .class
 .bin
+src/main/resources/models/
