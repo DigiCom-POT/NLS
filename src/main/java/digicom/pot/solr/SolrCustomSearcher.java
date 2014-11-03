@@ -16,9 +16,9 @@ import org.apache.solr.common.SolrDocumentList;
 import com.google.gson.Gson;
 
 import digicom.pot.nlp.util.OpenNLPUtil;
-import digicom.pot.solr.custom.BrandHelper;
-import digicom.pot.solr.custom.ColorHelper;
-import digicom.pot.solr.custom.PriceHelper;
+import digicom.pot.solr.util.BrandHelper;
+import digicom.pot.solr.util.ColorHelper;
+import digicom.pot.solr.util.PriceHelper;
 
 /**
  * @author Sagar
@@ -34,35 +34,10 @@ public class SolrCustomSearcher {
 	 */
 	public static void main(String[] args) throws SolrServerException,
 			IOException {
-		// TODO Auto-generated method stub
-		HttpSolrServer solr = new HttpSolrServer(
-				"http://localhost:8983/solr/personalization");
-		SolrQuery query = new SolrQuery();
-		String queryString = "Progear blue sweater under 20$";
-
-		// query.addFilterQuery("cat:electronics","store:amazon.com");
-		// query.setFields("id","price","merchant","cat","store");
-		query.setStart(0);
-		// query.set("defType", "customqparser");
-
-		System.out.println(" Query  :: " + query);
-		OpenNLPUtil extractor = new OpenNLPUtil();
-		queryString = applyPriceFilter(queryString, extractor, query);
-		queryString = applyColorFilter(queryString, extractor, query);
-		queryString = applyBrandFilter(queryString, extractor, query);
-		query.setQuery(queryString);
-
-		System.out.println("After Query  :: " + query);
-		QueryResponse response = solr.query(query);
-		SolrDocumentList results = response.getResults();
-
-		System.out.println(" No of Docs returned : " + results.size());
-		for (int i = 0; i < results.size(); ++i) {
-			System.out.println(results.get(i));
-		}
+		
 	}
 
-	private static String applyBrandFilter(String queryString,
+	public static String applyBrandFilter(String queryString,
 			OpenNLPUtil extractor, SolrQuery query) {
 		BrandHelper brandHelper = new BrandHelper();
 		List<String> brands = brandHelper.getBrands(queryString, extractor);
@@ -72,7 +47,7 @@ public class SolrCustomSearcher {
 		return queryString;
 	}
 
-	private static String applyColorFilter(String queryString,
+	public static String applyColorFilter(String queryString,
 			OpenNLPUtil extractor, SolrQuery query) {
 		ColorHelper colorhelper = new ColorHelper();
 		List<String> colors = colorhelper.getColors(queryString, extractor);
@@ -84,7 +59,7 @@ public class SolrCustomSearcher {
 		return queryString;
 	}
 
-	private static String applyPriceFilter(String queryString,
+	public static String applyPriceFilter(String queryString,
 			OpenNLPUtil extractor, SolrQuery query) {
 		String updateQSTR = queryString;
 		PriceHelper pricehelper = new PriceHelper();

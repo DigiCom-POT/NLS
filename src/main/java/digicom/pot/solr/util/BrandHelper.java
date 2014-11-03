@@ -1,4 +1,4 @@
-package digicom.pot.solr.custom;
+package digicom.pot.solr.util;
 
 import java.io.IOException;
 import java.util.ArrayList;

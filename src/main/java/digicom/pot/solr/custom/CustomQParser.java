@@ -27,6 +27,7 @@ import org.apache.solr.search.QParser;
 import org.apache.solr.search.SyntaxError;
 
 import digicom.pot.nlp.util.OpenNLPUtil;
+import digicom.pot.solr.util.PriceHelper;
 
 /**
  * @author Sagar

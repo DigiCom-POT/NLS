@@ -129,6 +129,7 @@ You also need to bring up the solr instance by running the command
 * Apache Solr ( for the search engine and document indexing )
 * OpenNLP ( for language processing and creating custom models )
 * Spark Java ( for exposing the web interface )
+* AngularJS (for lightweight UI to run the application)
 
 
 ###References:
