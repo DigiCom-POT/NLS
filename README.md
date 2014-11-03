@@ -107,8 +107,11 @@ and hit the http://localhost:4777/index.html for testing from web.
 
 There are bunch of Junits are included in the code for testing each individual functions at different step.
 
-**High Level Arch Diagram
+**High Level Arch Diagram**
 ![High Level Arch Diagram](https://raw.githubusercontent.com/DigiCom-POT/NLS/master/src/main/resources/webapp/img/nlspot.png)
+
+**Sequence Diagram**
+![Sequence Diagram](https://raw.githubusercontent.com/DigiCom-POT/NLS/master/src/main/resources/webapp/img/sequencediagram.png) 
 
 
 ###Running the webclient
