@@ -107,6 +107,7 @@ and hit the http://localhost:4777/index.html for testing from web.
 
 There are bunch of Junits are included in the code for testing each individual functions at different step.
 
+**High Level Arch Diagram
 ![High Level Arch Diagram](https://raw.githubusercontent.com/DigiCom-POT/NLS/master/src/main/resources/webapp/img/nlspot.png)
 
 
@@ -115,10 +116,12 @@ The webclient is made in angular js framework is deployed on spark java.
 
 To start the webclient : Run the digicom.pot.solrnlp.web.ClientApp java (it will bring up the client which can be access over http://localhost:4777/index.html URL)
 
-You also need to bring up the solr instance by running the 
-
-
-![Sample Screen shot of the app]()
+You also need to bring up the solr instance by running the command
+```
+<Solr Installed Dir>/personalization> java -jar start.jar
+```
+###Screen shot of the webclient
+![Sample Screen shot of the app](https://raw.githubusercontent.com/DigiCom-POT/NLS/master/src/main/resources/webapp/img/webclient.PNG)
 
 
 
