@@ -107,6 +107,19 @@ and hit the http://localhost:4777/index.html for testing from web.
 
 There are bunch of Junits are included in the code for testing each individual functions at different step.
 
+![High Level Arch Diagram](https://raw.githubusercontent.com/DigiCom-POT/NLS/master/src/main/resources/webapp/img/nlspot.png)
+
+
+###Running the webclient
+The webclient is made in angular js framework is deployed on spark java.
+
+To start the webclient : Run the digicom.pot.solrnlp.web.ClientApp java (it will bring up the client which can be access over http://localhost:4777/index.html URL)
+
+You also need to bring up the solr instance by running the 
+
+
+![Sample Screen shot of the app]()
+
 
 
 ###Tech Stack Used:
@@ -123,5 +136,7 @@ There are bunch of Junits are included in the code for testing each individual f
 * http://lucene.472066.n3.nabble.com/Adding-filter-in-custom-query-parser-td4162044.html
 * https://code.google.com/p/spark-java/
 
+
+###Installations
 
 ###Limitations:
