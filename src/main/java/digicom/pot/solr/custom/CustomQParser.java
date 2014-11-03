@@ -20,7 +20,6 @@ import org.apache.lucene.search.payloads.MaxPayloadFunction;
 import org.apache.lucene.search.payloads.PayloadTermQuery;
 import org.apache.lucene.util.BytesRef;
 import org.apache.solr.common.params.SolrParams;
-import org.apache.solr.parser.QueryParser;
 import org.apache.solr.request.SolrQueryRequest;
 import org.apache.solr.search.LuceneQParserPlugin;
 import org.apache.solr.search.QParser;
@@ -183,8 +182,8 @@ public class CustomQParser extends QParser {
 		}
 		
 		String defaultField = req.getSchema().getDefaultSearchFieldName();
-		QueryParser.Operator defaultOperator = QueryParser.Operator.valueOf(req.getSchema().getQueryParserDefaultOperator());
-		BooleanClause.Occur op = (defaultOperator == QueryParser.Operator.AND) ? BooleanClause.Occur.MUST : BooleanClause.Occur.SHOULD;
+		//QueryParser.Operator defaultOperator = QueryParser.Operator.valueOf(req.getSchema().getQueryParserDefaultOperator());
+		//BooleanClause.Occur op = (defaultOperator == QueryParser.Operator.AND) ? BooleanClause.Occur.MUST : BooleanClause.Occur.SHOULD;
 		
 	    BooleanQuery q = new BooleanQuery();
 		

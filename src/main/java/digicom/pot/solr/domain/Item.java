@@ -63,7 +63,7 @@ public class Item {
 	}
 
 	public void setTitle(String title) {
-		title = title;
+		this.title = title;
 	}
 
 	public String getDescription() {
