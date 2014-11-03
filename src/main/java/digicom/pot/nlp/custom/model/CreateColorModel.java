@@ -11,7 +11,7 @@ import opennlp.addons.modelbuilder.DefaultModelBuilderUtil;
  * @author Sagar
  *
  */
-public class CreateNERModel {
+public class CreateColorModel {
 
 	private static String RESOURCE_FOLDER = "src/main/resources/";
 
