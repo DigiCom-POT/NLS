@@ -143,7 +143,3 @@ You also need to bring up the solr instance by running the command
 * http://lucene.472066.n3.nabble.com/Adding-filter-in-custom-query-parser-td4162044.html
 * https://code.google.com/p/spark-java/
 
-
-###Installations
-
-###Limitations:
