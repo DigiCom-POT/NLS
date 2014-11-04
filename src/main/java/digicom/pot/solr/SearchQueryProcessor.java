@@ -79,7 +79,7 @@ public class SearchQueryProcessor {
 	public static String solrsearch(String queryString) throws IOException,
 			SolrServerException {
 		HttpSolrServer solr = new HttpSolrServer(
-				"http://localhost:8983/solr/personalization");
+				"http://localhost:8983/solr/nls");
 		SolrQuery query = new SolrQuery();
 		query.setStart(0);
 		System.out.println(" Query  :: " + query);

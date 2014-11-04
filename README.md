@@ -99,27 +99,27 @@ You also need to bring up the solr instance by running the command
 
 ### Solr Setup for POT:
 * Download and extract [Apache Solr](http://www.apache.org/dyn/closer.cgi/lucene/solr/4.8.0) from Mirror.
-* cp -r example personalization [create a copy of examples]
-* mv personalization/solr/collection1/ personalization/solr/personalization
-* cp file core.properties and schema.xml to respective folder from [github](https://github.com/DigiCom-POT/NLS/tree/master/src/main/resources/solr/personalization).
+* cp -r example nls [create a copy of examples]
+* mv nls/solr/collection1/ nls/solr/nls
+* cp file core.properties and schema.xml to respective folder from [github](https://github.com/DigiCom-POT/NLS/tree/master/src/main/resources/solr/nls).
 * Start and Verify the application :
 ```
 cd personalization
 java -jar start.jar
-http://localhost:8983/solr/#/personalization
-http://localhost:8983/solr/#/personalization/query 
+http://localhost:8983/solr/#/nls
+http://localhost:8983/solr/#/nls/query 
 ```
 
 
 ###Data Indexing
-* Copy [SolrItemPayLoad.xml](https://github.com/DigiCom-POT/NLS/tree/master/src/main/resources/dataset) to <installation>\solr\personalization\exampledocs folder and extract it
+* Copy [SolrItemPayLoad.xml](https://github.com/DigiCom-POT/NLS/tree/master/src/main/resources/dataset) to <installation>\solr\nls\exampledocs folder and extract it
 * Execute
 ``` 
-java -Durl=http://localhost:8983/solr/personalization/update  -jar post.jar SolrItemPayLoad.xml
+java -Durl=http://localhost:8983/solr/nls/update  -jar post.jar SolrItemPayLoad.xml
 ```
 * Verify the rows index
 ```
-http://localhost:8983/solr/personalization/browse - 
+http://localhost:8983/solr/nls/browse - 
 ```  
 
 
