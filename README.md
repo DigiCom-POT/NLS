@@ -46,7 +46,7 @@ toys priced more than <START:money> $70 <END>
 
 ###Custom Query Parser:
 **A) As plugin**
-* Create a lib folder under solr/personalization/solr
+* Create a lib folder under solr/nls/solr
 * Copy (custom code) opennlp-example-1.0-jar-with-dependencies under it
 * Add the lib in classpath 
 
@@ -63,11 +63,11 @@ toys priced more than <START:money> $70 <END>
 
 Sample queries for testing
 
-* http://localhost:8983/solr/personalization/browse
-* http://localhost:8983/solr/personalization/select?q={!customqparser}entertainment
-* http://localhost:8983/solr/personalization/select?q={!customqparser}iPOD%20touch&fq=P_Color:pink&fl=*,score
-* http://localhost:8983/solr/personalization/select?q={!customqparser}blue%20sweater&fq=P_OfferPrice:[0%20TO%2010]
-* http://localhost:8983/solr/personalization/select?q={!customqparser}pink%20sweater&fq=P_OfferPrice:[40+TO+50]
+* http://localhost:8983/solr/nls/browse
+* http://localhost:8983/solr/nls/select?q={!customqparser}entertainment
+* http://localhost:8983/solr/nls/select?q={!customqparser}iPOD%20touch&fq=P_Color:pink&fl=*,score
+* http://localhost:8983/solr/nls/select?q={!customqparser}blue%20sweater&fq=P_OfferPrice:[0%20TO%2010]
+* http://localhost:8983/solr/nls/select?q={!customqparser}pink%20sweater&fq=P_OfferPrice:[40+TO+50]
 
 **B) At client side**
 
@@ -84,7 +84,7 @@ To start the webclient : Run the digicom.pot.solrnlp.web.ClientApp java (it will
 
 You also need to bring up the solr instance by running the command
 ```
-<Solr Installed Dir>/personalization> java -jar start.jar
+<Solr Installed Dir>/nls> java -jar start.jar
 ```
 ###Screen shot of the webclient
 ![Sample Screen shot of the app](https://raw.githubusercontent.com/DigiCom-POT/NLS/master/src/main/resources/webapp/img/webclient.PNG)
@@ -104,7 +104,7 @@ You also need to bring up the solr instance by running the command
 * cp file core.properties and schema.xml to respective folder from [github](https://github.com/DigiCom-POT/NLS/tree/master/src/main/resources/solr/nls).
 * Start and Verify the application :
 ```
-cd personalization
+cd nls
 java -jar start.jar
 http://localhost:8983/solr/#/nls
 http://localhost:8983/solr/#/nls/query 
