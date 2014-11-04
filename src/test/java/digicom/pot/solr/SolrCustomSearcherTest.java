@@ -28,9 +28,9 @@ public class SolrCustomSearcherTest {
 
 				System.out.println(" Query  :: " + query);
 				OpenNLPUtil extractor = new OpenNLPUtil();
-				queryString = SolrCustomSearcher.applyPriceFilter(queryString, extractor, query);
-				queryString = SolrCustomSearcher.applyColorFilter(queryString, extractor, query);
-				queryString = SolrCustomSearcher.applyBrandFilter(queryString, extractor, query);
+				queryString = SearchQueryProcessor.applyPriceFilter(queryString, extractor, query);
+				queryString = SearchQueryProcessor.applyColorFilter(queryString, extractor, query);
+				queryString = SearchQueryProcessor.applyBrandFilter(queryString, extractor, query);
 				query.setQuery(queryString);
 
 				System.out.println("After Query  :: " + query);

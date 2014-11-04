@@ -1,40 +1,10 @@
 ###POT: Natural Language Search
 
-###Solr Setup (with NLP for index/query time usage):
-* (http://wiki.apache.org/solr/OpenNLP)
-* Download/SVN Checkout Latest Source of Apache  SOLR (http://archive.apache.org/dist/lucene/solr/4.8.0/)
-* Download OpenNLP Analysis capabilities as a module Patch (https://issues.apache.org/jira/browse/LUCENE-2899)
-```
-patch -p 0 -i <path to patch> [--dry-run] (to check the changes)
-patch -p 0 < LUCENE-2899.patch (Patch using *NIX patch or SVN patch command)
-```
-* Do 'ant compile' in SOLR home folder
-* CD solr/contrib/opennlp/src/test-files/training & run 'bin/trainall.sh'
-* Download the OpenNLP distribution from http://opennlp.apache.org/cgi-bin/download.cgi
-* Unpack this and copy the jar files from lib/ to solr/contrib/opennlp/lib
-* Download the real models for OpenNLP project to your solr/cores/collection/conf/opennlp directory.
-* The English-language models start with 'en'. (http://opennlp.sourceforge.net/models-1.5/)
-* Go to trunk-dir/solr and run 'ant test-contrib'
-* Add one NLP Field Type with NLP tokenizer and NLP filter in the schema.xml.
-```
-<fieldType name="text_opennlp_pos" class="solr.TextField" positionIncrementGap="100">
-      <analyzer>
-        <tokenizer class="solr.OpenNLPTokenizerFactory"
-          tokenizerModel="opennlp/en-token.bin"
-        />
-        <filter class="solr.OpenNLPFilterFactory"
-          posTaggerModel="opennlp/en-pos-maxent.bin"
-        />
-      </analyzer>
-</fieldType>
-```
+**High Level Arch Diagram**
+![High Level Arch Diagram](https://raw.githubusercontent.com/DigiCom-POT/NLS/master/src/main/resources/webapp/img/nlspot.png)
 
-Check if following config is there in solr.config file, if not add it
-```
-<lib dir="../../../contrib/opennlp/lib" regex=".*\.jar" />
-<lib dir="../../../dist/" regex="solr-opennlp-\d.*\.jar" />
-<lib dir="../../../contrib/opennlp/lucene-libs" regex=".*\.jar" />
-```
+**Sequence Diagram**
+![Sequence Diagram](https://raw.githubusercontent.com/DigiCom-POT/NLS/master/src/main/resources/webapp/img/sequencediagram.png) 
 
 ###Creating Custom Model:
 Sample code is available in CreateBrandModel.java or CreateNERModel.java file
@@ -107,13 +77,6 @@ and hit the http://localhost:4777/index.html for testing from web.
 
 There are bunch of Junits are included in the code for testing each individual functions at different step.
 
-**High Level Arch Diagram**
-![High Level Arch Diagram](https://raw.githubusercontent.com/DigiCom-POT/NLS/master/src/main/resources/webapp/img/nlspot.png)
-
-**Sequence Diagram**
-![Sequence Diagram](https://raw.githubusercontent.com/DigiCom-POT/NLS/master/src/main/resources/webapp/img/sequencediagram.png) 
-
-
 ###Running the webclient
 The webclient is made in angular js framework is deployed on spark java.
 
@@ -133,6 +96,62 @@ You also need to bring up the solr instance by running the command
 * OpenNLP ( for language processing and creating custom models )
 * Spark Java ( for exposing the web interface )
 * AngularJS (for lightweight UI to run the application)
+
+### Solr Setup for POT:
+* Download and extract [Apache Solr](http://www.apache.org/dyn/closer.cgi/lucene/solr/4.8.0) from Mirror.
+* cp -r example personalization [create a copy of examples]
+* mv personalization/solr/collection1/ personalization/solr/personalization
+* cp file core.properties and schema.xml to respective folder from github
+* Verify the application :
+ 
+	cd personalization
+	java -jar start.jar
+
+http://localhost:8983/solr/#/personalization
+http://localhost:8983/solr/#/personalization/query 
+
+###Data Indexing
+* Copy SolrItemPayLoad.xml(link) to <installation>\solr\personalization\exampledocs folder and extract it
+* execute java -Durl=http://localhost:8983/solr/personalization/update  -jar post.jar SolrItemPayLoad.xml
+* http://localhost:8983/solr/personalization/browse - check the rows index
+  
+
+
+###Solr Installation (with NLP for index/query time usage):
+* (http://wiki.apache.org/solr/OpenNLP)
+* Download/SVN Checkout Latest Source of Apache  SOLR (http://archive.apache.org/dist/lucene/solr/4.8.0/)
+* Download OpenNLP Analysis capabilities as a module Patch (https://issues.apache.org/jira/browse/LUCENE-2899)
+```
+patch -p 0 -i <path to patch> [--dry-run] (to check the changes)
+patch -p 0 < LUCENE-2899.patch (Patch using *NIX patch or SVN patch command)
+```
+* Do 'ant compile' in SOLR home folder
+* CD solr/contrib/opennlp/src/test-files/training & run 'bin/trainall.sh'
+* Download the OpenNLP distribution from http://opennlp.apache.org/cgi-bin/download.cgi
+* Unpack this and copy the jar files from lib/ to solr/contrib/opennlp/lib
+* Download the real models for OpenNLP project to your solr/cores/collection/conf/opennlp directory.
+* The English-language models start with 'en'. (http://opennlp.sourceforge.net/models-1.5/)
+* Go to trunk-dir/solr and run 'ant test-contrib'
+* Add one NLP Field Type with NLP tokenizer and NLP filter in the schema.xml.
+```
+<fieldType name="text_opennlp_pos" class="solr.TextField" positionIncrementGap="100">
+      <analyzer>
+        <tokenizer class="solr.OpenNLPTokenizerFactory"
+          tokenizerModel="opennlp/en-token.bin"
+        />
+        <filter class="solr.OpenNLPFilterFactory"
+          posTaggerModel="opennlp/en-pos-maxent.bin"
+        />
+      </analyzer>
+</fieldType>
+```
+
+Check if following config is there in solr.config file, if not add it
+```
+<lib dir="../../../contrib/opennlp/lib" regex=".*\.jar" />
+<lib dir="../../../dist/" regex="solr-opennlp-\d.*\.jar" />
+<lib dir="../../../contrib/opennlp/lucene-libs" regex=".*\.jar" />
+```
 
 
 ###References:

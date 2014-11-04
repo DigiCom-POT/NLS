@@ -4,7 +4,7 @@
 package digicom.pot.solrnlp.web;
 
 import static spark.Spark.*;
-import digicom.pot.solr.SolrCustomSearcher;
+import digicom.pot.solr.SearchQueryProcessor;
 
 
 /**
@@ -29,7 +29,7 @@ public class ClientApp {
 			String searchTerm = request.queryParams("searchTerm");
 			System.out.println("Request recieved " + searchTerm);
 			try {
-				return SolrCustomSearcher.solrsearch(searchTerm);
+				return SearchQueryProcessor.solrsearch(searchTerm);
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();

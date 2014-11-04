@@ -24,7 +24,7 @@ import digicom.pot.solr.util.PriceHelper;
  * @author Sagar
  *
  */
-public class SolrCustomSearcher {
+public class SearchQueryProcessor {
 
 	/**
 	 * Move the main to test methods
