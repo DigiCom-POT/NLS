@@ -101,20 +101,26 @@ You also need to bring up the solr instance by running the command
 * Download and extract [Apache Solr](http://www.apache.org/dyn/closer.cgi/lucene/solr/4.8.0) from Mirror.
 * cp -r example personalization [create a copy of examples]
 * mv personalization/solr/collection1/ personalization/solr/personalization
-* cp file core.properties and schema.xml to respective folder from github
-* Verify the application :
- 
-	cd personalization
-	java -jar start.jar
-
+* cp file core.properties and schema.xml to respective folder from [github](https://github.com/DigiCom-POT/NLS/tree/master/src/main/resources/solr/personalization).
+* Start and Verify the application :
+```
+cd personalization
+java -jar start.jar
 http://localhost:8983/solr/#/personalization
 http://localhost:8983/solr/#/personalization/query 
+```
+
 
 ###Data Indexing
-* Copy SolrItemPayLoad.xml(link) to <installation>\solr\personalization\exampledocs folder and extract it
-* execute java -Durl=http://localhost:8983/solr/personalization/update  -jar post.jar SolrItemPayLoad.xml
-* http://localhost:8983/solr/personalization/browse - check the rows index
-  
+* Copy [SolrItemPayLoad.xml](https://github.com/DigiCom-POT/NLS/tree/master/src/main/resources/dataset) to <installation>\solr\personalization\exampledocs folder and extract it
+* Execute
+``` 
+java -Durl=http://localhost:8983/solr/personalization/update  -jar post.jar SolrItemPayLoad.xml
+```
+* Verify the rows index
+```
+http://localhost:8983/solr/personalization/browse - 
+```  
 
 
 ###Solr Installation (with NLP for index/query time usage):
