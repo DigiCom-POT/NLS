@@ -31,17 +31,18 @@ public class ColorHelper {
 	                int counter = 0;
 	                for (Span span : spans) {
 	                    System.out.print("color: ");
-	                    String color = null;
+	                    StringBuffer color = new StringBuffer("");
 	                    for (int i = span.getStart(); i < span.getEnd(); i++) {
-	                    	color = tokens[i];
+	                    	color.append(tokens[i]);
 	                        System.out.print(tokens[i]);
 	                        if (i < span.getEnd()) {
 	                            System.out.print(" ");
+	                            color.append(" ");
 	                        }
 	                    }
 	                    System.out.println("Probability is: "+spanProbs[counter]);
-	                    if(spanProbs[counter] > 0.9) {
-	                    	resultArr.add(color);
+	                    if(spanProbs[counter] > 0.5 && !color.equals("")) {
+	                    	resultArr.add(color.toString());
 	                    }
 	                    counter++;
 	                }

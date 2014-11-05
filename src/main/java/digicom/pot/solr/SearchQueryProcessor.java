@@ -57,8 +57,8 @@ public class SearchQueryProcessor {
 			// From filter query changing to boost query as it is making it mandatory			
 			//query.addFilterQuery("P_Color:" + colors.get(0));
 			query.set("bq", "P_Color:" + colors.get(0) + "^100");
-			String newQueryString = queryString.replace(colors.get(0), "");
-			return newQueryString;
+			//String newQueryString = queryString.replace(colors.get(0), "");
+			//return newQueryString;
 		}
 		return queryString;
 	}
