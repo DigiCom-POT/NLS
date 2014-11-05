@@ -2028,3 +2028,1308 @@ ash  <START:color> grey <END>
 <START:color> deep spring bud <END>
 <START:color> debian red <END>
 <START:color> rubine red <END>
+<START:color> Black <END>
+<START:color> Deep Blue <END>
+<START:color> Desert Sand <END>
+<START:color> Chocolate Brown <END>
+<START:color> Gravel Gray <END>
+<START:color> British Tan <END>
+<START:color> British Tan <END>
+<START:color> British Tan <END>
+<START:color> Black <END>
+<START:color> Deep Blue <END>
+<START:color> Dark Navy <END>
+<START:color> Silver Gray <END>
+<START:color> Black <END>
+<START:color> Brick Rustic <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Brick Rustic <END>
+<START:color> Desert Sand <END>
+<START:color> Brick Rustic <END>
+<START:color> Brick Rustic <END>
+<START:color> Deep Blue <END>
+<START:color> Chocolate Brown <END>
+<START:color> Black <END>
+<START:color> Chocolate Brown <END>
+<START:color> Brick Rustic <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> British Tan <END>
+<START:color> British Tan <END>
+<START:color> Desert Sand <END>
+<START:color> Desert Sand <END>
+<START:color> Chocolate Brown <END>
+<START:color> Deep Blue <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Gravel Gray <END>
+<START:color> Deep Blue <END>
+<START:color> Gravel Gray <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Gravel Gray <END>
+<START:color> British Tan <END>
+<START:color> Brick Rustic <END>
+<START:color> Desert Sand <END>
+<START:color> Chocolate Brown <END>
+<START:color> Dark Navy <END>
+<START:color> Black <END>
+<START:color> Gravel Gray <END>
+<START:color> Black <END>
+<START:color> Deep Blue <END>
+<START:color> British Tan <END>
+<START:color> Gravel Gray <END>
+<START:color> Brick Rustic <END>
+<START:color> Black <END>
+<START:color> Chocolate Brown <END>
+<START:color> Deep Blue <END>
+<START:color> Dark Navy <END>
+<START:color> Desert Sand <END>
+<START:color> Silver Gray <END>
+<START:color> Black <END>
+<START:color> Chocolate Brown <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> Brick Rustic <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Chocolate Brown <END>
+<START:color> Desert Sand <END>
+<START:color> Dark Navy <END>
+<START:color> Silver Gray <END>
+<START:color> Black <END>
+<START:color> Gravel Gray <END>
+<START:color> Brick Rustic <END>
+<START:color> Desert Sand <END>
+<START:color> Gravel Gray <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Deep Blue <END>
+<START:color> Chocolate Brown <END>
+<START:color> Brick Rustic <END>
+<START:color> Brick Rustic <END>
+<START:color> Deep Blue <END>
+<START:color> Silver Gray <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> Deep Blue <END>
+<START:color> Gravel Gray <END>
+<START:color> Chocolate Brown <END>
+<START:color> Silver Gray <END>
+<START:color> Deep Blue <END>
+<START:color> Desert Sand <END>
+<START:color> Deep Blue <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Dark Navy <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Brick Rustic <END>
+<START:color> Brick Rustic <END>
+<START:color> Black <END>
+<START:color> British Tan <END>
+<START:color> Black <END>
+<START:color> British Tan <END>
+<START:color> Chocolate Brown <END>
+<START:color> Chocolate Brown <END>
+<START:color> Chocolate Brown <END>
+<START:color> Deep Blue <END>
+<START:color> Black <END>
+<START:color> Deep Blue <END>
+<START:color> Brick Rustic <END>
+<START:color> Desert Sand <END>
+<START:color> Dark Navy <END>
+<START:color> Chocolate Brown <END>
+<START:color> Dark Navy <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Desert Sand <END>
+<START:color> Dark Navy <END>
+<START:color> British Tan <END>
+<START:color> Dark Navy <END>
+<START:color> Gravel Gray <END>
+<START:color> Dark Navy <END>
+<START:color> Brick Rustic <END>
+<START:color> Deep Blue <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Dark Navy <END>
+<START:color> Gravel Gray <END>
+<START:color> Black <END>
+<START:color> Desert Sand <END>
+<START:color> Chocolate Brown <END>
+<START:color> Chocolate Brown <END>
+<START:color> Dark Navy <END>
+<START:color> Brick Rustic <END>
+<START:color> Chocolate Brown <END>
+<START:color> British Tan <END>
+<START:color> Dark Navy <END>
+<START:color> Chocolate Brown <END>
+<START:color> Dark Navy <END>
+<START:color> Charcoal <END>
+<START:color> Dark Navy <END>
+<START:color> Dark Navy <END>
+<START:color> Navy <END>
+<START:color> Silver Gray <END>
+<START:color> Desert Sand <END>
+<START:color> Navy <END>
+<START:color> Navy <END>
+<START:color> Charcoal <END>
+<START:color> Navy <END>
+<START:color> Gravel Gray <END>
+<START:color> Charcoal <END>
+<START:color> Gravel Gray <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> British Tan <END>
+<START:color> Black <END>
+<START:color> Charcoal <END>
+<START:color> Clear <END>
+<START:color> Charcoal <END>
+<START:color> Black <END>
+<START:color> British Tan <END>
+<START:color> Black <END>
+<START:color> British Tan <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Chocolate Brown <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Dark Navy <END>
+<START:color> Gravel Gray <END>
+<START:color> Navy <END>
+<START:color> Brown <END>
+<START:color> Desert Sand <END>
+<START:color> Brown <END>
+<START:color> Black <END>
+<START:color> Navy <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> Chocolate Brown <END>
+<START:color> Black <END>
+<START:color> Charcoal <END>
+<START:color> Charcoal <END>
+<START:color> British Tan <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Gravel Gray <END>
+<START:color> Dark Navy <END>
+<START:color> Dark Navy <END>
+<START:color> Dark Navy <END>
+<START:color> Gravel Gray <END>
+<START:color> Dark Navy <END>
+<START:color> Dark Navy <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> British Tan <END>
+<START:color> Dark Navy <END>
+<START:color> Desert Sand <END>
+<START:color> Navy <END>
+<START:color> Deep Blue <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Desert Sand <END>
+<START:color> Dark Navy <END>
+<START:color> Desert Sand <END>
+<START:color> Khaki <END>
+<START:color> Desert Sand <END>
+<START:color> Desert Sand <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> Khaki <END>
+<START:color> Charcoal <END>
+<START:color> Charcoal <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> Khaki <END>
+<START:color> Dark Navy <END>
+<START:color> Dark Navy <END>
+<START:color> Black <END>
+<START:color> Charcoal <END>
+<START:color> Desert Sand <END>
+<START:color> Charcoal <END>
+<START:color> Dark Navy <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Charcoal <END>
+<START:color> Black <END>
+<START:color> Charcoal <END>
+<START:color> Khaki <END>
+<START:color> Desert Sand <END>
+<START:color> Desert Sand <END>
+<START:color> Brown <END>
+<START:color> Charcoal <END>
+<START:color> Charcoal <END>
+<START:color> Off White <END>
+<START:color> Charcoal <END>
+<START:color> Charcoal <END>
+<START:color> Dark Navy <END>
+<START:color> Khaki <END>
+<START:color> Charcoal <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Desert Sand <END>
+<START:color> Khaki <END>
+<START:color> Dark Navy <END>
+<START:color> Charcoal <END>
+<START:color> Desert Sand <END>
+<START:color> Khaki <END>
+<START:color> Desert Sand <END>
+<START:color> Clear <END>
+<START:color> Navy <END>
+<START:color> Khaki <END>
+<START:color> Clear <END>
+<START:color> Dark Navy <END>
+<START:color> Dark Navy <END>
+<START:color> Dark Navy <END>
+<START:color> Desert Sand <END>
+<START:color> Charcoal <END>
+<START:color> Desert Sand <END>
+<START:color> Charcoal <END>
+<START:color> Khaki <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> Brown <END>
+<START:color> Off White <END>
+<START:color> Charcoal <END>
+<START:color> Navy <END>
+<START:color> Off White <END>
+<START:color> Black <END>
+<START:color> Blue <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Pink <END>
+<START:color> Cream <END>
+<START:color> Ombre Pink <END>
+<START:color> Mango <END>
+<START:color> Heather Grey <END>
+<START:color> Multicolor <END>
+<START:color> Pink/White <END>
+<START:color> Black <END>
+<START:color> Ivory/Brown <END>
+<START:color> Blue <END>
+<START:color> Heather Grey <END>
+<START:color> Lime <END>
+<START:color> Heather Grey <END>
+<START:color> Multicolor <END>
+<START:color> Multicolor <END>
+<START:color> Onyx <END>
+<START:color> Assorted <END>
+<START:color> Onyx <END>
+<START:color> Corona Lime <END>
+<START:color> Red <END>
+<START:color> Vintage Pink <END>
+<START:color> Poppy Red <END>
+<START:color> Magenta <END>
+<START:color> Blue <END>
+<START:color> Crystal <END>
+<START:color> Vintage Pink <END>
+<START:color> Cream <END>
+<START:color> Onyx <END>
+<START:color> Brown/Multicolor <END>
+<START:color> Corona Lime <END>
+<START:color> White <END>
+<START:color> Copper Vein <END>
+<START:color> Sterling <END>
+<START:color> Silver Vein <END>
+<START:color> Sterling <END>
+<START:color> Black Chrome <END>
+<START:color> Vintage Pink <END>
+<START:color> Pink <END>
+<START:color> Onyx <END>
+<START:color> Black <END>
+<START:color> Sterling <END>
+<START:color> Pink <END>
+<START:color> Silver <END>
+<START:color> Vintage Pink <END>
+<START:color> Teal <END>
+<START:color> Blue <END>
+<START:color> White <END>
+<START:color> Red <END>
+<START:color> Raspberry <END>
+<START:color> Ombre Pink <END>
+<START:color> Silver <END>
+<START:color> Cream <END>
+<START:color> Ombre Pink <END>
+<START:color> White <END>
+<START:color> Pink <END>
+<START:color> Denim/Pink <END>
+<START:color> Teal <END>
+<START:color> Purple <END>
+<START:color> White <END>
+<START:color> Pink <END>
+<START:color> Red <END>
+<START:color> Copper Vein <END>
+<START:color> Blue <END>
+<START:color> Blue <END>
+<START:color> Ombre Pink <END>
+<START:color> Pink <END>
+<START:color> Purple <END>
+<START:color> Purple <END>
+<START:color> Rspbry <END>
+<START:color> Black/Cream Fur <END>
+<START:color> Blue <END>
+<START:color> White <END>
+<START:color> Pink <END>
+<START:color> Denim/Pink <END>
+<START:color> Gold <END>
+<START:color> Pink <END>
+<START:color> Vintage Pink <END>
+<START:color> Heather Grey <END>
+<START:color> Black Chrome <END>
+<START:color> Purple <END>
+<START:color> Pink <END>
+<START:color> Ivory/Multicolor <END>
+<START:color> Pink <END>
+<START:color> Vintage Pink <END>
+<START:color> Cream <END>
+<START:color> Teal <END>
+<START:color> Vintage Pink <END>
+<START:color> Grey/White <END>
+<START:color> Gold <END>
+<START:color> Pink <END>
+<START:color> Corona Lime <END>
+<START:color> Corona Lime <END>
+<START:color> Gold <END>
+<START:color> Black <END>
+<START:color> Teal <END>
+<START:color> Silver <END>
+<START:color> Black Chrome <END>
+<START:color> Pink <END>
+<START:color> Heather Grey <END>
+<START:color> Black Chrome <END>
+<START:color> Pink <END>
+<START:color> Black/Cream Fur <END>
+<START:color> GREY <END>
+<START:color> Pink <END>
+<START:color> Denim/Pink <END>
+<START:color> Copper Vein <END>
+<START:color> Cream <END>
+<START:color> Corona Lime <END>
+<START:color> Wicked <END>
+<START:color> Blue <END>
+<START:color> Ivory/Multicolor <END>
+<START:color> Ivory/Multicolor <END>
+<START:color> Pink <END>
+<START:color> Vintage Pink <END>
+<START:color> Vintage Pink <END>
+<START:color> Silver <END>
+<START:color> Dark Grey/Ivory <END>
+<START:color> Vintage Pink <END>
+<START:color> Blue <END>
+<START:color> Pink <END>
+<START:color> Pink <END>
+<START:color> Teal <END>
+<START:color> Ombre Pink <END>
+<START:color> Black/Cream Fur <END>
+<START:color> Pink <END>
+<START:color> Copper Vein <END>
+<START:color> Raspberry <END>
+<START:color> Dark Grey/Ivory <END>
+<START:color> White <END>
+<START:color> Silver Vein <END>
+<START:color> Raspberry <END>
+<START:color> Gold <END>
+<START:color> Red <END>
+<START:color> Drama Bomb <END>
+<START:color> Black Chrome <END>
+<START:color> Multicolor <END>
+<START:color> Brown <END>
+<START:color> Coco Loco <END>
+<START:color> Anchor Grey <END>
+<START:color> Mojave <END>
+<START:color> Corona Lime <END>
+<START:color> Multicolor <END>
+<START:color> Teal <END>
+<START:color> Onyx <END>
+<START:color> Silver <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Clear <END>
+<START:color> Winter White <END>
+<START:color> Black <END>
+<START:color> Red <END>
+<START:color> Purple <END>
+<START:color> WHITE/PINK/GREY <END>
+<START:color> TURQUOISE/WHITE/GREY <END>
+<START:color> Ivory/Brown <END>
+<START:color> Gray <END>
+<START:color> Gray <END>
+<START:color> GREY/WHITE/TURQUOISE <END>
+<START:color> Silver <END>
+<START:color> Blue <END>
+<START:color> Silver Vein <END>
+<START:color> Silver <END>
+<START:color> TURQUOISE/WHITE/GREY <END>
+<START:color> Pink <END>
+<START:color> GREY/WHITE/PINK <END>
+<START:color> Vintage Pink <END>
+<START:color> Pacific <END>
+<START:color> Winter White <END>
+<START:color> Blue <END>
+<START:color> PINK <END>
+<START:color> Blue <END>
+<START:color> Raspberry <END>
+<START:color> Pink <END>
+<START:color> Gray <END>
+<START:color> Pink <END>
+<START:color> Ultramarine <END>
+<START:color> Conspiracy <END>
+<START:color> Onyx <END>
+<START:color> Copper Vein <END>
+<START:color> TURQUOISE <END>
+<START:color> Grey/White <END>
+<START:color> Black <END>
+<START:color> Ultramarine <END>
+<START:color> BLACK <END>
+<START:color> TURQUOISE <END>
+<START:color> Black <END>
+<START:color> PINK/WHITE/GREY <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Purple <END>
+<START:color> Grey/Multicolor <END>
+<START:color> Grey/White <END>
+<START:color> Pink <END>
+<START:color> Black/Cream Fur <END>
+<START:color> Black <END>
+<START:color> Bordeaux <END>
+<START:color> Blue <END>
+<START:color> Black <END>
+<START:color> WHITE/GREY/TURQUOISE <END>
+<START:color> Gold <END>
+<START:color> Pink <END>
+<START:color> Red Brown <END>
+<START:color> WHITE/PINK/GREY <END>
+<START:color> Grey/White <END>
+<START:color> Ultramarine <END>
+<START:color> Cape Cod Mint <END>
+<START:color> Denim/Pink <END>
+<START:color> PINK/WHITE/GREY <END>
+<START:color> Black <END>
+<START:color> Grey/Multicolor <END>
+<START:color> Bordeaux <END>
+<START:color> Cape Cod Mint <END>
+<START:color> Winter White <END>
+<START:color> Pink <END>
+<START:color> Ultramarine <END>
+<START:color> Raspberry <END>
+<START:color> Winter White <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Bordeaux <END>
+<START:color> Black <END>
+<START:color> Cape Cod Mint <END>
+<START:color> Bordeaux <END>
+<START:color> Brown/Multicolor <END>
+<START:color> Denim/Pink <END>
+<START:color> Winter White <END>
+<START:color> Red <END>
+<START:color> Winter White <END>
+<START:color> Black <END>
+<START:color> Gold <END>
+<START:color> PINK <END>
+<START:color> Pink <END>
+<START:color> Bordeaux <END>
+<START:color> Red <END>
+<START:color> Ultramarine <END>
+<START:color> Black Chrome <END>
+<START:color> Teal <END>
+<START:color> WHITE/GREY/TURQUOISE <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Red <END>
+<START:color> Gold <END>
+<START:color> PINK <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Onyx <END>
+<START:color> Ombre Pink <END>
+<START:color> Onyx <END>
+<START:color> Onyx <END>
+<START:color> Onyx <END>
+<START:color> Red <END>
+<START:color> Cape Cod Mint <END>
+<START:color> Silver Vein <END>
+<START:color> TURQUOISE <END>
+<START:color> Yellow|White <END>
+<START:color> Orange/Black <END>
+<START:color> Pink <END>
+<START:color> Black <END>
+<START:color> Blue <END>
+<START:color> Onyx <END>
+<START:color> Moonbeam <END>
+<START:color> Black/Cream Fur <END>
+<START:color> Green/Black <END>
+<START:color> Rspbry <END>
+<START:color> Pink/Gray <END>
+<START:color> Black/Cream Fur <END>
+<START:color> Moonbeam <END>
+<START:color> Purple <END>
+<START:color> Pink/Multi <END>
+<START:color> Pink <END>
+<START:color> Red <END>
+<START:color> Denim/Pink <END>
+<START:color> Cape Cod Mint <END>
+<START:color> Slate <END>
+<START:color> Onyx <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Pink <END>
+<START:color> Black <END>
+<START:color> Blue <END>
+<START:color> Blue <END>
+<START:color> Gray <END>
+<START:color> Onyx <END>
+<START:color> Pink/Gray <END>
+<START:color> Blue <END>
+<START:color> Gray/Black <END>
+<START:color> Pink <END>
+<START:color> Black Chrome <END>
+<START:color> Moonbeam <END>
+<START:color> Yellow|White <END>
+<START:color> Silver Vein <END>
+<START:color> Corona Lime <END>
+<START:color> Moonbeam <END>
+<START:color> Black <END>
+<START:color> Blue <END>
+<START:color> Pink <END>
+<START:color> Sterling <END>
+<START:color> Cape Cod Mint <END>
+<START:color> Pink <END>
+<START:color> Pink <END>
+<START:color> Onyx <END>
+<START:color> Teal <END>
+<START:color> Pink <END>
+<START:color> Pink/Gray <END>
+<START:color> Silver Vein <END>
+<START:color> Moonbeam <END>
+<START:color> Navy <END>
+<START:color> Cream <END>
+<START:color> Pink <END>
+<START:color> Heather Grey <END>
+<START:color> Dark Blue <END>
+<START:color> Vintage Pink <END>
+<START:color> Onyx <END>
+<START:color> Pink/Gray <END>
+<START:color> Grey/White <END>
+<START:color> Sterling <END>
+<START:color> Onyx <END>
+<START:color> Desert Sand <END>
+<START:color> Brown <END>
+<START:color> Desert Sand <END>
+<START:color> Navy <END>
+<START:color> Navy <END>
+<START:color> Charcoal <END>
+<START:color> Charcoal <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Black <END>
+<START:color> Desert Sand <END>
+<START:color> Dark Navy <END>
+<START:color> Desert Sand <END>
+<START:color> Off White <END>
+<START:color> Charcoal <END>
+<START:color> Charcoal <END>
+<START:color> Khaki <END>
+<START:color> Black <END>
+<START:color> Khaki <END>
+<START:color> Black <END>
+<START:color> Desert Sand <END>
+<START:color> Navy <END>
+<START:color> Khaki <END>
+<START:color> Dark Navy <END>
+<START:color> Navy <END>
+<START:color> Charcoal <END>
+<START:color> Blue <END>
+<START:color> Dark Navy <END>
+<START:color> Khaki <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Desert Sand <END>
+<START:color> Khaki <END>
+<START:color> Desert Sand <END>
+<START:color> Charcoal <END>
+<START:color> Navy <END>
+<START:color> Black <END>
+<START:color> Charcoal <END>
+<START:color> Dark Navy <END>
+<START:color> White <END>
+<START:color> Desert Sand <END>
+<START:color> Dark Navy <END>
+<START:color> Dark Navy <END>
+<START:color> Charcoal <END>
+<START:color> Black <END>
+<START:color> Charcoal <END>
+<START:color> Black <END>
+<START:color> Charcoal <END>
+<START:color> Blue <END>
+<START:color> Navy <END>
+<START:color> Dark Navy <END>
+<START:color> Khaki <END>
+<START:color> Desert Sand <END>
+<START:color> Charcoal <END>
+<START:color> Charcoal <END>
+<START:color> Desert Sand <END>
+<START:color> White <END>
+<START:color> Navy <END>
+<START:color> Khaki <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Navy <END>
+<START:color> Charcoal <END>
+<START:color> Charcoal <END>
+<START:color> Dark Navy <END>
+<START:color> Desert Sand <END>
+<START:color> Dark Navy <END>
+<START:color> Charcoal <END>
+<START:color> Dark Navy <END>
+<START:color> Black <END>
+<START:color> Dark Navy <END>
+<START:color> Navy <END>
+<START:color> Black <END>
+<START:color> Brown <END>
+<START:color> Dark Navy <END>
+<START:color> TEAM COLOR <END>
+<START:color> Silver <END>
+<START:color> Charcoal <END>
+<START:color> Brown <END>
+<START:color> Gray/Ivory <END>
+<START:color> Silver <END>
+<START:color> Red <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Dark Navy <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> Gray/Ivory <END>
+<START:color> Silver <END>
+<START:color> Hot Pink <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Black <END>
+<START:color> Yellow <END>
+<START:color> Black <END>
+<START:color> Purple <END>
+<START:color> TEAM COLOR <END>
+<START:color> TEAM COLOR <END>
+<START:color> Khaki <END>
+<START:color> Light Gold <END>
+<START:color> Black <END>
+<START:color> Gold <END>
+<START:color> Gray/Ivory <END>
+<START:color> Black <END>
+<START:color> Aqua <END>
+<START:color> TEAM COLOR <END>
+<START:color> Charcoal <END>
+<START:color> Silver <END>
+<START:color> Orange <END>
+<START:color> Green <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Black <END>
+<START:color> Pink <END>
+<START:color> TEAM COLOR <END>
+<START:color> Purple <END>
+<START:color> Multi Color <END>
+<START:color> Green <END>
+<START:color> Bright Gold <END>
+<START:color> Black <END>
+<START:color> TEAM COLOR <END>
+<START:color> TEAM COLOR <END>
+<START:color> Purple <END>
+<START:color> Purple <END>
+<START:color> Black <END>
+<START:color> EBONY <END>
+<START:color> Brown <END>
+<START:color> Gold <END>
+<START:color> Orange <END>
+<START:color> Blue <END>
+<START:color> EBONY <END>
+<START:color> Khaki <END>
+<START:color> Bright Gold <END>
+<START:color> Purple <END>
+<START:color> Blue <END>
+<START:color> Desert Sand <END>
+<START:color> Charcoal <END>
+<START:color> EBONY <END>
+<START:color> Silver <END>
+<START:color> Mint <END>
+<START:color> Multi Color <END>
+<START:color> White <END>
+<START:color> Silver <END>
+<START:color> Gold <END>
+<START:color> White <END>
+<START:color> Purple <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> BEIGE <END>
+<START:color> BLACK <END>
+<START:color> Aqua <END>
+<START:color> MOTHER OF PEARL <END>
+<START:color> Purple <END>
+<START:color> Silver <END>
+<START:color> Red <END>
+<START:color> Red <END>
+<START:color> Brown <END>
+<START:color> Multi Color <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Silver <END>
+<START:color> SILVER <END>
+<START:color> White <END>
+<START:color> Red <END>
+<START:color> SILVER <END>
+<START:color> Multi <END>
+<START:color> RED <END>
+<START:color> Pink <END>
+<START:color> Blue <END>
+<START:color> Desert Sand <END>
+<START:color> Green <END>
+<START:color> Silver <END>
+<START:color> SILVER <END>
+<START:color> Multi <END>
+<START:color> WHITE <END>
+<START:color> Graphite <END>
+<START:color> Multi <END>
+<START:color> Pink <END>
+<START:color> Brown <END>
+<START:color> Gold <END>
+<START:color> Blue <END>
+<START:color> Black <END>
+<START:color> Multi Color <END>
+<START:color> BLACK <END>
+<START:color> Desert Sand <END>
+<START:color> BLACK <END>
+<START:color> Brown <END>
+<START:color> Purple <END>
+<START:color> SILVER <END>
+<START:color> WHITE <END>
+<START:color> Purple <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Red <END>
+<START:color> Silver <END>
+<START:color> WHITE <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Red <END>
+<START:color> White <END>
+<START:color> GREY <END>
+<START:color> BROWN <END>
+<START:color> Silver <END>
+<START:color> Blue <END>
+<START:color> Blue <END>
+<START:color> Light Gold <END>
+<START:color> Black <END>
+<START:color> Brown <END>
+<START:color> Black <END>
+<START:color> Light Gold <END>
+<START:color> White <END>
+<START:color> Silver <END>
+<START:color> Brown <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Black <END>
+<START:color> EBONY <END>
+<START:color> SILVER <END>
+<START:color> Pink <END>
+<START:color> Brown <END>
+<START:color> Blue <END>
+<START:color> Silver <END>
+<START:color> Teal <END>
+<START:color> Black <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Black <END>
+<START:color> Desert Sand <END>
+<START:color> Silver <END>
+<START:color> Blue <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Blue <END>
+<START:color> Multi Color <END>
+<START:color> Graphite <END>
+<START:color> Lime <END>
+<START:color> Silver <END>
+<START:color> Red <END>
+<START:color> Desert Sand <END>
+<START:color> Bright Gold <END>
+<START:color> OLIVE DRAB <END>
+<START:color> SILVER <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Black <END>
+<START:color> Navy <END>
+<START:color> WHITE <END>
+<START:color> White <END>
+<START:color> Black <END>
+<START:color> OLIVE DRAB <END>
+<START:color> Brown <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Red <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Navy <END>
+<START:color> Light Gold <END>
+<START:color> Yellow <END>
+<START:color> Yellow <END>
+<START:color> Silver <END>
+<START:color> Red <END>
+<START:color> Dark Navy <END>
+<START:color> Red <END>
+<START:color> Black <END>
+<START:color> MULTI <END>
+<START:color> Black <END>
+<START:color> WHITE/MULTI <END>
+<START:color> Desert Sand <END>
+<START:color> Silver <END>
+<START:color> Bright Gold <END>
+<START:color> Green <END>
+<START:color> SILVER/BLACK <END>
+<START:color> Bright Gold <END>
+<START:color> White <END>
+<START:color> Light Gold <END>
+<START:color> Black <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> SILVER <END>
+<START:color> Desert Sand <END>
+<START:color> SILVER <END>
+<START:color> Gold <END>
+<START:color> White <END>
+<START:color> Red <END>
+<START:color> Gold <END>
+<START:color> White <END>
+<START:color> EBONY <END>
+<START:color> Light Gold <END>
+<START:color> BLACK <END>
+<START:color> BLACK/SILVER <END>
+<START:color> Gold <END>
+<START:color> Black <END>
+<START:color> Silver <END>
+<START:color> WHITE <END>
+<START:color> Aqua <END>
+<START:color> Green <END>
+<START:color> Silver <END>
+<START:color> Silver/Cream <END>
+<START:color> OFF WHITE <END>
+<START:color> Desert Sand <END>
+<START:color> Silver <END>
+<START:color> SILVER <END>
+<START:color> Brown <END>
+<START:color> Graphite <END>
+<START:color> Purple <END>
+<START:color> SILVER <END>
+<START:color> EBONY <END>
+<START:color> RED <END>
+<START:color> Black <END>
+<START:color> Pink <END>
+<START:color> WHITE <END>
+<START:color> Silver <END>
+<START:color> Red <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> White <END>
+<START:color> Charcoal <END>
+<START:color> Red <END>
+<START:color> OLIVE DRAB <END>
+<START:color> Desert Sand <END>
+<START:color> Dark Navy <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Silver <END>
+<START:color> Black <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Orange <END>
+<START:color> Desert Sand <END>
+<START:color> Black <END>
+<START:color> Walnut <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Pink <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> TEAM COLOR <END>
+<START:color> TEAM COLOR <END>
+<START:color> Blue <END>
+<START:color> TEAM COLOR <END>
+<START:color> Gray/Ivory <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Red <END>
+<START:color> Brown <END>
+<START:color> Silver <END>
+<START:color> Pink <END>
+<START:color> Brown <END>
+<START:color> TEAM COLOR <END>
+<START:color> TEAM COLOR <END>
+<START:color> Desert Sand <END>
+<START:color> TEAM COLOR <END>
+<START:color> Black <END>
+<START:color> Silver <END>
+<START:color> TEAM COLOR <END>
+<START:color> Black <END>
+<START:color> TEAM COLOR <END>
+<START:color> White <END>
+<START:color> Silver <END>
+<START:color> Purple <END>
+<START:color> Blue <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Blue <END>
+<START:color> Grey <END>
+<START:color> Purple <END>
+<START:color> Silver <END>
+<START:color> Purple <END>
+<START:color> Brown <END>
+<START:color> Blue <END>
+<START:color> Silver <END>
+<START:color> Light Gold <END>
+<START:color> Silver <END>
+<START:color> White <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Red <END>
+<START:color> Silver <END>
+<START:color> Oak <END>
+<START:color> Brown <END>
+<START:color> Off White <END>
+<START:color> Silver <END>
+<START:color> Grey <END>
+<START:color> Blue <END>
+<START:color> Pewter <END>
+<START:color> Red <END>
+<START:color> Blue <END>
+<START:color> Light Gold <END>
+<START:color> White <END>
+<START:color> Black <END>
+<START:color> Purple <END>
+<START:color> Natural <END>
+<START:color> Grey <END>
+<START:color> Silver <END>
+<START:color> White <END>
+<START:color> Light Gold <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Grey <END>
+<START:color> Silver <END>
+<START:color> Light Gold <END>
+<START:color> Silver <END>
+<START:color> Grey/Cream <END>
+<START:color> Silver <END>
+<START:color> Grey <END>
+<START:color> Silver <END>
+<START:color> Grey <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Blue <END>
+<START:color> Silver <END>
+<START:color> Blue <END>
+<START:color> Purple <END>
+<START:color> Silver <END>
+<START:color> Off White <END>
+<START:color> Oak <END>
+<START:color> Blue Grey <END>
+<START:color> Celadon <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Light Gold <END>
+<START:color> Purple <END>
+<START:color> Blue <END>
+<START:color> Black <END>
+<START:color> Brown <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Black/Charcoal Jacquard <END>
+<START:color> Black/White <END>
+<START:color> Multicolored <END>
+<START:color> White <END>
+<START:color> Orange <END>
+<START:color> Black <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Black <END>
+<START:color> Multicolored <END>
+<START:color> Silver <END>
+<START:color> Multicolored <END>
+<START:color> Black/Tan <END>
+<START:color> Multicolored <END>
+<START:color> White <END>
+<START:color> Multicolored <END>
+<START:color> Black <END>
+<START:color> Multicolored <END>
+<START:color> Gray/Black Melange <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Black/White <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Black/Charcoal Jacquard <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Black <END>
+<START:color> Orange <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Black <END>
+<START:color> Black/Tan <END>
+<START:color> Multicolored <END>
+<START:color> Green <END>
+<START:color> Multicolored <END>
+<START:color> Gray/Black Melange <END>
+<START:color> Brown <END>
+<START:color> White <END>
+<START:color> Black/Cream Aztec <END>
+<START:color> Multicolored <END>
+<START:color> Black <END>
+<START:color> Multicolored <END>
+<START:color> Orange <END>
+<START:color> Multicolored <END>
+<START:color> White <END>
+<START:color> Walnut <END>
+<START:color> Multicolored <END>
+<START:color> Black <END>
+<START:color> Multicolored <END>
+<START:color> Black/Charcoal Jacquard <END>
+<START:color> Multicolored <END>
+<START:color> Black/Tan <END>
+<START:color> Black/White <END>
+<START:color> Multicolored <END>
+<START:color> Black/Cream Aztec <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Black/Cream Aztec <END>
+<START:color> Multicolored <END>
+<START:color> Black/Cream Aztec <END>
+<START:color> Black <END>
+<START:color> Gray/Black Melange <END>
+<START:color> Black/White <END>
+<START:color> Black/White <END>
+<START:color> Multicolored <END>
+<START:color> Black/White <END>
+<START:color> Multicolored <END>
+<START:color> Black/Gray <END>
+<START:color> Multicolored <END>
+<START:color> Black <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Black/White <END>
+<START:color> Multicolored <END>
+<START:color> White <END>
+<START:color> Black/Gray <END>
+<START:color> Black/Gray <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> White <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Black <END>
+<START:color> Multicolored <END>
+<START:color> Brown <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> Black/Gray <END>
+<START:color> Black/Charcoal Jacquard <END>
+<START:color> Multicolored <END>
+<START:color> Multicolored <END>
+<START:color> White <END>
+<START:color> Purple <END>
+<START:color> Brown <END>
+<START:color> Black/Tan <END>
+<START:color> Armadillo <END>
+<START:color> WHITE <END>
+<START:color> Precious Pink <END>
+<START:color> Rock Cress <END>
+<START:color> Black/White <END>
+<START:color> Rose Quartz <END>
+<START:color> Multicolored <END>
+<START:color> Top Coat <END>
+<START:color> Multicolored <END>
+<START:color> BLACK <END>
+<START:color> Blushing Crystal <END>
+<START:color> Skipping Stone <END>
+<START:color> Berried Gem <END>
+<START:color> SILVER <END>
+<START:color> Blue <END>
+<START:color> Multicolored <END>
+<START:color> GREY <END>
+<START:color> Shimmering Shale <END>
+<START:color> RED <END>
+<START:color> Crimson Clay <END>
+<START:color> Coral Reef <END>
+<START:color> Base Coat <END>
+<START:color> SILVER <END>
+<START:color> SILVER <END>
+<START:color> SILVER <END>
+<START:color> Pink <END>
+<START:color> Emerald Sand <END>
+<START:color> Armadillo|Clementine <END>
+<START:color> Pink Crush <END>
+<START:color> Multicolored <END>
+<START:color> Grotto <END>
+<START:color> Meteor Shower <END>
+<START:color> Galaxy <END>
+<START:color> Red <END>
+<START:color> White <END>
+<START:color> Red <END>
+<START:color> Rock Candy <END>
+<START:color> Vintage Pearl <END>
+<START:color> Blue <END>
+<START:color> Multicolored <END>
+<START:color> Cherry <END>
+<START:color> Pebble <END>
+<START:color> Brown <END>
+<START:color> Cherry <END>
+<START:color> Walnut <END>
+<START:color> Brown <END>
+<START:color> White <END>
+<START:color> PANNA CREAM <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Grey <END>
+<START:color> Multi <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Multi <END>
+<START:color> Gold <END>
+<START:color> Gold <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Black <END>
+<START:color> Grey <END>
+<START:color> Brown <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Black <END>
+<START:color> Grey <END>
+<START:color> Silver <END>
+<START:color> Multi <END>
+<START:color> Brown <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Brown <END>
+<START:color> Multi <END>
+<START:color> Gold <END>
+<START:color> Pink <END>
+<START:color> Brown <END>
+<START:color> Red <END>
+<START:color> Brown <END>
+<START:color> Multicolored <END>
+<START:color> Green <END>
+<START:color> Green <END>
+<START:color> White <END>
+<START:color> Dark Brown <END>
+<START:color> Black <END>
+<START:color> Caramel <END>
+<START:color> Black <END>
+<START:color> Black <END>
+<START:color> Beige <END>
+<START:color> Grey <END>
+<START:color> Silver <END>
+<START:color> Turquoise <END>
+<START:color> Silver <END>
+<START:color> Grey <END>
+<START:color> Black <END>
+<START:color> Coral <END>
+<START:color> Red <END>
+<START:color> White <END>
+<START:color> Mint <END>
+<START:color> Black <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Gold <END>
+<START:color> Silver <END>
+<START:color> Black <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> White <END>
+<START:color> Gold <END>
+<START:color> Gold <END>
+<START:color> Walnut <END>
+<START:color> Silver <END>
+<START:color> Gold <END>
+<START:color> Silver <END>
+<START:color> Gold <END>
+<START:color> Silver <END>
+<START:color> Rose Gold <END>
+<START:color> Lime Twist <END>
+<START:color> White <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Rose Gold <END>
+<START:color> Black <END>
+<START:color> Silver <END>
+<START:color> Black <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Green <END>
+<START:color> Gold <END>
+<START:color> Chocolate <END>
+<START:color> Rose Gold <END>
+<START:color> Silver <END>
+<START:color> Black <END>
+<START:color> Taupe <END>
+<START:color> Silver <END>
+<START:color> Rose Gold <END>
+<START:color> Silver <END>
+<START:color> Silver <END>
+<START:color> Old World Beige <END>
+<START:color> Rose Gold <END>

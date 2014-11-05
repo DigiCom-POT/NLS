@@ -42,7 +42,9 @@ public class SearchQueryProcessor {
 		BrandHelper brandHelper = new BrandHelper();
 		List<String> brands = brandHelper.getBrands(queryString, extractor);
 		if (null != brands && !brands.isEmpty()) {
-			query.addFilterQuery("P_Brand:" + brands.get(0));
+			// From filter query changing to boost query as it is making it mandatory
+			//query.addFilterQuery("P_Brand:" + brands.get(0));
+			query.set("bq", query.get("bq"), "P_Brand:" + brands.get(0) + "^100");
 		}
 		return queryString;
 	}
@@ -52,9 +54,11 @@ public class SearchQueryProcessor {
 		ColorHelper colorhelper = new ColorHelper();
 		List<String> colors = colorhelper.getColors(queryString, extractor);
 		if (null != colors && !colors.isEmpty()) {
-			query.addFilterQuery("P_Color:" + colors.get(0));
-			// String newQueryString = queryString.replace(colors.get(0), "");
-			// return newQueryString;
+			// From filter query changing to boost query as it is making it mandatory			
+			//query.addFilterQuery("P_Color:" + colors.get(0));
+			query.set("bq", "P_Color:" + colors.get(0) + "^100");
+			String newQueryString = queryString.replace(colors.get(0), "");
+			return newQueryString;
 		}
 		return queryString;
 	}
@@ -82,6 +86,7 @@ public class SearchQueryProcessor {
 				"http://localhost:8983/solr/nls");
 		SolrQuery query = new SolrQuery();
 		query.setStart(0);
+		query.set("defType", "edismax");
 		System.out.println(" Query  :: " + query);
 		if(null == queryString) {
 			System.out.println("Query is empty");

@@ -31,17 +31,18 @@ public class BrandHelper {
                 int counter = 0;
                 for (Span span : spans) {
                     System.out.print("brand: ");
-                    String brand = null;
+                    StringBuffer brand = new StringBuffer("");
                     for (int i = span.getStart(); i < span.getEnd(); i++) {
-                    	brand = tokens[i];
+                    	brand.append(tokens[i]);
                         System.out.print(tokens[i]);
                         if (i < span.getEnd()) {
                             System.out.print(" ");
+                            brand.append(" ");
                         }
                     }
                     System.out.println("Probability is: "+spanProbs[counter]);
-                    if(spanProbs[counter] > 0.9) {
-                    	resultArr.add(brand);
+                    if(spanProbs[counter] > 0.5 && !brand.equals("")) {
+                    	resultArr.add(brand.toString());
                     }
                     counter++;
                 }
