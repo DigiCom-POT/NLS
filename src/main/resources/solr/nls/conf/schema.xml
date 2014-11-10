@@ -241,14 +241,9 @@
     <dynamicField name="D_*" type="text_en_splitting" stored="true" multiValued="true"/>
     <dynamicField name="P_*" type="text_en_splitting" stored="true" multiValued="true"/>
     <dynamicField name="*_group" type="string" stored="true" multiValued="false"/>
-	
     <field name="P_OfferPrice" type="float" indexed="true" stored="true" />
-
-	
-	
     <field name="TestCrossField" type="text_en_splitting" indexed="true" stored="true" multiValued="true" />
     <field name="PCrossField" type="text_en_splitting" indexed="true" stored="true" multiValued="true" />
-
    <field name="Category" type="text_general" indexed="true" stored="true" multiValued="true"/>
    <field name="RegistryCategory" type="text_general" indexed="true" stored="true" multiValued="true"/>
    <field name="Variations_facet" type="text_general" indexed="true" stored="true" multiValued="true"/>
@@ -266,7 +261,7 @@
   <copyField source="P_SortProdOffMinPrice" dest="SortProdOffMinPrice_d" />
   <copyField source="P_LaunchDate" dest="LaunchDate_l" />
 
-  <!-- test cross field attributes -->
+  <!-- test cross field attributes 
   <copyField source="P_AuxDescription" dest="TestCrossField" />
   <copyField source="P_Brand" dest="TestCrossField" />
   <copyField source="P_DefinedAttributes" dest="TestCrossField" />
@@ -275,8 +270,10 @@
   <copyField source="P_Mfg_Brand" dest="TestCrossField" />
   <copyField source="P_ProductInfoTitle" dest="TestCrossField" />
   <copyField source="P_Title" dest="TestCrossField" />
+-->
+  <copyField source="P_Title" dest="PCrossField" />
+  <copyField source="P_ProductDescription" dest="PCrossField" />
 
-  <copyField source="P_*" dest="PCrossField" />
    <!-- End -->
    
    <!-- uncomment the following to ignore any fields that don't already match an existing 
