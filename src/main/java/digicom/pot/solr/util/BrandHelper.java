@@ -23,9 +23,9 @@ public class BrandHelper {
 		List<String> resultArr = new ArrayList<String>();
 
     	for(String doc : docArray) {
-    		System.out.println("--- "+ doc);
     		for (String sentence : extractor.segmentSentences(doc)) {
-                String[] tokens = extractor.tokenizeSentence(sentence.toLowerCase());
+    			System.out.println("Sentences -"+ doc);
+                String[] tokens = extractor.tokenizeSentence(sentence);
                 Span[] spans = extractor.findBrand(tokens);
                 double[] spanProbs = extractor.findBrandProb(spans);
                 int counter = 0;
@@ -42,7 +42,7 @@ public class BrandHelper {
                     }
                     System.out.println("Probability is: "+spanProbs[counter]);
                     if(spanProbs[counter] > 0.5 && !brand.equals("")) {
-                    	resultArr.add(brand.toString());
+                    	resultArr.add(brand.toString().trim());
                     }
                     counter++;
                 }

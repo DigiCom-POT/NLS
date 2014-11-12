@@ -72,6 +72,7 @@ public class CustomNERTesting {
     	}
     }
     
+    
     public String posValue(String k) {
     	String value = k;
     	switch(k) {

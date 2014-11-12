@@ -40,6 +40,7 @@ public class SearchQueryProcessor {
 	public static String applyBrandFilter(String queryString,
 			OpenNLPUtil extractor, SolrQuery query) {
 		BrandHelper brandHelper = new BrandHelper();
+		System.out.println("Applying brand Filters");
 		List<String> brands = brandHelper.getBrands(queryString, extractor);
 		if (null != brands && !brands.isEmpty()) {
 			// From filter query changing to boost query as it is making it mandatory
