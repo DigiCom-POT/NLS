@@ -18,9 +18,11 @@ import opennlp.tools.util.Span;
 import org.junit.Test;
 
 import digicom.pot.nlp.util.OpenNLPUtil;
+import digicom.pot.solr.util.BrandHelper;
 
 import java.io.IOException;
 import java.util.Arrays;
+import java.util.List;
 
 public class OpenNLPUtilTest {
 
@@ -212,6 +214,32 @@ public class OpenNLPUtilTest {
             }
         }
     }
+    
+    @Test
+    public void testBrandFinder() {
+        String document = "CHEFS red towel";
+        
+        BrandHelper bhelper = new BrandHelper();
+        List<String> respn = bhelper.getBrands(document, extractor);
+        System.out.println("BH : " + respn);
+        
+        for (String sentence : extractor.segmentSentences(document)) {
+            System.out.println("sentence: " + sentence);
+            String[] tokens = extractor.tokenizeSentence(sentence);
+            Span[] spans = extractor.findBrand(tokens);
+            for (Span span : spans) {
+                System.out.print("Brand: ");
+                for (int i = span.getStart(); i < span.getEnd(); i++) {
+                    System.out.print(tokens[i]);
+                    if (i < span.getEnd()) {
+                        System.out.print(" ");
+                    }
+                }
+                System.out.println();
+            }
+        }
+    }
+    
     
     public String posValue(String k) {
     	String value = k;

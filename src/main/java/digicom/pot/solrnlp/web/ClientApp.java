@@ -31,7 +31,6 @@ public class ClientApp {
 			try {
 				return SearchQueryProcessor.solrsearch(searchTerm);
 			} catch (Exception e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 			return "";
