@@ -30,7 +30,6 @@ public class BrandHelper {
                 double[] spanProbs = extractor.findBrandProb(spans);
                 int counter = 0;
                 for (Span span : spans) {
-                    System.out.print("brand: ");
                     StringBuffer brand = new StringBuffer("");
                     for (int i = span.getStart(); i < span.getEnd(); i++) {
                     	brand.append(tokens[i]);

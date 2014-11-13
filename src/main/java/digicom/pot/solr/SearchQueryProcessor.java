@@ -26,6 +26,10 @@ import digicom.pot.solr.util.PriceHelper;
  */
 public class SearchQueryProcessor {
 
+	
+	private static OpenNLPUtil extractor = null; 
+	private static HttpSolrServer solr = new HttpSolrServer(
+			"http://localhost:8983/solr/nls");
 	/**
 	 * Move the main to test methods
 	 * @param args
@@ -83,8 +87,6 @@ public class SearchQueryProcessor {
 
 	public static String solrsearch(String queryString) throws IOException,
 			SolrServerException {
-		HttpSolrServer solr = new HttpSolrServer(
-				"http://localhost:8983/solr/nls");
 		SolrQuery query = new SolrQuery();
 		query.setStart(0);
 		query.set("defType", "edismax");
@@ -93,7 +95,9 @@ public class SearchQueryProcessor {
 			System.out.println("Query is empty");
 			return "";
 		}
-		OpenNLPUtil extractor = new OpenNLPUtil();
+		if(null == extractor) {
+			extractor = new OpenNLPUtil();
+		}
 		queryString = applyPriceFilter(queryString, extractor, query);
 		queryString = applyColorFilter(queryString, extractor, query);
 		queryString = applyBrandFilter(queryString, extractor, query);

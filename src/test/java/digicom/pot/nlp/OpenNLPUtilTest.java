@@ -19,8 +19,11 @@ import org.junit.Test;
 
 import digicom.pot.nlp.util.OpenNLPUtil;
 import digicom.pot.solr.util.BrandHelper;
+import digicom.pot.solr.util.ColorHelper;
+import digicom.pot.solr.util.PriceHelper;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -197,11 +200,20 @@ public class OpenNLPUtilTest {
     
     @Test
     public void testColorFinder() {
-        String document = "green Flyod tshirt under 20$";
+        //String document = "red Kitchen Towels.red Kitchen Towels under 15$.silver Platinum Pets – identifies silver as color and Platinum pets as brand.red Progear towel. red Progear towel under 18$.red CHEFS towel under 18$"";
+        String document = "red CHEFS towel under 18$";
+        
+        ColorHelper colorHelper = new ColorHelper();
+        List<String> respn = colorHelper.getColors(document, extractor);
+        System.out.println("BH : " + respn);
+        
         for (String sentence : extractor.segmentSentences(document)) {
-            System.out.println("sentence: " + sentence);
+            //System.out.println("sentence: " + sentence);
             String[] tokens = extractor.tokenizeSentence(sentence);
+            //System.out.println(" Tokens " + Arrays.asList(tokens));
             Span[] spans = extractor.findColor(tokens);
+            //System.out.println(" Span Size " + spans.length);
+
             for (Span span : spans) {
                 System.out.print("color: ");
                 for (int i = span.getStart(); i < span.getEnd(); i++) {
@@ -217,8 +229,10 @@ public class OpenNLPUtilTest {
     
     @Test
     public void testBrandFinder() {
-        String document = "CHEFS red towel";
+        //String document = "CHEFS red towel";
+        String document = "Tops"; // "U Tops"; Brand // U White Tops - Brand + Color
         
+
         BrandHelper bhelper = new BrandHelper();
         List<String> respn = bhelper.getBrands(document, extractor);
         System.out.println("BH : " + respn);
@@ -240,6 +254,41 @@ public class OpenNLPUtilTest {
         }
     }
     
+    
+    @Test
+    public void testFilters() {
+    	List<String> queryList = new ArrayList<String>();
+    	queryList.add("Dickies blue pant");
+    	queryList.add("red Kitchen Towels");
+    	queryList.add("red Kitchen Towels under 15$");
+    	queryList.add("silver Platinum Pets toys");
+    	queryList.add("red Progear towel");
+    	queryList.add("red Progear towel under 18$");
+    	queryList.add("red CHEFS towel under 18$");
+    	queryList.add("U Tops");
+    	queryList.add("U white Tops");
+    	queryList.add("U red Tops under 10$");
+    	queryList.add("U pink Tops less than 10$");
+    	queryList.add("U pink Tops less than 10  usd");
+    	/*queryList.add("");
+    	queryList.add("");
+    	queryList.add("");
+    	queryList.add("");
+    	queryList.add("");
+    	queryList.add("");
+    	queryList.add("");*/
+    	
+    	ColorHelper colorHelper = new ColorHelper();
+        BrandHelper bhelper = new BrandHelper();
+        PriceHelper pricehelper = new PriceHelper();
+        for (String document : queryList) {
+            System.out.println("Colors : " + colorHelper.getColors(document, extractor));
+            System.out.println("Brand : " + bhelper.getBrands(document, extractor));
+            System.out.println("Price : " + pricehelper.parseString(document, extractor));
+            System.out.println("=================================================");
+		}
+    	
+    }
     
     public String posValue(String k) {
     	String value = k;
