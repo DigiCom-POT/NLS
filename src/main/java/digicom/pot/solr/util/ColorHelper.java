@@ -30,7 +30,7 @@ public class ColorHelper {
 	                double[] spanProbs = extractor.findColorProb(spans);
 	                int counter = 0;
 	                for (Span span : spans) {
-	                    System.out.print("color: ");
+	                    System.out.print("color span: ");
 	                    StringBuffer color = new StringBuffer("");
 	                    for (int i = span.getStart(); i < span.getEnd(); i++) {
 	                    	color.append(tokens[i]);
@@ -41,7 +41,7 @@ public class ColorHelper {
 	                        }
 	                    }
 	                    System.out.println("Probability is: "+spanProbs[counter]);
-	                    if(spanProbs[counter] > 0.5 && !color.equals("")) {
+	                    if(spanProbs[counter] > 0.8 && !color.equals("")) {
 	                    	resultArr.add(color.toString().trim());
 	                    }
 	                    counter++;

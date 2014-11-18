@@ -24,12 +24,13 @@ public class BrandHelper {
 
     	for(String doc : docArray) {
     		for (String sentence : extractor.segmentSentences(doc)) {
-    			System.out.println("Sentences -"+ doc);
+    			//System.out.println("Sentences -"+ doc);
                 String[] tokens = extractor.tokenizeSentence(sentence);
                 Span[] spans = extractor.findBrand(tokens);
                 double[] spanProbs = extractor.findBrandProb(spans);
                 int counter = 0;
                 for (Span span : spans) {
+                	System.out.println("brand span:");
                     StringBuffer brand = new StringBuffer("");
                     for (int i = span.getStart(); i < span.getEnd(); i++) {
                     	brand.append(tokens[i]);

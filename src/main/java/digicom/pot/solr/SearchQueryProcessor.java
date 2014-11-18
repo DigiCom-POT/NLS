@@ -44,12 +44,12 @@ public class SearchQueryProcessor {
 	public static String applyBrandFilter(String queryString,
 			OpenNLPUtil extractor, SolrQuery query) {
 		BrandHelper brandHelper = new BrandHelper();
-		System.out.println("Applying brand Filters");
 		List<String> brands = brandHelper.getBrands(queryString, extractor);
+		System.out.println("Brand:" + brands );
 		if (null != brands && !brands.isEmpty()) {
 			// From filter query changing to boost query as it is making it mandatory
 			//query.addFilterQuery("P_Brand:" + brands.get(0));
-			query.set("bq", query.get("bq"), "P_Brand:" + brands.get(0) + "^100");
+			query.set("bq", query.get("bq"), "P_Brand:" + brands.get(0) + "^50");
 		}
 		return queryString;
 	}
@@ -58,10 +58,11 @@ public class SearchQueryProcessor {
 			OpenNLPUtil extractor, SolrQuery query) {
 		ColorHelper colorhelper = new ColorHelper();
 		List<String> colors = colorhelper.getColors(queryString, extractor);
+		System.out.println("Colors:" + colors);
 		if (null != colors && !colors.isEmpty()) {
 			// From filter query changing to boost query as it is making it mandatory			
-			//query.addFilterQuery("P_Color:" + colors.get(0));
-			query.set("bq", "P_Color:" + colors.get(0) + "^100");
+			query.addFilterQuery("P_Color:" + colors.get(0));
+			//query.set("bq", "P_Color:" + colors.get(0) + "^20");
 			//String newQueryString = queryString.replace(colors.get(0), "");
 			//return newQueryString;
 		}
@@ -72,11 +73,9 @@ public class SearchQueryProcessor {
 			OpenNLPUtil extractor, SolrQuery query) {
 		String updateQSTR = queryString;
 		PriceHelper pricehelper = new PriceHelper();
-		System.out.println(" Applying Price Helper to find price in query");
 		Map<String, String> price = pricehelper.parseString(updateQSTR,
 				extractor);
-		System.out.println(" Got Value :: " + price);
-
+		System.out.println("Price Filter:" + price );
 		if (null != price.get("filter")) {
 			updateQSTR = price.get("query");
 			query.addFilterQuery("P_OfferPrice:" + price.get("filter"));
@@ -98,9 +97,9 @@ public class SearchQueryProcessor {
 		if(null == extractor) {
 			extractor = new OpenNLPUtil();
 		}
+		applyColorFilter(queryString, extractor, query);
+		applyBrandFilter(queryString, extractor, query);
 		queryString = applyPriceFilter(queryString, extractor, query);
-		queryString = applyColorFilter(queryString, extractor, query);
-		queryString = applyBrandFilter(queryString, extractor, query);
 		query.setQuery(queryString);
 
 		System.out.println("After Query  :: " + query);

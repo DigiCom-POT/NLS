@@ -284,16 +284,17 @@ public class OpenNLPUtilTest {
         
         SearchQueryProcessor sqp = new SearchQueryProcessor();
         SolrQuery query = new SolrQuery();
-        
+        String queryString = null;
         for (String document : queryList) {
             System.out.println("=================================================");
-            System.out.println("Colors : " + colorHelper.getColors(document, extractor));
+            /*System.out.println("Colors : " + colorHelper.getColors(document, extractor));
             System.out.println("Brand : " + bhelper.getBrands(document, extractor));
-            System.out.println("Price : " + pricehelper.parseString(document, extractor));
-           /* System.out.println("Colors : " + sqp.applyColorFilter(document, extractor, query));
-            System.out.println("Brand : " + sqp.applyBrandFilter(document, extractor, query));
-            System.out.println("Price : " + sqp.applyPriceFilter(document, extractor, query));
-            System.out.println(query);*/
+            System.out.println("Price : " + pricehelper.parseString(document, extractor));*/
+            sqp.applyColorFilter(document, extractor, query);
+            sqp.applyBrandFilter(document, extractor, query);
+            queryString = sqp.applyPriceFilter(document, extractor, query);
+            query.setQuery(queryString);
+            System.out.println(query);
             
             
 		}
