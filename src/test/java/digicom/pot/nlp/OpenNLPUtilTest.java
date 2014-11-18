@@ -15,9 +15,11 @@ package digicom.pot.nlp;
 
 import opennlp.tools.util.Span;
 
+import org.apache.solr.client.solrj.SolrQuery;
 import org.junit.Test;
 
 import digicom.pot.nlp.util.OpenNLPUtil;
+import digicom.pot.solr.SearchQueryProcessor;
 import digicom.pot.solr.util.BrandHelper;
 import digicom.pot.solr.util.ColorHelper;
 import digicom.pot.solr.util.PriceHelper;
@@ -258,34 +260,42 @@ public class OpenNLPUtilTest {
     @Test
     public void testFilters() {
     	List<String> queryList = new ArrayList<String>();
-    	queryList.add("Dickies blue pant");
-    	queryList.add("red Kitchen Towels");
-    	queryList.add("red Kitchen Towels under 15$");
-    	queryList.add("silver Platinum Pets toys");
-    	queryList.add("red Progear towel");
-    	queryList.add("red Progear towel under 18$");
-    	queryList.add("red CHEFS towel under 18$");
+    	queryList.add("CHEFS knife set");
+    	queryList.add("CHEFS kitchen towels");
+    	queryList.add("CHEFS red bath towels");
+    	queryList.add("bowl set CHEFS 6 pcs");
     	queryList.add("U Tops");
     	queryList.add("U white Tops");
     	queryList.add("U red Tops under 10$");
     	queryList.add("U pink Tops less than 10$");
     	queryList.add("U pink Tops less than 10  usd");
-    	/*queryList.add("");
-    	queryList.add("");
-    	queryList.add("");
-    	queryList.add("");
-    	queryList.add("");
-    	queryList.add("");
-    	queryList.add("");*/
+    	queryList.add("red Kitchen Towels");
+    	queryList.add("red Kitchen Towels under 15$");
+    	queryList.add("silver Platinum Pets toys");
+    	queryList.add("red Progear towel");
+    	queryList.add("red Progear towel under 18$");
+    	queryList.add("Dickies blue pant");
+    	queryList.add("Dickies kids clothes");
+    	queryList.add("black Dickies thermal inner");
     	
     	ColorHelper colorHelper = new ColorHelper();
         BrandHelper bhelper = new BrandHelper();
         PriceHelper pricehelper = new PriceHelper();
+        
+        SearchQueryProcessor sqp = new SearchQueryProcessor();
+        SolrQuery query = new SolrQuery();
+        
         for (String document : queryList) {
+            System.out.println("=================================================");
             System.out.println("Colors : " + colorHelper.getColors(document, extractor));
             System.out.println("Brand : " + bhelper.getBrands(document, extractor));
             System.out.println("Price : " + pricehelper.parseString(document, extractor));
-            System.out.println("=================================================");
+           /* System.out.println("Colors : " + sqp.applyColorFilter(document, extractor, query));
+            System.out.println("Brand : " + sqp.applyBrandFilter(document, extractor, query));
+            System.out.println("Price : " + sqp.applyPriceFilter(document, extractor, query));
+            System.out.println(query);*/
+            
+            
 		}
     	
     }
