@@ -277,7 +277,8 @@ public class OpenNLPUtilTest {
     	queryList.add("Dickies blue pant");
     	queryList.add("Dickies kids clothes");
     	queryList.add("black Dickies thermal inner");
-    	
+    	queryList.add("Onyx U sweater");
+    	queryList.add("Onyx sweater");
     	ColorHelper colorHelper = new ColorHelper();
         BrandHelper bhelper = new BrandHelper();
         PriceHelper pricehelper = new PriceHelper();

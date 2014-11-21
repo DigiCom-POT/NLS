@@ -1,3 +1,6 @@
+bowl set <START:brand> CHEFS <END> 6 pcs
+kitchen set <START:brand> CHEFS <END> 6 pcs
+Cutlery set <START:brand> CHEFS <END> 6 pcs
 <START:brand> CHEFS <END> is a good clothing brand.
 <START:brand> CHEFS <END> towels are famous.
 kids like <START:brand> CHEFS <END>.
@@ -14,31 +17,31 @@ Kitchen accessories are famous from <START:brand> CHEFS  <END>brands.
 Tops from <START:brand> U <END> are beautiful.
 <START:brand> U <END> Tops comes in all range.
 <START:brand> U <END> is a good clothing brand.
+<START:brand> Levis <END> is a clothing brand.
+<START:brand> Levis <END> provides a wide range of clothing and accessories.
+<START:brand> Levis <END> has been making quality workwear and apparel since 1922. 
+All <START:brand> Levis <END> clothing offers superior craftsmanship to deliver style and comfort every day.
+Pant from <START:brand> Levis <END> are famous for its thermal ware as well.
+<START:brand> Levis <END> blue pants.
+<START:brand> Levis <END> thermal wear
+<START:brand> Levis <END> pants comes in all range.
+<START:brand> Levis <END> thermals are very good
+<START:brand> Levis <END> provides range for kids as well.	
+Trending sports wear from <START:brand> ProGear <END>  .
+<START:brand> ProGear <END> sports outfit is cool stuff.
+<START:brand> ProGear <END>  gears are so famous.
 <START:brand> Pepsi <END>  is drinking brand.
 Soft drink from <START:brand> Pepsi <END>  is very good.
 <START:brand> Pepsi <END>  comes in many variants.
-<START:brand> ProGear <END>  sports outfit is cool stuff.
-<START:brand> Dickies <END> is a clothing brand.
-<START:brand> Dickies <END> provides a wide range of clothing and accessories.
-<START:brand> Dickies <END> has been making quality workwear and apparel since 1922. 
-All <START:brand> Dickies <END> clothing offers superior craftsmanship to deliver style and comfort every day.
-Pant from <START:brand> Dickies <END> are famous for its thermal ware as well.
-<START:brand> Dickies <END> thermal wear
-<START:brand> Dickies <END> pants comes in all range.
-<START:brand> Dickies <END> thermals are very good
-<START:brand> Dickies <END> provides range for kids as well.	
-Trending sports wear from <START:brand> ProGear <END>  .
-<START:brand> ProGear <END>  gears are so famous.
 <START:brand> Exerpeutic <END>  is a brand.
 <START:brand> U-knit <END>
 <START:brand> Pepsi <END>
 <START:brand> Monster High <END>  are nothing to do with high.
 <START:brand> Platinum Pets <END>  are not talking about pets.
 Spiderman is like a  <START:brand> Batman <END> .
-<START:brand> ProGear <END>  sports outfit is cool stuff.
 <START:brand> Spiderman <END>
 <START:brand> Exerpeutic <END>
-<START:brand> Dickies <END>  is also a brand.
+<START:brand> Levis <END>  is also a brand.
 <START:brand> BuySeasons <END>
 <START:brand> Microsoft <END>
 <START:brand> Microsoft <END>  is own by Bill Gates.
@@ -141,4 +144,4 @@ Spiderman is like a  <START:brand> Batman <END> .
 <START:brand> Microsoft <END>
 <START:brand> Huggies Pull <END>
 <START:brand> SeeSpotSave <END>
-<START:brand> Dickies <END>
+<START:brand> Levis <END>
