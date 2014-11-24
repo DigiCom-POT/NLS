@@ -27,9 +27,13 @@ public class ClientApp {
 		get("/search", (request, response) -> {
 			response.header("Access-Control-Allow-Origin", "*");
 			String searchTerm = request.queryParams("searchTerm");
-			System.out.println("Request recieved " + searchTerm);
+			String flow = request.queryParams("flow");
+			if(null == flow) {
+				flow = "nlp";
+			}
+			System.out.println("Request recieved " + searchTerm + " Flow :" + flow);
 			try {
-				return SearchQueryProcessor.solrsearch(searchTerm);
+				return SearchQueryProcessor.solrsearch(searchTerm, flow);
 			} catch (Exception e) {
 				e.printStackTrace();
 			}

@@ -8,10 +8,10 @@ productControllers.controller('ProductListCtrl',  function($scope, $routeParams,
 
   var searchTerm=$routeParams.searchTerm;
   var flow=$routeParams.flow;
-  if (flow == null) {flow="A"; return;}
+  if (flow == null) {flow="nlp"; return;}
   if(searchTerm == null) {searchTerm="bag"; return;}          
 			
-  var searchUrl="http://localhost:4777/search?searchTerm="+searchTerm;
+  var searchUrl="http://localhost:4777/search?searchTerm="+searchTerm+"&flow="+flow;
   
  
   $http({method: 'GET', url: searchUrl}).

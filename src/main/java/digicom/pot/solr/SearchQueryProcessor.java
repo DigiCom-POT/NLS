@@ -84,22 +84,24 @@ public class SearchQueryProcessor {
 		return updateQSTR;
 	}
 
-	public static String solrsearch(String queryString) throws IOException,
+	public static String solrsearch(String queryString, String flow) throws IOException,
 			SolrServerException {
 		SolrQuery query = new SolrQuery();
 		query.setStart(0);
-		query.set("defType", "edismax");
-		System.out.println(" Query  :: " + query);
 		if(null == queryString) {
 			System.out.println("Query is empty");
 			return "";
 		}
-		if(null == extractor) {
-			extractor = new OpenNLPUtil();
+
+		if(!flow.equals("old")) {
+			query.set("defType", "edismax");
+			if(null == extractor) {
+				extractor = new OpenNLPUtil();
+			}
+			applyColorFilter(queryString, extractor, query);
+			applyBrandFilter(queryString, extractor, query);
+			queryString = applyPriceFilter(queryString, extractor, query);
 		}
-		applyColorFilter(queryString, extractor, query);
-		applyBrandFilter(queryString, extractor, query);
-		queryString = applyPriceFilter(queryString, extractor, query);
 		query.setQuery(queryString);
 
 		System.out.println("After Query  :: " + query);
