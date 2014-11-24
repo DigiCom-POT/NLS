@@ -41,7 +41,7 @@ public class ColorHelper {
 	                        }
 	                    }
 	                    System.out.println("Probability is: "+spanProbs[counter]);
-	                    if(spanProbs[counter] > 0.8 && !color.equals("")) {
+	                    if(spanProbs[counter] > 0.75 && !color.equals("")) {
 	                    	resultArr.add(color.toString().trim());
 	                    }
 	                    counter++;
