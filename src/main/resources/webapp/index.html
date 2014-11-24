@@ -2,7 +2,7 @@
 <html lang="en" ng-app="listingApp">
 <head>
   <meta charset="utf-8">
-  <title>Xi 2014 Demo App</title>
+  <title>Open NLP- Solr</title>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
   <link rel="stylesheet" href="css/app.css">
@@ -22,14 +22,14 @@
 <body>
 
   <div id="header" class="clearfix">
-  	<div id="xiLogo" >
-    	<img src="opennlp.jpg" />
-    </div> 
+<!--   	<div id="xiLogo" > -->
+<!--     	<img src="opennlp.jpg" /> -->
+<!--     </div>  -->
     <div id="ProductListCtrlWrap" >
       	<div ng-controller="ProductListCtrl" id="ProductListCtrl">
 	        <label for"selectFlow">flow: </label>
 	        <select id="selectFlow" ng-model="flow" ng-selected="1">
-	          <option value="old">old</option>
+	          <option value="old">keyword</option>
 	          <option value="nlp">nlp</option>
 	        </select>
 	        <input type="text" size="30" ng-model="searchTerm" id="searchTerm" placeholder="type your search here ..." />

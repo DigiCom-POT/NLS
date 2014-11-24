@@ -38,12 +38,12 @@ body {
   background: #fff;
   border-radius: 3px;
   position: relative;
-  width: 400px;
+  width: 500px;
   margin: 0 auto;
 }
 #ProductListCtrl input, #ProductListCtrl select {
   margin: 0;
-  padding: 10px;
+  padding: 7px;
 }
 #ProductListCtrl label {
   font-weight: bold;
