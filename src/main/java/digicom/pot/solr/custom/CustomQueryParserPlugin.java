@@ -15,7 +15,7 @@ import org.apache.solr.search.QParserPlugin;
  */
 public class CustomQueryParserPlugin extends QParserPlugin {
 
-	public void init(NamedList nameList) {
+	public void init(@SuppressWarnings("rawtypes") NamedList nameList) {
 		//init(nameList);
 	}
 

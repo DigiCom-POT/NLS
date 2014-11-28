@@ -10,8 +10,8 @@ import java.util.Map;
 
 import opennlp.tools.util.Span;
 
-import org.apache.log4j.BasicConfigurator;
-import org.apache.solr.client.solrj.SolrServerException;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import digicom.pot.nlp.util.OpenNLPUtil;
 
@@ -21,35 +21,19 @@ import digicom.pot.nlp.util.OpenNLPUtil;
  */
 public class PriceHelper {
 
-	/**
-	 * @param args
-	 * @throws IOException 
-	 */
-	public static void main(String[] args) throws SolrServerException, IOException {
-		BasicConfigurator.configure();
-		PriceHelper pricehelper = new PriceHelper();
-		OpenNLPUtil util = new OpenNLPUtil();
-		System.out.println("Result value : " + pricehelper.parseString("Camera under 10$",util));
-		System.out.println("Result value : " + pricehelper.parseString("Camera above 10$",util));
-		System.out.println("Result value : "
-				+ pricehelper.parseString("red tshirt less than 20$",util));
-		System.out.println("Result value : "
-				+ pricehelper.parseString("toys price more than 20$",util));
-		System.out.println("Result value : "
-				+ pricehelper.parseString("Camera with good battery life",util));
+	Logger logger = LoggerFactory.getLogger(PriceHelper.class);
 
-	}
-
-	public Map<String, String> parseString(String queryString, OpenNLPUtil extractor) {
+	public Map<String, String> parseString(String queryString,
+			OpenNLPUtil extractor) {
 		Map<String, String> priceQueryParser = new HashMap<String, String>();
 		priceQueryParser.put("query", queryString);
 		try {
 			String money = hasMoney(queryString, extractor);
 			if (null != money) {
-				//String num = getNumber(money);
-				//System.out.println(" NUM " +  num);
-				String filter = getqueryString(queryString, money, false, extractor);
-				String query = getqueryString(queryString, money, true, extractor);
+				String filter = getqueryString(queryString, money, false,
+						extractor);
+				String query = getqueryString(queryString, money, true,
+						extractor);
 				priceQueryParser.put("query", query);
 				priceQueryParser.put("filter", getNumber(filter));
 				return priceQueryParser;
@@ -60,7 +44,8 @@ public class PriceHelper {
 		return priceQueryParser;
 	}
 
-	private static String getqueryString(String queryString, String price,	boolean flag, OpenNLPUtil extractor) throws IOException {
+	private String getqueryString(String queryString, String price,
+			boolean flag, OpenNLPUtil extractor) throws IOException {
 		String[] tokens = extractor.tokenizeSentence(queryString);
 		int moneyPos = 0;
 
@@ -84,7 +69,6 @@ public class PriceHelper {
 				}
 			}
 
-			// System.out.println("prev value :" + prevValue);
 			switch (prevValue) {
 			case "under":
 			case "less than":
@@ -99,16 +83,22 @@ public class PriceHelper {
 		return queryString;
 	}
 
-	private static String createQueryString(int j, String[] tokens) {
+	private String createQueryString(int j, String[] tokens) {
 		StringBuffer buffer = new StringBuffer();
 		for (int i = 0; i < j; i++) {
 			buffer.append(tokens[i]).append(" ");
 		}
-
 		return buffer.toString();
 	}
 
-	private static String getNumber(String money) throws ParseException {
+	/**
+	 * Replace the current with empty string in query string
+	 * 
+	 * @param money
+	 * @return
+	 * @throws ParseException
+	 */
+	private String getNumber(String money) throws ParseException {
 		money = money.replace("$", "");
 		money = money.replace(" usd ", "");
 		return money;
@@ -121,7 +111,8 @@ public class PriceHelper {
 	 * @return
 	 * @throws IOException
 	 */
-	private String hasMoney(String queryString, OpenNLPUtil extractor) throws IOException {
+	private String hasMoney(String queryString, OpenNLPUtil extractor)
+			throws IOException {
 		for (String sentence : extractor.segmentSentences(queryString)) {
 			String[] tokens = extractor.tokenizeSentence(sentence);
 			Span[] spans = extractor.findMoney(tokens);

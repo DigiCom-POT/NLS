@@ -92,7 +92,6 @@ public class Item {
 
 	@Override
 	public String toString() {
-		// TODO Auto-generated method stub
 		return this.getId() + "--" + this.getCategories() + "--" + this.getFeatures();
 	}
 	
