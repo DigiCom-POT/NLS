@@ -117,11 +117,15 @@ public class OpenNLPUtil {
 	}
 
 	public Span[] findNames(String[] tokens) {
-		return nameFinder.find(tokens);
+		Span[] response = nameFinder.find(tokens);
+		nameFinder.clearAdaptiveData();
+		return response;
 	}
 
 	public Span[] findColor(String[] tokens) {
-		return colorFinder.find(tokens);
+		Span[] response =  colorFinder.find(tokens);
+		colorFinder.clearAdaptiveData();
+		return response;
 	}
 
 	public double[] findColorProb(Span[] spans) {
@@ -129,7 +133,9 @@ public class OpenNLPUtil {
 	}
 
 	public Span[] findBrand(String[] tokens) {
-		return brandFinder.find(tokens);
+		Span[] response =  brandFinder.find(tokens);
+		brandFinder.clearAdaptiveData();
+		return response;
 	}
 
 	public double[] findBrandProb(Span[] spans) {
@@ -137,7 +143,9 @@ public class OpenNLPUtil {
 	}
 
 	public Span[] findMoney(String[] tokens) {
-		return moneyFinder.find(tokens);
+		Span[] response =  moneyFinder.find(tokens);
+		moneyFinder.clearAdaptiveData();
+		return response;
 	}
 
 	public double[] findMoneyProb(Span[] spans) {

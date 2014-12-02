@@ -1,533 +1,574 @@
 sweatshirt <START:color> green <END> color are trending
-<START:color> green <END>sweater
-<START:color> green <END>U sweatshirt
-<START:color> green <END>U Sweater
-<START:color> red <END>tshirts are famous among boys
-lee <START:color> red <END>pant
-Elle <START:color> red <END>Tops
-Ed hardy <START:color> red <END>Tops less than 10$
-<START:color> red <END>bombay dying towel
+<START:color> green <END> sweater
+<START:color> green <END> U sweatshirt
+<START:color> green <END> U Sweater
+<START:color> red <END> tshirts are famous among boys
+lee <START:color> red <END> pant
+Elle <START:color> red <END> Tops
+Ed hardy <START:color> red <END> Tops less than 10$
+<START:color> red <END> bombay dying towel
 <START:color> red <END> Barbie set
-<START:color> blue <END>tshirts are famous among boys
-lee <START:color> blue <END>pant
-Elle <START:color> blue <END>Tops
-Ed hardy <START:color> blue <END>Tops less than 10$
-<START:color> blue <END>bombay dying towel
+
+<START:color> blue <END> tshirts are famous among boys
+lee <START:color> blue <END> pant
+Elle <START:color> blue <END> Tops
+Ed hardy <START:color> blue <END> Tops less than 10$
+<START:color> blue <END> bombay dying towel
 <START:color> blue <END> Barbie set
-<START:color> brown <END>tshirts are famous among boys
-lee <START:color> brown <END>pant
-Elle <START:color> brown <END>Tops
-Ed hardy <START:color> brown <END>Tops less than 10$
-<START:color> brown <END>bombay dying towel
+<START:color> brown <END> tshirts are famous among boys
+lee <START:color> brown <END> pant
+Elle <START:color> brown <END> Tops
+
+Ed hardy <START:color> brown <END> Tops less than 10$
+<START:color> brown <END> bombay dying towel
 <START:color> red <END> Barbie set
-<START:color> pink <END>tshirts are famous among boys
-lee <START:color> pink <END>pant
-Elle <START:color> pink <END>Tops
-Ed hardy <START:color> pink <END>Tops less than 10$
-<START:color> pink <END>bombay dying towel
+<START:color> pink <END> tshirts are famous among boys
+lee <START:color> pink <END> pant
+Elle <START:color> pink <END> Tops
+Ed hardy <START:color> pink <END> Tops less than 10$
+<START:color> pink <END> bombay dying towel
 <START:color> pink <END> Barbie set
-<START:color> white <END>tshirts are famous among boys
-lee <START:color> white <END>pant
-Elle <START:color> white <END>Tops
-Ed hardy <START:color> white <END>Tops less than 10$
-<START:color> white <END>bombay dying towel
+
+<START:color> white <END> tshirts are famous among boys
+lee <START:color> white <END> pant
+Elle <START:color> white <END> Tops
+Ed hardy <START:color> white <END> Tops less than 10$
+<START:color> white <END> bombay dying towel
 <START:color> white <END> Barbie set
 <START:color> black <END> shoes are for office.
-titanium  <START:color> yellow <END>
-atomic  <START:color> tangerine <END>
-desert  <START:color> sand <END>
-<START:color> pink <END>  lace
-spanish  <START:color> sky blue <END>
+titanium <START:color> yellow <END>
+
+atomic <START:color> tangerine <END>
+desert <START:color> sand <END>
+<START:color> pink <END> lace
+spanish <START:color> sky blue <END>
 <START:color> baby blue <END>
-blanched  <START:color> almond <END>
-brunswick  <START:color> green <END>
+blanched <START:color> almond <END>
+brunswick <START:color> green <END>
 <START:color> space cadet <END>
 <START:color> vivid red <END>
-rich  <START:color> lilac <END>
+rich <START:color> lilac <END>
+
 <START:color> lavender gray <END>
 <START:color> pistachio <END>
 <START:color> stil de grain yellow <END>
-dark  <START:color> green <END>
+dark <START:color> green <END>
 <START:color> vivid yellow <END>
-I like  <START:color> black <END>  car.
+I like <START:color> black <END> car.
 <START:color> red <END> -violet
-dark slate  <START:color> blue <END>
-medium  <START:color> candy apple red <END>
+dark slate <START:color> blue <END>
+medium <START:color> candy apple red <END>
 <START:color> carnation pink <END>
 <START:color> cadet grey <END>
 <START:color> han purple <END>
-vivid  <START:color> orange <END>
+vivid <START:color> orange <END>
+
 <START:color> orchid <END>
 <START:color> grizzly <END>
 <START:color> red <END> -brown
 dark blue- <START:color> gray <END>
 <START:color> selective yellow <END>
 <START:color> drab <END>
-vivid  <START:color> gamboge <END>
-<START:color> blue <END>  bell
-office  <START:color> green <END>
-pink  <START:color> pearl <END>
-electric  <START:color> cyan <END>
-deep  <START:color> sky blue <END>
+vivid <START:color> gamboge <END>
+<START:color> blue <END> bell
+office <START:color> green <END>
+pink <START:color> pearl <END>
+electric <START:color> cyan <END>
+deep <START:color> sky blue <END>
 <START:color> deep fuchsia <END>
 <START:color> iris <END>
+
 <START:color> sky magenta <END>
 <START:color> bud green <END>
 <START:color> little boy blue <END>
-blast-off  <START:color> bronze <END>
-<START:color> turquoise <END>  blue
-<START:color> cerulean <END>  frost
-picton  <START:color> blue <END>
+blast-off <START:color> bronze <END>
+<START:color> turquoise <END> blue
+<START:color> cerulean <END> frost
+picton <START:color> blue <END>
 <START:color> laser lemon <END>
-brick  <START:color> red <END>
+brick <START:color> red <END>
 <START:color> orange peel <END>
+
 dande <START:color> lion <END>
-space  <START:color> cadet <END>
-deep green- <START:color> cyan <END>  turquoise
+space <START:color> cadet <END>
+deep green- <START:color> cyan <END> turquoise
 <START:color> soap <END>
 <START:color> silver pink <END>
 <START:color> viridian <END>
 <START:color> dark electric blue <END>
-vivid  <START:color> crimson <END>
+vivid <START:color> crimson <END>
 <START:color> french pink <END>
 <START:color> old heliotrope <END>
 <START:color> papaya whip <END>
-<START:color> cherry <END>  blossom pink
+<START:color> cherry <END> blossom pink
 <START:color> corn <END> silk
-dark slate  <START:color> gray <END>
+
+dark slate <START:color> gray <END>
 s <START:color> kobe <END> loff
-dark  <START:color> tan <END> gerine
+dark <START:color> tan <END> gerine
 <START:color> gray <END> -blue
-french  <START:color> raspberry <END>
-go  <START:color> green <END>
-quinacridone  <START:color> magenta <END>
+french <START:color> raspberry <END>
+go <START:color> green <END>
+quinacridone <START:color> magenta <END>
 <START:color> chrome yellow <END>
-<START:color> celadon <END>  blue
+<START:color> celadon <END> blue
 <START:color> deep champagne <END>
 <START:color> teal blue <END>
 <START:color> silver <END>
-north texas  <START:color> green <END>
+north texas <START:color> green <END>
+
 pale red- <START:color> violet <END>
 <START:color> halay? ?be <END>
 <START:color> green <END> -blue
 <START:color> orange-red <END>
-pale  <START:color> plum <END>
+pale <START:color> plum <END>
 <START:color> lemon chiffon <END>
 <START:color> nyanza <END>
-american  <START:color> rose <END>
-pale  <START:color> cornflower blue <END>
+american <START:color> rose <END>
+pale <START:color> cornflower blue <END>
 <START:color> spanish pink <END>
 <START:color> pale silver <END>
 <START:color> wheat <END>
-light  <START:color> yellow <END>
+light <START:color> yellow <END>
 <START:color> moonstone blue <END>
-laser  <START:color> lemon <END>
+
+laser <START:color> lemon <END>
 <START:color> silver sand <END>
 <START:color> dark cyan <END>
-medium slate  <START:color> blue <END>
-liver  <START:color> chestnut <END>
+medium slate <START:color> blue <END>
+liver <START:color> chestnut <END>
 <START:color> medium jungle green <END>
 <START:color> razzmic berry <END>
 <START:color> arsenic <END>
-lavender  <START:color> indigo <END>
-<START:color> slate <END>  blue
+lavender <START:color> indigo <END>
+<START:color> slate <END> blue
 <START:color> midnight blue <END>
 <START:color> french lime <END>
 <START:color> vivid amber <END>
 <START:color> chinese violet <END>
+
 <START:color> salmon pink <END>
 <START:color> tyrian purple <END>
 <START:color> deep red <END>
 <START:color> periwinkle <END>
-baby  <START:color> blue <END>  eyes
+baby <START:color> blue <END> eyes
 <START:color> dark vanilla <END>
-japanese  <START:color> carmine <END>
+japanese <START:color> carmine <END>
 <START:color> flamingo pink <END>
-ruby  <START:color> red <END>
+ruby <START:color> red <END>
 <START:color> raspberry glace <END>
 <START:color> french rose <END>
 <START:color> pear <END>
 <START:color> laurel green <END>
 <START:color> magnolia <END>
-dark  <START:color> sea green <END>
+
+dark <START:color> sea green <END>
 <START:color> asparagus <END>
 <START:color> pale violet <END> -red
 <START:color> fallow <END>
-lavender  <START:color> blue <END>
+lavender <START:color> blue <END>
 <START:color> banana yellow <END>
 pale magenta- <START:color> pink <END>
 <START:color> baker-miller pink <END>
 <START:color> chamoisee <END>
+
 <START:color> burnt umber <END>
-french  <START:color> blue <END>
+french <START:color> blue <END>
 <START:color> deep coffee <END>
-dark olive  <START:color> green <END>
+dark olive <START:color> green <END>
 <START:color> medium ruby <END>
 <START:color> licorice <END>
 <START:color> office green <END>
-smoky  <START:color> black <END>
+smoky <START:color> black <END>
 <START:color> medium purple <END>
-<START:color> tuscan <END>  brown
-rose  <START:color> ebony <END>
+<START:color> tuscan <END> brown
+rose <START:color> ebony <END>
 <START:color> tuscan red <END>
 <START:color> pale chestnut <END>
-deep  <START:color> champagne <END>
+deep <START:color> champagne <END>
 <START:color> medium slate blue <END>
-old  <START:color> rose <END>
+
+old <START:color> rose <END>
 <START:color> pale red-violet <END>
-mikado  <START:color> yellow <END>
-outrageous  <START:color> orange <END>
+mikado <START:color> yellow <END>
+outrageous <START:color> orange <END>
 medium vermi <START:color> lion <END>
 <START:color> lust <END>
-fuchsia  <START:color> rose <END>
+fuchsia <START:color> rose <END>
 <START:color> dark chestnut <END>
-<START:color> light salmon <END>  pink
-acid  <START:color> green <END>
-paolo veronese  <START:color> green <END>
-desaturated  <START:color> cyan <END>
-pictorial  <START:color> carmine <END>
+<START:color> light salmon <END> pink
+acid <START:color> green <END>
+paolo veronese <START:color> green <END>
+desaturated <START:color> cyan <END>
+pictorial <START:color> carmine <END>
 <START:color> persian plum <END>
-light  <START:color> cyan <END>
+
+light <START:color> cyan <END>
 <START:color> rocket metallic <END>
 <START:color> antique ruby <END>
 <START:color> thulian pink <END>
-steel  <START:color> pink <END>
-medium electric  <START:color> blue <END>
+steel <START:color> pink <END>
+medium electric <START:color> blue <END>
 <START:color> deep carrot orange <END>
 <START:color> cg blue <END>
-majorelle  <START:color> blue <END>
+majorelle <START:color> blue <END>
 <START:color> black leather jacket <END>
 <START:color> light pastel purple <END>
 <START:color> university of california gold <END>
-rich  <START:color> black <END>
+
+rich <START:color> black <END>
 <START:color> magenta-pink <END>
 <START:color> ultra pink <END>
-spanish  <START:color> green <END>
-bright  <START:color> cerulean <END>
-light  <START:color> carmine <END>  pink
-light  <START:color> gray <END> ish magenta
-lavender  <START:color> gray <END>
+spanish <START:color> green <END>
+bright <START:color> cerulean <END>
+light <START:color> carmine <END> pink
+light <START:color> gray <END> ish magenta
+lavender <START:color> gray <END>
 <START:color> yellow <END> -green
-celadon  <START:color> green <END>
+celadon <START:color> green <END>
 <START:color> urobilin <END>
-dark  <START:color> turquoise <END>
-medium sky  <START:color> blue <END>
-deep  <START:color> jungle green <END>
+dark <START:color> turquoise <END>
+medium sky <START:color> blue <END>
+deep <START:color> jungle green <END>
+
 <START:color> deep koamaru <END>
 <START:color> very pale orange <END>
-<START:color> big <END>  dip o?ruby
-<START:color> rose <END>  vale
-cornell  <START:color> red <END>
-medium  <START:color> lavender magenta <END>
+<START:color> big <END> dip o?ruby
+<START:color> rose <END> vale
+cornell <START:color> red <END>
+medium <START:color> lavender magenta <END>
 <START:color> medium turquoise <END>
 <START:color> aero blue <END>
 <START:color> rufous <END>
 <START:color> rose ebony <END>
 <START:color> spanish orange <END>
 <START:color> amaranth <END>
-dark  <START:color> pastel blue <END>
-<START:color> mauve <END>  taupe
+
+dark <START:color> pastel blue <END>
+<START:color> mauve <END> taupe
 <START:color> flame <END>
 <START:color> pale robin egg blue <END>
 <START:color> pink sherbet <END>
 <START:color> outer space <END>
-little boy  <START:color> blue <END>
-vivid  <START:color> orchid <END>
+little boy <START:color> blue <END>
+vivid <START:color> orchid <END>
 <START:color> mint cream <END>
 <START:color> old rose <END>
 <START:color> spanish viridian <END>
+
 <START:color> I <END> ndian flag consist of white.
-illuminating  <START:color> emerald <END>
+illuminating <START:color> emerald <END>
 <START:color> english violet <END>
-fern  <START:color> green <END>
+fern <START:color> green <END>
 <START:color> sheen green <END>
 <START:color> paris green <END>
 <START:color> tea green <END>
-<START:color> imperial <END>  purple
-dark  <START:color> salmon <END>
+<START:color> imperial <END> purple
+dark <START:color> salmon <END>
 <START:color> pale gold <END>
 <START:color> tractor red <END>
-tea  <START:color> green <END>
+
+tea <START:color> green <END>
 <START:color> pearly purple <END>
-rose  <START:color> taupe <END>
-<START:color> sapphire <END>  blue
+rose <START:color> taupe <END>
+<START:color> sapphire <END> blue
 <START:color> copper red <END>
 medium red- <START:color> violet <END>
-deep  <START:color> aquamarine <END>
-pale  <START:color> turquoise <END>
-queen  <START:color> pink <END>
+deep <START:color> aquamarine <END>
+pale <START:color> turquoise <END>
+queen <START:color> pink <END>
 <START:color> atomic tangerine <END>
 <START:color> antique brass <END>
+
 <START:color> russian violet <END>
-copper  <START:color> red <END>
+copper <START:color> red <END>
 <START:color> vivid violet <END>
-cool  <START:color> grey <END>
+cool <START:color> grey <END>
 <START:color> sand <END> y taupe
-sky  <START:color> magenta <END>
-medium  <START:color> persian blue <END>
+sky <START:color> magenta <END>
+medium <START:color> persian blue <END>
 <START:color> ash grey <END>
-purple  <START:color> taupe <END>
+
+purple <START:color> taupe <END>
 <START:color> japanese violet <END>
 <START:color> amber <END>
-eton  <START:color> blue <END>
-purple  <START:color> navy <END>
-ultramarine  <START:color> blue <END>
+eton <START:color> blue <END>
+purple <START:color> navy <END>
+ultramarine <START:color> blue <END>
 <START:color> bluebonnet <END>
 <START:color> ruddy pink <END>
 <START:color> desert <END>
+
 <START:color> cherry blossom pink <END>
-atomic  <START:color> tan <END> gerine
+atomic <START:color> tan <END> gerine
 <START:color> pastel violet <END>
 <START:color> glitter <END>
-guppie  <START:color> green <END>
-french  <START:color> rose <END>
+guppie <START:color> green <END>
+french <START:color> rose <END>
 <START:color> grape <END>
 <START:color> tango pink <END>
-rusty  <START:color> red <END>
-vista  <START:color> blue <END>
-spanish  <START:color> carmine <END>
-deep  <START:color> pink <END>
-light  <START:color> sea green <END>
+rusty <START:color> red <END>
+vista <START:color> blue <END>
+spanish <START:color> carmine <END>
+deep <START:color> pink <END>
+light <START:color> sea green <END>
+
 <START:color> payne's grey <END>
 <START:color> mardi gras <END>
 <START:color> cadmium orange <END>
 yellow- <START:color> green <END>
 <START:color> june bud <END>
-sacramento state  <START:color> green <END>
+sacramento state <START:color> green <END>
 <START:color> jelly bean <END>
 <START:color> dark lavender <END>
-castleton  <START:color> green <END>
+castleton <START:color> green <END>
 <START:color> earth yellow <END>
-mellow  <START:color> yellow <END>
-cameo  <START:color> pink <END>
+mellow <START:color> yellow <END>
+cameo <START:color> pink <END>
+
 <START:color> coral <END>
-light cornflower  <START:color> blue <END>
+light cornflower <START:color> blue <END>
 <START:color> sapphire blue <END>
 <START:color> cyan-blue azure <END>
-amaranth  <START:color> pink <END>
-<START:color> imperial <END>  red
+amaranth <START:color> pink <END>
+<START:color> imperial <END> red
 <START:color> green-blue <END>
 <START:color> deep puce <END>
 <START:color> light deep pink <END>
-dark spring  <START:color> green <END>
+dark spring <START:color> green <END>
 <START:color> royal fuchsia <END>
-congo  <START:color> pink <END>
+
+congo <START:color> pink <END>
 <START:color> fuchsia pink <END>
 <START:color> liver <END>
 <START:color> fluorescent orange <END>
 <START:color> flavescent <END>
 <START:color> jungle green <END>
-alizarin  <START:color> crimson <END>
+alizarin <START:color> crimson <END>
 <START:color> new car <END>
 <START:color> cg red <END>
 green- <START:color> blue <END>
 <START:color> dark sky blue <END>
-deep  <START:color> cerise <END>
-willpower  <START:color> orange <END>
+deep <START:color> cerise <END>
+
+willpower <START:color> orange <END>
 <START:color> ucla gold <END>
-pink  <START:color> pear <END> l
-antique  <START:color> brass <END>
+pink <START:color> pear <END> l
+antique <START:color> brass <END>
 <START:color> spanish gray <END>
 <START:color> wild strawberry <END>
 <START:color> ghost white <END>
-<START:color> lemon <END>  lime
+<START:color> lemon <END> lime
 <START:color> cedar chest <END>
 <START:color> medium spring green <END>
-<START:color> rose <END>  gold
+<START:color> rose <END> gold
 <START:color> burlywood <END>
-sea  <START:color> green <END>
+sea <START:color> green <END>
 <START:color> crimson red <END>
-cyan- <START:color> blue <END>  azure
+
+cyan- <START:color> blue <END> azure
 <START:color> ivory <END>
-myrtle  <START:color> green <END>
+myrtle <START:color> green <END>
 <START:color> zomp <END>
 <START:color> slate blue <END>
 <START:color> cerulean frost <END>
 <START:color> mountain meadow <END>
-raspberry  <START:color> rose <END>
+raspberry <START:color> rose <END>
 <START:color> lava <END>
 <START:color> may green <END>
 <START:color> cal poly green <END>
 <START:color> yankees blue <END>
-medium  <START:color> aquamarine <END>
-<START:color> cerise <END>  pink
+
+medium <START:color> aquamarine <END>
+<START:color> cerise <END> pink
 <START:color> gray-asparagus <END>
-antique  <START:color> white <END>
-orchid  <START:color> pink <END>
+antique <START:color> white <END>
+orchid <START:color> pink <END>
 <START:color> acid green <END>
-light  <START:color> salmon <END>  pink
+light <START:color> salmon <END> pink
 <START:color> quartz <END>
 <START:color> pear <END> l aqua
-<START:color> lemon <END>  chiffon
-bright  <START:color> green <END>
-kenyan  <START:color> copper <END>
-<START:color> olive <END>  drab #7
-very  <START:color> light blue <END>
-vivid  <START:color> malachite <END>
+<START:color> lemon <END> chiffon
+bright <START:color> green <END>
+kenyan <START:color> copper <END>
+<START:color> olive <END> drab #7
+very <START:color> light blue <END>
+
+vivid <START:color> malachite <END>
 <START:color> cool black <END>
-<START:color> lemon <END>  meringue
+<START:color> lemon <END> meringue
 <START:color> celestial blue <END>
 <START:color> cardinal <END>
 <START:color> ochre <END>
 <START:color> light steel blue <END>
 <START:color> st. patrick's blue <END>
-medium  <START:color> violet <END> -red
-pullman  <START:color> green <END>
+medium <START:color> violet <END> -red
+pullman <START:color> green <END>
 <START:color> cambridge blue <END>
-turkish  <START:color> rose <END>
+
+turkish <START:color> rose <END>
 <START:color> medium sea green <END>
 <START:color> sapphire <END>
-deep moss  <START:color> green <END>
+deep moss <START:color> green <END>
 <START:color> blast-off bronze <END>
 <START:color> tumbleweed <END>
 <START:color> fuchsia <END>
 <START:color> wine <END>
 <START:color> blue-green <END>
-dark  <START:color> electric blue <END>
-la salle  <START:color> green <END>
-<START:color> crimson <END>  red
-steel  <START:color> blue <END>
+dark <START:color> electric blue <END>
+la salle <START:color> green <END>
+<START:color> crimson <END> red
+
+steel <START:color> blue <END>
 <START:color> french blue <END>
 <START:color> cyan cornflower blue <END>
-magic  <START:color> mint <END>
+magic <START:color> mint <END>
 <START:color> diamond <END>
-alabama  <START:color> crimson <END>
-salmon  <START:color> pink <END>
-shamrock  <START:color> green <END>
-sandy  <START:color> taupe <END>
+alabama <START:color> crimson <END>
+salmon <START:color> pink <END>
+shamrock <START:color> green <END>
+sandy <START:color> taupe <END>
 <START:color> jasper <END>
 <START:color> heliotrope <END>
 <START:color> red <END> -orange
 <START:color> ecru <END>
-beau  <START:color> blue <END>
+
+beau <START:color> blue <END>
 <START:color> up forest green <END>
-copper  <START:color> rose <END>
-vivid  <START:color> tan <END> gelo
+copper <START:color> rose <END>
+vivid <START:color> tan <END> gelo
 <START:color> deep carmine pink <END>
-rich  <START:color> brilliant lavender <END>
-blue- <START:color> magenta <END>  violet
-turquoise  <START:color> green <END>
-<START:color> pink <END>  sherbet
+rich <START:color> brilliant lavender <END>
+blue- <START:color> magenta <END> violet
+turquoise <START:color> green <END>
+<START:color> pink <END> sherbet
 <START:color> french raspberry <END>
-blue-magenta  <START:color> violet <END>
-burnt  <START:color> orange <END>
-cyan  <START:color> corn <END> flower blue
+blue-magenta <START:color> violet <END>
+burnt <START:color> orange <END>
+cyan <START:color> corn <END> flower blue
+
 <START:color> seal brown <END>
-<START:color> teal <END>  deer
+<START:color> teal <END> deer
 <START:color> sepia <END>
-falu  <START:color> red <END>
-olive  <START:color> drab <END>  #7
+falu <START:color> red <END>
+olive <START:color> drab <END> #7
 <START:color> russet <END>
 <START:color> lavender pink <END>
-<START:color> deep carmine <END>  pink
+<START:color> deep carmine <END> pink
 <START:color> blue-violet <END>
-heliotrope  <START:color> gray <END>
-very pale  <START:color> orange <END>
+heliotrope <START:color> gray <END>
+very pale <START:color> orange <END>
+
 <START:color> blue <END>
 <START:color> golden brown <END>
-cornflower  <START:color> blue <END>
-air superiority  <START:color> blue <END>
-dark candy apple  <START:color> red <END>
+cornflower <START:color> blue <END>
+air superiority <START:color> blue <END>
+dark candy apple <START:color> red <END>
 <START:color> pale lavender <END>
-rose  <START:color> quartz <END>
-light steel  <START:color> blue <END>
+rose <START:color> quartz <END>
+light steel <START:color> blue <END>
 <START:color> medium champagne <END>
 <START:color> smoke <END>
 <START:color> pearl <END>
 <START:color> utah crimson <END>
 <START:color> silver lake blue <END>
-<START:color> cadet <END>  grey
-light  <START:color> gray <END>
+<START:color> cadet <END> grey
+light <START:color> gray <END>
 <START:color> medium tuscan red <END>
 <START:color> french wine <END>
-medium  <START:color> aqua <END> marine
+medium <START:color> aqua <END> marine
 <START:color> apricot <END>
 <START:color> dark olive green <END>
 <START:color> indian red <END>
-golden  <START:color> yellow <END>
-Indian flag consist of  <START:color> orange <END> .
+golden <START:color> yellow <END>
+
+Indian flag consist of <START:color> orange <END> .
 <START:color> violet-red <END>
 <START:color> deep jungle green <END>
-android  <START:color> green <END>
+android <START:color> green <END>
 <START:color> otter brown <END>
 <START:color> opera mauve <END>
-light  <START:color> coral <END>
+light <START:color> coral <END>
 <START:color> green-yellow <END>
-moonstone  <START:color> blue <END>
-dark  <START:color> coral <END>
-medium  <START:color> taupe <END>
+moonstone <START:color> blue <END>
+dark <START:color> coral <END>
+medium <START:color> taupe <END>
 <START:color> puce <END>
 <START:color> pink raspberry <END>
-dark sky  <START:color> blue <END>
-deep  <START:color> chestnut <END>
-cherry blossom  <START:color> pink <END>
+dark sky <START:color> blue <END>
+deep <START:color> chestnut <END>
+cherry blossom <START:color> pink <END>
 <START:color> blond <END>
 <START:color> medium taupe <END>
+
 <START:color> gold fusion <END>
 s <START:color> cream <END> in' green
-<START:color> carmine <END>  pink
+<START:color> carmine <END> pink
 <START:color> lincoln green <END>
-light  <START:color> fuchsia <END>  pink
-dark  <START:color> goldenrod <END>
-<START:color> raspberry <END>  glace
+light <START:color> fuchsia <END> pink
+dark <START:color> goldenrod <END>
+<START:color> raspberry <END> glace
 <START:color> fuchsia purple <END>
-<START:color> yellow <END>  rose
+<START:color> yellow <END> rose
 <START:color> teal green <END>
 <START:color> lavender blue <END>
-resolution  <START:color> blue <END>
+resolution <START:color> blue <END>
 <START:color> upsdell red <END>
 <START:color> dollar bill <END>
 <START:color> corn <END>
 <START:color> beige <END>
-pale  <START:color> carmine <END>
+pale <START:color> carmine <END>
 <START:color> vivid orange peel <END>
 <START:color> olive drab #7 <END>
 <START:color> mellow apricot <END>
 <START:color> sonic silver <END>
-spanish  <START:color> red <END>
-cg  <START:color> red <END>
+
+spanish <START:color> red <END>
+cg <START:color> red <END>
 <START:color> olive <END>
-vivid  <START:color> tangelo <END>
-vivid  <START:color> orange <END>  peel
+vivid <START:color> tangelo <END>
+vivid <START:color> orange <END> peel
 <START:color> persimmon <END>
-deep  <START:color> fuchsia <END>
-palatinate  <START:color> blue <END>
+deep <START:color> fuchsia <END>
+palatinate <START:color> blue <END>
 <START:color> folly <END>
 <START:color> candy apple red <END>
-light  <START:color> orchid <END>
-<START:color> fandango <END>  pink
-dark  <START:color> midnight blue <END>
+light <START:color> orchid <END>
+<START:color> fandango <END> pink
+dark <START:color> midnight blue <END>
 <START:color> medium sky blue <END>
 <START:color> olivine <END>
 <START:color> old lace <END>
-light slate  <START:color> gray <END>
+light slate <START:color> gray <END>
 <START:color> light salmon <END>
-<START:color> shadow <END>  blue
+<START:color> shadow <END> blue
+
 <START:color> bitter lemon <END>
 <START:color> rose red <END>
-deep  <START:color> coffee <END>
-vivid lime  <START:color> green <END>
+deep <START:color> coffee <END>
+vivid lime <START:color> green <END>
 <START:color> antique white <END>
-<START:color> peach <END>  puff
+<START:color> peach <END> puff
 <START:color> rusty red <END>
-star command  <START:color> blue <END>
-persian  <START:color> red <END>
-<START:color> rose <END>  bonbon
+star command <START:color> blue <END>
+persian <START:color> red <END>
+<START:color> rose <END> bonbon
 <START:color> super pink <END>
 <START:color> pastel blue <END>
-indian  <START:color> yellow <END>
-light  <START:color> goldenrod yellow <END>
+indian <START:color> yellow <END>
+light <START:color> goldenrod yellow <END>
 <START:color> pale brown <END>
 <START:color> lavender purple <END>
+
 <START:color> pale magenta-pink <END>
 <START:color> snow <END>
 <START:color> bright lilac <END>
 <START:color> mauve <END> lous
-light carmine  <START:color> pink <END>
+light carmine <START:color> pink <END>
 <START:color> pale copper <END>
-baker-miller  <START:color> pink <END>
-italian sky  <START:color> blue <END>
-pale  <START:color> spring bud <END>
+baker-miller <START:color> pink <END>
+italian sky <START:color> blue <END>
+pale <START:color> spring bud <END>
 <START:color> rust <END>
 <START:color> electric blue <END>
 <START:color> I <END> ndian flag consist of orange.
@@ -537,37 +578,39 @@ pale  <START:color> spring bud <END>
 <START:color> piggy pink <END>
 <START:color> english lavender <END>
 <START:color> old silver <END>
-<START:color> teal <END>  green
-<START:color> fuchsia <END>  pink
+<START:color> teal <END> green
+<START:color> fuchsia <END> pink
 <START:color> bright green <END>
-candy apple  <START:color> red <END>
+candy apple <START:color> red <END>
+
 <START:color> peach <END>
-crimson  <START:color> red <END>
-<START:color> rose <END>  quartz
+crimson <START:color> red <END>
+<START:color> rose <END> quartz
 <START:color> rosso corsa <END>
 <START:color> anti-flash white <END>
 <START:color> nadeshiko pink <END>
-<START:color> stil <END>  de grain yellow
-deep  <START:color> taupe <END>
-<START:color> fuchsia <END>  rose
-mountbatten  <START:color> pink <END>
-spring  <START:color> green <END>
+<START:color> stil <END> de grain yellow
+deep <START:color> taupe <END>
+<START:color> fuchsia <END> rose
+mountbatten <START:color> pink <END>
+spring <START:color> green <END>
 <START:color> deep tuscan red <END>
 <START:color> grullo <END>
-<START:color> lemon <END>  yellow
-dodger  <START:color> blue <END>
-spanish  <START:color> viridian <END>
-mango  <START:color> tan <END> go
+<START:color> lemon <END> yellow
+dodger <START:color> blue <END>
+spanish <START:color> viridian <END>
+mango <START:color> tan <END> go
 <START:color> coconut <END>
 <START:color> spiro disco ball <END>
 <START:color> ruddy brown <END>
-deep  <START:color> moss green <END>
-light sea  <START:color> green <END>
+deep <START:color> moss green <END>
+light sea <START:color> green <END>
 <START:color> mikado yellow <END>
-fluorescent  <START:color> pink <END>
-fandango  <START:color> pink <END>
+
+fluorescent <START:color> pink <END>
+fandango <START:color> pink <END>
 <START:color> red-orange <END>
-deep jungle  <START:color> green <END>
+deep jungle <START:color> green <END>
 <START:color> royal azure <END>
 <START:color> pastel yellow <END>
 <START:color> vegas gold <END>
@@ -575,131 +618,139 @@ deep jungle  <START:color> green <END>
 <START:color> shadow blue <END>
 <START:color> wild watermelon <END>
 <START:color> dark magenta <END>
-<START:color> ultramarine <END>  blue
+<START:color> ultramarine <END> blue
 <START:color> harvest gold <END>
-<START:color> lemon <END>  curry
-dark  <START:color> moss green <END>
+<START:color> lemon <END> curry
+dark <START:color> moss green <END>
 <START:color> jasmine <END>
-very pale  <START:color> yellow <END>
-electric  <START:color> yellow <END>
+very pale <START:color> yellow <END>
+
+electric <START:color> yellow <END>
 <START:color> castleton green <END>
 pale violet- <START:color> red <END>
-french  <START:color> sky blue <END>
-<START:color> I <END>  like black car.
+french <START:color> sky blue <END>
+<START:color> I <END> like black car.
 <START:color> carmine pink <END>
 <START:color> cerulean blue <END>
 <START:color> eggplant <END>
 <START:color> liseran purple <END>
-persian  <START:color> plum <END>
+persian <START:color> plum <END>
 <START:color> bright maroon <END>
 <START:color> spanish carmine <END>
 <START:color> electric lavender <END>
 <START:color> french violet <END>
-<START:color> charcoal <END>  bed sheets are fine.
+<START:color> charcoal <END> bed sheets are fine.
 <START:color> big dip o?ruby <END>
 <START:color> champagne <END>
 <START:color> hollywood cerise <END>
-deep  <START:color> carrot orange <END>
+deep <START:color> carrot orange <END>
 <START:color> glaucous <END>
-sky  <START:color> blue <END>
+sky <START:color> blue <END>
+
 <START:color> heliotrope magenta <END>
 <START:color> twilight lavender <END>
 <START:color> ceil <END>
 <START:color> irresistible <END>
-alloy  <START:color> orange <END>
+alloy <START:color> orange <END>
 <START:color> light cyan <END>
-dark  <START:color> byzantium <END>
+dark <START:color> byzantium <END>
 <START:color> rose pink <END>
-vivid  <START:color> tan <END> gerine
-shimmering  <START:color> blush <END>
+vivid <START:color> tan <END> gerine
+shimmering <START:color> blush <END>
 <START:color> medium spring bud <END>
 <START:color> feldspar <END>
 <START:color> light orchid <END>
-<START:color> coral <END>  red
-italian  <START:color> sky blue <END>
+<START:color> coral <END> red
+italian <START:color> sky blue <END>
 <START:color> very pale yellow <END>
 <START:color> ua red <END>
-bright  <START:color> pink <END>
-sapphire  <START:color> blue <END>
+
+bright <START:color> pink <END>
+sapphire <START:color> blue <END>
 <START:color> tan <END> gerine
 <START:color> pale cyan <END>
-ruddy  <START:color> pink <END>
-dark  <START:color> cyan <END>
+ruddy <START:color> pink <END>
+dark <START:color> cyan <END>
 <START:color> rose gold <END>
 <START:color> ruby red <END>
-light  <START:color> fuchsia pink <END>
-super  <START:color> pink <END>
-hunter  <START:color> green <END>
+light <START:color> fuchsia pink <END>
+super <START:color> pink <END>
+hunter <START:color> green <END>
 <START:color> dartmouth green <END>
-french  <START:color> puce <END>
+french <START:color> puce <END>
 <START:color> strawberry <END>
-safety  <START:color> orange <END>
+safety <START:color> orange <END>
 <START:color> eggshell <END>
 <START:color> wild blue yonder <END>
 <START:color> bittersweet shimmer <END>
-<START:color> mint <END>  cream
-canary  <START:color> yellow <END>
-candy  <START:color> pink <END>
+
+<START:color> mint <END> cream
+canary <START:color> yellow <END>
+candy <START:color> pink <END>
 <START:color> spring green <END>
 <START:color> hot magenta <END>
 <START:color> turquoise blue <END>
-pale  <START:color> chestnut <END>
-midnight  <START:color> blue <END>
-alice  <START:color> blue <END>
-carnation  <START:color> pink <END>
+pale <START:color> chestnut <END>
+midnight <START:color> blue <END>
+alice <START:color> blue <END>
+carnation <START:color> pink <END>
 <START:color> magenta haze <END>
-dim  <START:color> gray <END>
-ua  <START:color> red <END>
-deep  <START:color> carmine <END>  pink
-<START:color> red <END>  devil
+dim <START:color> gray <END>
+ua <START:color> red <END>
+deep <START:color> carmine <END> pink
+<START:color> red <END> devil
 <START:color> platinum <END>
+
 <START:color> copper penny <END>
-deep  <START:color> magenta <END>
-deep  <START:color> carmine pink <END>
+deep <START:color> magenta <END>
+deep <START:color> carmine pink <END>
 <START:color> deep moss green <END>
 <START:color> tropical rain forest <END>
 <START:color> wine dregs <END>
 <START:color> razzle dazzle rose <END>
 <START:color> mango tango <END>
-deep  <START:color> tuscan red <END>
+deep <START:color> tuscan red <END>
 <START:color> aureolin <END>
 blue- <START:color> gray <END>
-french  <START:color> mauve <END>
+french <START:color> mauve <END>
 <START:color> vivid mulberry <END>
-electric  <START:color> ultramarine <END>
+electric <START:color> ultramarine <END>
 <START:color> harlequin <END>
+
 <START:color> lavender indigo <END>
 <START:color> vivid raspberry <END>
-dark  <START:color> raspberry <END>
+dark <START:color> raspberry <END>
 <START:color> rackley <END>
 <START:color> purpureus <END>
 <START:color> cyan cobalt blue <END>
 <START:color> jordy blue <END>
-mode  <START:color> beige <END>
+mode <START:color> beige <END>
 <START:color> red devil <END>
 dark brown- <START:color> tangelo <END>
-french  <START:color> violet <END>
-dark  <START:color> chestnut <END>
+french <START:color> violet <END>
+dark <START:color> chestnut <END>
 <START:color> dark brown <END>
 <START:color> cadmium yellow <END>
-bright  <START:color> navy <END>  blue
-naples  <START:color> yellow <END>
-light red  <START:color> ochre <END>
+
+bright <START:color> navy <END> blue
+naples <START:color> yellow <END>
+light red <START:color> ochre <END>
 <START:color> raspberry rose <END>
-vivid  <START:color> cerise <END>
-light goldenrod  <START:color> yellow <END>
+vivid <START:color> cerise <END>
+light goldenrod <START:color> yellow <END>
 <START:color> sand <END> storm
-pastel  <START:color> orange <END>
+pastel <START:color> orange <END>
 <START:color> electric violet <END>
 <START:color> boysenberry <END>
 <START:color> black <END>
 <START:color> light sky blue <END>
-egyptian  <START:color> blue <END>
+egyptian <START:color> blue <END>
 <START:color> dark pastel green <END>
 <START:color> phthalo blue <END>
-red batman tshirt  <START:color> under <END>  20$".
+red batman tshirt <START:color> under <END> 20$".
 <START:color> bright lavender <END>
-usc  <START:color> cardinal <END>
+usc <START:color> cardinal <END>
+
 <START:color> sand <END>
 <START:color> aquamarine <END>
 <START:color> donkey brown <END>
@@ -713,128 +764,135 @@ usc  <START:color> cardinal <END>
 <START:color> new york pink <END>
 <START:color> spanish sky blue <END>
 <START:color> b'dazzled blue <END>
-msu  <START:color> green <END>
-tango  <START:color> pink <END>
-pearl  <START:color> aqua <END>
-chinese  <START:color> red <END>
-burnt  <START:color> sienna <END>
+msu <START:color> green <END>
+tango <START:color> pink <END>
+pearl <START:color> aqua <END>
+chinese <START:color> red <END>
+burnt <START:color> sienna <END>
 <START:color> citron <END>
-<START:color> rose <END>  pink
-dark  <START:color> magenta <END>
+<START:color> rose <END> pink
+dark <START:color> magenta <END>
 <START:color> warm black <END>
-true  <START:color> blue <END>
+true <START:color> blue <END>
 <START:color> fire engine red <END>
+
 r <START:color> ube <END> r
-pale  <START:color> violet <END> -red
+pale <START:color> violet <END> -red
 <START:color> rose quartz <END>
 <START:color> tan <END>
 <START:color> dark jungle green <END>
-<START:color> sand <END>  dune
+<START:color> sand <END> dune
 <START:color> taupe gray <END>
 <START:color> cinereous <END>
-carmine  <START:color> red <END>
-Indian flag consist of  <START:color> green <END>  color.
-medium  <START:color> electric blue <END>
+carmine <START:color> red <END>
+Indian flag consist of <START:color> green <END> color.
+medium <START:color> electric blue <END>
 <START:color> peridot <END>
-dark  <START:color> slate <END>  gray
-amaranth  <START:color> red <END>
+dark <START:color> slate <END> gray
+amaranth <START:color> red <END>
 medium violet- <START:color> red <END>
 <START:color> catalina blue <END>
 <START:color> wisteria <END>
-kelly  <START:color> green <END>
-lavender  <START:color> pink <END>
-selective  <START:color> yellow <END>
-raw  <START:color> umber <END>
-russian  <START:color> violet <END>
+kelly <START:color> green <END>
+lavender <START:color> pink <END>
+selective <START:color> yellow <END>
+raw <START:color> umber <END>
+russian <START:color> violet <END>
+
 <START:color> african violet <END>
 <START:color> deep green-cyan turquoise <END>
-pale  <START:color> magenta-pink <END>
+pale <START:color> magenta-pink <END>
 <START:color> mordant red 19 <END>
 <START:color> pale violet-red <END>
-persian  <START:color> green <END>
+persian <START:color> green <END>
 <START:color> sunset <END>
 <START:color> robin egg blue <END>
 pink- <START:color> orange <END>
 <START:color> carolina blue <END>
-vivid  <START:color> mulberry <END>
+vivid <START:color> mulberry <END>
 <START:color> electric crimson <END>
-mellow  <START:color> apricot <END>
+mellow <START:color> apricot <END>
+
 <START:color> french lilac <END>
 <START:color> vivid cerise <END>
-wild  <START:color> orchid <END>
+wild <START:color> orchid <END>
 <START:color> neon fuchsia <END>
-thulian  <START:color> pink <END>
-cool  <START:color> black <END>
-generic  <START:color> viridian <END>
+thulian <START:color> pink <END>
+cool <START:color> black <END>
+generic <START:color> viridian <END>
 <START:color> cordovan <END>
-light  <START:color> cornflower blue <END>
-<START:color> magenta <END>  haze
+light <START:color> cornflower blue <END>
+<START:color> magenta <END> haze
 <START:color> pale carmine <END>
 <START:color> vivid crimson <END>
 <START:color> neon carrot <END>
-english  <START:color> violet <END>
+english <START:color> violet <END>
 <START:color> smoky topaz <END>
-<START:color> silver <END>  chalice
+
+<START:color> silver <END> chalice
 <START:color> inchworm <END>
 <START:color> electric lime <END>
 <START:color> windsor tan <END>
 <START:color> blush <END>
-mexican  <START:color> pink <END>
+mexican <START:color> pink <END>
 <START:color> tiger's eye <END>
 <START:color> spanish red <END>
 <START:color> bright cerulean <END>
-coral  <START:color> red <END>
+coral <START:color> red <END>
 <START:color> harvard crimson <END>
 <START:color> pale cerulean <END>
 <START:color> misty rose <END>
-light  <START:color> pastel purple <END>
+light <START:color> pastel purple <END>
 <START:color> rose vale <END>
-dark pastel  <START:color> red <END>
-neon  <START:color> fuchsia <END>
-medium persian  <START:color> blue <END>
+dark pastel <START:color> red <END>
+neon <START:color> fuchsia <END>
+medium persian <START:color> blue <END>
+
 <START:color> ruby <END>
-lavender  <START:color> rose <END>
+lavender <START:color> rose <END>
 <START:color> yellow orange <END>
 <START:color> light taupe <END>
 <START:color> baby pink <END>
 <START:color> topaz <END>
 green- <START:color> yellow <END>
-dark midnight  <START:color> blue <END>
+dark midnight <START:color> blue <END>
 <START:color> deep lilac <END>
 <START:color> granny smith apple <END>
 <START:color> brown-nose <END>
 <START:color> carrot orange <END>
-brink  <START:color> pink <END>
-<START:color> tuscan <END>  red
+brink <START:color> pink <END>
+<START:color> tuscan <END> red
 <START:color> electric ultramarine <END>
-cadmium  <START:color> orange <END>
+cadmium <START:color> orange <END>
 <START:color> gray-blue <END>
-<START:color> pink <END>  pearl
-pale  <START:color> cerulean <END>
+<START:color> pink <END> pearl
+
+pale <START:color> cerulean <END>
 <START:color> aurometalsaurus <END>
-persian  <START:color> orange <END>
+persian <START:color> orange <END>
 <START:color> dodger blue <END>
 <START:color> verdigris <END>
 <START:color> timberwolf <END>
-medium  <START:color> spring green <END>
-hooker's  <START:color> green <END>
+medium <START:color> spring green <END>
+hooker's <START:color> green <END>
 <START:color> magenta <END> -pink
-lavender  <START:color> magenta <END>
+lavender <START:color> magenta <END>
 <START:color> capri <END>
 <START:color> orange <END> -red
 <START:color> ruber <END>
-vivid sky  <START:color> blue <END>
-medium  <START:color> blue <END>
-dark  <START:color> sky blue <END>
+vivid sky <START:color> blue <END>
+medium <START:color> blue <END>
+dark <START:color> sky blue <END>
 <START:color> light sea green <END>
-princeton  <START:color> orange <END>
-cadmium  <START:color> yellow <END>
+princeton <START:color> orange <END>
+
+cadmium <START:color> yellow <END>
 <START:color> cornsilk <END>
 <START:color> indigo <END>
 <START:color> sand dune <END>
-<START:color> bronze <END>  yellow
+<START:color> bronze <END> yellow
 <START:color> dutch white <END>
-french  <START:color> pink <END>
+french <START:color> pink <END>
 <START:color> electric yellow <END>
 <START:color> bistre <END>
 <START:color> blanched almond <END>
@@ -843,189 +901,200 @@ french  <START:color> pink <END>
 <START:color> pale gold <END> enrod
 <START:color> purple pizzazz <END>
 <START:color> floral white <END>
-vivid  <START:color> tangerine <END>
+vivid <START:color> tangerine <END>
 <START:color> celadon <END>
-ball  <START:color> blue <END>
+ball <START:color> blue <END>
 <START:color> ball blue <END>
+
 <START:color> davy's grey <END>
 <START:color> daffodil <END>
 <START:color> columbia blue <END>
-very light  <START:color> blue <END>
+very light <START:color> blue <END>
 <START:color> sea blue <END>
-<START:color> cyan <END>  cobalt blue
+<START:color> cyan <END> cobalt blue
 <START:color> lemon <END>
-light  <START:color> grayish magenta <END>
-ultra  <START:color> red <END>
-eerie  <START:color> black <END>
-baby  <START:color> blue <END>
+light <START:color> grayish magenta <END>
+ultra <START:color> red <END>
+eerie <START:color> black <END>
+baby <START:color> blue <END>
 <START:color> wenge <END>
-pastel  <START:color> violet <END>
-<START:color> tangerine <END>  yellow
+pastel <START:color> violet <END>
+<START:color> tangerine <END> yellow
 <START:color> honeydew <END>
 <START:color> pastel pink <END>
 magenta- <START:color> pink <END>
 tele <START:color> magenta <END>
 <START:color> camouflage green <END>
 <START:color> prussian blue <END>
-napier  <START:color> green <END>
-<START:color> blue <END>  yonder
-<START:color> carmine <END>  red
+napier <START:color> green <END>
+<START:color> blue <END> yonder
+<START:color> carmine <END> red
 <START:color> brilliant lavender <END>
-anti-flash  <START:color> white <END>
+
+anti-flash <START:color> white <END>
 <START:color> vivid red-tangelo <END>
 <START:color> ultramarine blue <END>
-vivid  <START:color> vermilion <END>
+vivid <START:color> vermilion <END>
 <START:color> coquelicot <END>
 <START:color> beaver <END>
-mordant  <START:color> red <END>  19
+mordant <START:color> red <END> 19
 violet- <START:color> blue <END>
 <START:color> stizza <END>
 <START:color> cadmium green <END>
 <START:color> pale magenta <END>
 <START:color> cream <END>
-utah  <START:color> crimson <END>
+utah <START:color> crimson <END>
 wild water <START:color> melon <END>
-<START:color> orchid <END>  pink
-jordy  <START:color> blue <END>
+<START:color> orchid <END> pink
+jordy <START:color> blue <END>
 <START:color> orchid pink <END>
 <START:color> dark lava <END>
 <START:color> bronze <END>
 <START:color> venetian red <END>
-light  <START:color> sky blue <END>
+light <START:color> sky blue <END>
+
 <START:color> cornflower blue <END>
-indian  <START:color> red <END>
+indian <START:color> red <END>
 <START:color> dark raspberry <END>
 <START:color> zaffre <END>
-chinese  <START:color> violet <END>
-medium spring  <START:color> green <END>
+chinese <START:color> violet <END>
+medium spring <START:color> green <END>
 <START:color> blue-gray <END>
-bright  <START:color> turquoise <END>
+bright <START:color> turquoise <END>
 <START:color> royal blue <END>
 <START:color> tenn? <END>
 <START:color> spicy mix <END>
 <START:color> turquoise green <END>
 <START:color> heart gold <END>
 <START:color> battleship grey <END>
-bright  <START:color> ube <END>
+
+bright <START:color> ube <END>
 <START:color> tan <END> gelo
 <START:color> screamin' green <END>
 <START:color> pale green <END>
 <START:color> dark brown-tangelo <END>
 <START:color> spanish green <END>
-french  <START:color> plum <END>
-<START:color> copper <END>  penny
+french <START:color> plum <END>
+<START:color> copper <END> penny
 gray- <START:color> asparagus <END>
-classic  <START:color> rose <END>
-<START:color> navy <END>  purple
+classic <START:color> rose <END>
+<START:color> navy <END> purple
 <START:color> bittersweet <END>
-very light  <START:color> malachite green <END>
-orioles  <START:color> orange <END>
+very light <START:color> malachite green <END>
+orioles <START:color> orange <END>
 <START:color> dark moss green <END>
 <START:color> meat brown <END>
 <START:color> dark salmon <END>
-french  <START:color> beige <END>
+
+french <START:color> beige <END>
 <START:color> cyan <END> -blue azure
 <START:color> light thulian pink <END>
-<START:color> rose <END>  taupe
+<START:color> rose <END> taupe
 <START:color> star command blue <END>
 <START:color> dark sea green <END>
 <START:color> deep ruby <END>
 <START:color> mountbatten pink <END>
 <START:color> dark puce <END>
-dark  <START:color> olive <END>  green
-viridian  <START:color> green <END>
+dark <START:color> olive <END> green
+viridian <START:color> green <END>
 <START:color> dim gray <END>
-medium  <START:color> slate <END>  blue
-old  <START:color> silver <END>
-pale  <START:color> robin egg blue <END>
-light fuchsia  <START:color> pink <END>
+medium <START:color> slate <END> blue
+old <START:color> silver <END>
+pale <START:color> robin egg blue <END>
+light fuchsia <START:color> pink <END>
 <START:color> dark blue <END>
+
 <START:color> roman silver <END>
-medium  <START:color> spring bud <END>
+medium <START:color> spring bud <END>
 <START:color> smitten <END>
 <START:color> dark byzantium <END>
 <START:color> wood brown <END>
 <START:color> giants orange <END>
 <START:color> sand <END> y brown
 <START:color> cerise <END>
-dark moss  <START:color> green <END>
+dark moss <START:color> green <END>
 <START:color> lavender rose <END>
 <START:color> deep green <END>
 <START:color> metallic seaweed <END>
-light deep  <START:color> pink <END>
-silver lake  <START:color> blue <END>
-dark  <START:color> scarlet <END>
-boston university  <START:color> red <END>
+light deep <START:color> pink <END>
+silver lake <START:color> blue <END>
+dark <START:color> scarlet <END>
+boston university <START:color> red <END>
 <START:color> dark candy apple red <END>
-rifle  <START:color> green <END>
+rifle <START:color> green <END>
 <START:color> tiffany blue <END>
-electric  <START:color> violet <END>
-ua  <START:color> blue <END>
+
+electric <START:color> violet <END>
+ua <START:color> blue <END>
 <START:color> blue bell <END>
-<START:color> amaranth <END>  purple
-<START:color> celadon <END>  green
-carolina  <START:color> blue <END>
+<START:color> amaranth <END> purple
+<START:color> celadon <END> green
+carolina <START:color> blue <END>
 <START:color> honolulu blue <END>
-ou  <START:color> crimson <END>  red
-deep  <START:color> aqua <END> marine
-<START:color> viridian <END>  green
-cobalt  <START:color> blue <END>
+ou <START:color> crimson <END> red
+deep <START:color> aqua <END> marine
+<START:color> viridian <END> green
+cobalt <START:color> blue <END>
 <START:color> tuscany <END>
 <START:color> sandy taupe <END>
 <START:color> pale violet <END>
-pale  <START:color> blue <END>
-aero  <START:color> blue <END>
+pale <START:color> blue <END>
+aero <START:color> blue <END>
+
 <START:color> french mauve <END>
-<START:color> red <END>  batman tshirt under 20$".
+<START:color> red <END> batman tshirt under 20$".
 <START:color> mulberry <END>
 <START:color> blue <END> -green
-barbie  <START:color> pink <END>
-deep green-cyan  <START:color> turquoise <END>
+barbie <START:color> pink <END>
+deep green-cyan <START:color> turquoise <END>
 <START:color> blue yonder <END>
-light  <START:color> corn <END> flower blue
-pale  <START:color> pink <END>
-pakistan  <START:color> green <END>
+light <START:color> corn <END> flower blue
+pale <START:color> pink <END>
+pakistan <START:color> green <END>
 <START:color> illuminating emerald <END>
 <START:color> saddle brown <END>
+
 <START:color> moccasin <END>
-up forest  <START:color> green <END>
-opera  <START:color> mauve <END>
-light  <START:color> thulian pink <END>
-pale  <START:color> aqua <END>
+up forest <START:color> green <END>
+opera <START:color> mauve <END>
+light <START:color> thulian pink <END>
+pale <START:color> aqua <END>
 <START:color> corn <END> flower blue
-vivid  <START:color> lime green <END>
+vivid <START:color> lime green <END>
 <START:color> persian orange <END>
 <START:color> beau blue <END>
 <START:color> dirt <END>
 <START:color> boston university red <END>
 <START:color> heliotrope gray <END>
-I love  <START:color> grey <END>  Pink Flyod tshirt.
-<START:color> bittersweet <END>  shimmer
-persian  <START:color> blue <END>
+I love <START:color> grey <END> Pink Flyod tshirt.
+<START:color> bittersweet <END> shimmer
+persian <START:color> blue <END>
 <START:color> ube <END>
 <START:color> cherry <END>
 <START:color> dark pink <END>
 <START:color> blue <END> -magenta violet
+
 <START:color> blue <END> bonnet
-light  <START:color> crimson <END>
-light  <START:color> green <END>
-<START:color> fuchsia <END>  purple
-banana  <START:color> yellow <END>
+light <START:color> crimson <END>
+light <START:color> green <END>
+<START:color> fuchsia <END> purple
+banana <START:color> yellow <END>
 <START:color> persian red <END>
 <START:color> rose madder <END>
-rose  <START:color> red <END>
-new york  <START:color> pink <END>
-very light malachite  <START:color> green <END>
+rose <START:color> red <END>
+new york <START:color> pink <END>
+very light malachite <START:color> green <END>
 <START:color> flirt <END>
 <START:color> lavender mist <END>
-deep  <START:color> puce <END>
+deep <START:color> puce <END>
 <START:color> dark pastel purple <END>
-<START:color> ruddy <END>  pink
-st. patrick's  <START:color> blue <END>
-tangerine  <START:color> yellow <END>
+
+<START:color> ruddy <END> pink
+st. patrick's <START:color> blue <END>
+tangerine <START:color> yellow <END>
 <START:color> tan <END> gerine yellow
-light  <START:color> cobalt blue <END>
-pale robin egg  <START:color> blue <END>
+light <START:color> cobalt blue <END>
+pale robin egg <START:color> blue <END>
 <START:color> spanish crimson <END>
 <START:color> medium red-violet <END>
 <START:color> cyan <END>
@@ -1033,189 +1102,199 @@ pale robin egg  <START:color> blue <END>
 <START:color> rose bonbon <END>
 <START:color> medium candy apple red <END>
 <START:color> islamic green <END>
-spanish sky  <START:color> blue <END>
-pine  <START:color> green <END>
+spanish sky <START:color> blue <END>
+pine <START:color> green <END>
 <START:color> deep pink <END>
+
 <START:color> deep mauve <END>
 <START:color> dark khaki <END>
 <START:color> japanese indigo <END>
-rubine  <START:color> red <END>
-brilliant  <START:color> rose <END>
-pastel  <START:color> yellow <END>
+rubine <START:color> red <END>
+brilliant <START:color> rose <END>
+pastel <START:color> yellow <END>
 <START:color> bubbles <END>
 <START:color> kelly green <END>
 <START:color> dark tangerine <END>
-light  <START:color> taupe <END>
-burnt  <START:color> umber <END>
+light <START:color> taupe <END>
+burnt <START:color> umber <END>
 <START:color> solid pink <END>
-pale  <START:color> violet <END>
+pale <START:color> violet <END>
 <START:color> barbie pink <END>
 <START:color> vista blue <END>
 <START:color> cyber grape <END>
-light  <START:color> medium orchid <END>
+
+light <START:color> medium orchid <END>
 <START:color> almond <END>
-cadmium  <START:color> red <END>
+cadmium <START:color> red <END>
 <START:color> dark goldenrod <END>
-rich electric  <START:color> blue <END>
-medium  <START:color> sea green <END>
-yankees  <START:color> blue <END>
+rich electric <START:color> blue <END>
+medium <START:color> sea green <END>
+yankees <START:color> blue <END>
 <START:color> dark medium gray <END>
 <START:color> tan <END> go pink
 <START:color> claret <END>
-moss  <START:color> green <END>
-<START:color> cerulean <END>  blue
+moss <START:color> green <END>
+<START:color> cerulean <END> blue
 <START:color> jade <END>
-dark  <START:color> red <END>
-japanese  <START:color> indigo <END>
-army  <START:color> green <END>
-shadow  <START:color> blue <END>
+dark <START:color> red <END>
+japanese <START:color> indigo <END>
+army <START:color> green <END>
+shadow <START:color> blue <END>
 green- <START:color> cyan <END>
+
 <START:color> alizarin crimson <END>
 <START:color> candy pink <END>
-persian  <START:color> pink <END>
+persian <START:color> pink <END>
 <START:color> imperial blue <END>
-roast  <START:color> coffee <END>
+roast <START:color> coffee <END>
 <START:color> wild orchid <END>
-ku  <START:color> crimson <END>
+ku <START:color> crimson <END>
 <START:color> denim <END>
 <START:color> canary yellow <END>
-pale  <START:color> magenta <END> -pink
-spanish  <START:color> pink <END>
-light  <START:color> salmon <END>
+pale <START:color> magenta <END> -pink
+spanish <START:color> pink <END>
+light <START:color> salmon <END>
 <START:color> pastel orange <END>
-heliotrope  <START:color> magenta <END>
-pale  <START:color> magenta <END>
-prussian  <START:color> blue <END>
-vivid  <START:color> raspberry <END>
-light  <START:color> carmine pink <END>
-dark jungle  <START:color> green <END>
+heliotrope <START:color> magenta <END>
+pale <START:color> magenta <END>
+
+prussian <START:color> blue <END>
+vivid <START:color> raspberry <END>
+light <START:color> carmine pink <END>
+dark jungle <START:color> green <END>
 <START:color> kobi <END>
 <START:color> rifle green <END>
-oxford  <START:color> blue <END>
+oxford <START:color> blue <END>
 <START:color> imperial purple <END>
 <START:color> fandango pink <END>
 <START:color> red-purple <END>
 <START:color> french sky blue <END>
 <START:color> orioles orange <END>
-Her eyes are  <START:color> blue <END>  in color.
+Her eyes are <START:color> blue <END> in color.
 <START:color> shadow <END>
 <START:color> bondi blue <END>
-dark  <START:color> slate blue <END>
-spanish  <START:color> gray <END>
-harlequin  <START:color> green <END>
+dark <START:color> slate blue <END>
+
+spanish <START:color> gray <END>
+harlequin <START:color> green <END>
 <START:color> brunswick green <END>
 <START:color> tangerine yellow <END>
-medium  <START:color> ruby <END>
+medium <START:color> ruby <END>
 <START:color> india green <END>
 l <START:color> umber <END>
-medium  <START:color> tuscan <END>  red
-deep  <START:color> saffron <END>
-razzle dazzle  <START:color> rose <END>
+medium <START:color> tuscan <END> red
+deep <START:color> saffron <END>
+razzle dazzle <START:color> rose <END>
 <START:color> yale blue <END>
 <START:color> deep aquamarine <END>
 <START:color> bone <END>
-robin egg  <START:color> blue <END>
-antique  <START:color> bronze <END>
-dogwood  <START:color> rose <END>
-mint  <START:color> green <END>
+robin egg <START:color> blue <END>
+antique <START:color> bronze <END>
+dogwood <START:color> rose <END>
+mint <START:color> green <END>
 <START:color> mindaro <END>
-spanish  <START:color> violet <END>
+spanish <START:color> violet <END>
 <START:color> quinacridone magenta <END>
 <START:color> spartan crimson <END>
 <START:color> ucla blue <END>
-medium  <START:color> turquoise <END>
-<START:color> I <END>  love grey Pink Flyod tshirt.
+medium <START:color> turquoise <END>
+
+<START:color> I <END> love grey Pink Flyod tshirt.
 <START:color> go green <END>
-cadmium  <START:color> green <END>
+cadmium <START:color> green <END>
 <START:color> pear <END> ly purple
 <START:color> true blue <END>
 <START:color> rich black <END>
-fluorescent  <START:color> yellow <END>
-dark  <START:color> pastel red <END>
+fluorescent <START:color> yellow <END>
+dark <START:color> pastel red <END>
 <START:color> blueberry <END>
 <START:color> deep taupe <END>
 <START:color> fulvous <END>
-deep sky  <START:color> blue <END>
-<START:color> vivid orange <END>  peel
-dark medium  <START:color> gray <END>
-dartmouth  <START:color> green <END>
-medium lavender  <START:color> magenta <END>
+deep sky <START:color> blue <END>
+<START:color> vivid orange <END> peel
+dark medium <START:color> gray <END>
+dartmouth <START:color> green <END>
+medium lavender <START:color> magenta <END>
 <START:color> hunter green <END>
 <START:color> raw umber <END>
 <START:color> american rose <END>
-warm  <START:color> black <END>
-medium  <START:color> slate blue <END>
-dark  <START:color> orchid <END>
+warm <START:color> black <END>
+medium <START:color> slate blue <END>
+dark <START:color> orchid <END>
+
 <START:color> vivid tangelo <END>
 <START:color> medium blue <END>
 <START:color> dark scarlet <END>
 blue- <START:color> green <END>
-stil de grain  <START:color> yellow <END>
+stil de grain <START:color> yellow <END>
 big dip o? <START:color> ruby <END>
 <START:color> metallic sunburst <END>
-dark  <START:color> slate gray <END>
+dark <START:color> slate gray <END>
 <START:color> rust <END> y red
 <START:color> vivid sky blue <END>
 <START:color> cosmic latte <END>
 <START:color> medium persian blue <END>
 <START:color> pale magenta <END> -pink
-<START:color> razzle <END>  dazzle rose
+<START:color> razzle <END> dazzle rose
 <START:color> rosewood <END>
-bottle  <START:color> green <END>
+bottle <START:color> green <END>
 <START:color> pale goldenrod <END>
-<START:color> desert <END>  sand
+<START:color> desert <END> sand
 <START:color> pastel magenta <END>
+
 <START:color> kombu green <END>
-smoky  <START:color> topaz <END>
-field  <START:color> drab <END>
+smoky <START:color> topaz <END>
+field <START:color> drab <END>
 <START:color> dark slate gray <END>
 <START:color> salmon <END>
-vivid  <START:color> amber <END>
+vivid <START:color> amber <END>
 <START:color> purple taupe <END>
-deep  <START:color> green <END>
+deep <START:color> green <END>
 <START:color> cornell red <END>
-cyan  <START:color> azure <END>
+cyan <START:color> azure <END>
 <START:color> fashion fuchsia <END>
 <START:color> purple navy <END>
-dark  <START:color> pink <END>
+dark <START:color> pink <END>
 <START:color> sinopia <END>
-pale  <START:color> red <END> -violet
+
+pale <START:color> red <END> -violet
 <START:color> charcoal <END>
-phthalo  <START:color> blue <END>
+phthalo <START:color> blue <END>
 <START:color> dark coral <END>
 <START:color> blue sapphire <END>
-light  <START:color> french beige <END>
+light <START:color> french beige <END>
 <START:color> kenyan copper <END>
 <START:color> taupe <END>
-<START:color> bistre <END>  brown
-china  <START:color> rose <END>
+<START:color> bistre <END> brown
+china <START:color> rose <END>
 <START:color> light moss green <END>
 <START:color> silver chalice <END>
-bitter  <START:color> lemon <END>
+bitter <START:color> lemon <END>
 <START:color> skobeloff <END>
 <START:color> cool grey <END>
-pastel  <START:color> magenta <END>
-<START:color> pearl <END>  aqua
+pastel <START:color> magenta <END>
+<START:color> pearl <END> aqua
+
 <START:color> vivid gamboge <END>
-catalina  <START:color> blue <END>
+catalina <START:color> blue <END>
 <START:color> usc cardinal <END>
-kombu  <START:color> green <END>
+kombu <START:color> green <END>
 <START:color> light coral <END>
 <START:color> sap green <END>
 <START:color> school bus yellow <END>
 <START:color> bangladesh green <END>
-bulgarian  <START:color> rose <END>
-medium  <START:color> sky blue <END>
-deep carmine  <START:color> pink <END>
+bulgarian <START:color> rose <END>
+medium <START:color> sky blue <END>
+deep carmine <START:color> pink <END>
 <START:color> ufo green <END>
 <START:color> brink pink <END>
-baby  <START:color> pink <END>
-very light  <START:color> tan <END> gelo
-<START:color> puce <END>  red
-international klein  <START:color> blue <END>
-ou crimson  <START:color> red <END>
-royal  <START:color> yellow <END>
-barn  <START:color> red <END>
+baby <START:color> pink <END>
+very light <START:color> tan <END> gelo
+<START:color> puce <END> red
+international klein <START:color> blue <END>
+ou crimson <START:color> red <END>
+royal <START:color> yellow <END>
+barn <START:color> red <END>
 <START:color> feldgrau <END>
 <START:color> air superiority blue <END>
 <START:color> apple green <END>
@@ -1223,50 +1302,53 @@ barn  <START:color> red <END>
 <START:color> brick red <END>
 <START:color> persian green <END>
 <START:color> la salle green <END>
-pink  <START:color> raspberry <END>
+
+pink <START:color> raspberry <END>
 <START:color> fluorescent pink <END>
 <START:color> amazon <END>
 <START:color> indigo dye <END>
 red- <START:color> violet <END>
-<START:color> harlequin <END>  green
+<START:color> harlequin <END> green
 <START:color> arylide yellow <END>
 <START:color> sunset orange <END>
 <START:color> eton blue <END>
-<START:color> cadet <END>  blue
-paradise  <START:color> pink <END>
-english  <START:color> green <END>
+<START:color> cadet <END> blue
+paradise <START:color> pink <END>
+english <START:color> green <END>
 <START:color> white smoke <END>
 <START:color> light carmine pink <END>
-<START:color> vanilla <END>  ice
-imperial  <START:color> red <END>
-bangladesh  <START:color> green <END>
+<START:color> vanilla <END> ice
+imperial <START:color> red <END>
+bangladesh <START:color> green <END>
 <START:color> guppie green <END>
 <START:color> stormcloud <END>
 <START:color> turkish rose <END>
-royal  <START:color> blue <END>
+royal <START:color> blue <END>
 <START:color> pale aqua <END>
-teal  <START:color> green <END>
+teal <START:color> green <END>
 <START:color> dark green <END>
-teal  <START:color> deer <END>
+
+teal <START:color> deer <END>
 <START:color> peach <END> -yellow
-caribbean  <START:color> green <END>
-<START:color> taupe <END>  gray
-<START:color> rose <END>  red
+caribbean <START:color> green <END>
+<START:color> taupe <END> gray
+<START:color> rose <END> red
 <START:color> pale pink <END>
 <START:color> light blue <END>
 <START:color> dark pastel red <END>
+
 <START:color> pomp and power <END>
-china  <START:color> pink <END>
+china <START:color> pink <END>
 <START:color> light gray <END>
-spanish  <START:color> bistre <END>
-deep  <START:color> green-cyan <END>  turquoise
-silver  <START:color> pink <END>
+spanish <START:color> bistre <END>
+deep <START:color> green-cyan <END> turquoise
+silver <START:color> pink <END>
 <START:color> deep magenta <END>
-dark  <START:color> tan <END>
+dark <START:color> tan <END>
 <START:color> rich carmine <END>
-dark  <START:color> blue <END>
+dark <START:color> blue <END>
 <START:color> cocoa brown <END>
-hollywood  <START:color> cerise <END>
+hollywood <START:color> cerise <END>
 <START:color> light pink <END>
 <START:color> keppel <END>
 <START:color> prune <END>
@@ -1274,182 +1356,191 @@ hollywood  <START:color> cerise <END>
 <START:color> lumber <END>
 <START:color> usc gold <END>
 <START:color> vanilla <END>
-mauve  <START:color> taupe <END>
+mauve <START:color> taupe <END>
 <START:color> languid lavender <END>
+
 <START:color> pink lace <END>
 <START:color> fresh air <END>
-medium  <START:color> champagne <END>
-vivid  <START:color> sky blue <END>
+medium <START:color> champagne <END>
+vivid <START:color> sky blue <END>
 <START:color> willpower orange <END>
 <START:color> old gold <END>
-tickle me  <START:color> pink <END>
+tickle me <START:color> pink <END>
 <START:color> dark blue <END> -gray
-flamingo  <START:color> pink <END>
+flamingo <START:color> pink <END>
 <START:color> dark slate blue <END>
 <START:color> dogwood rose <END>
 <START:color> celeste <END>
 <START:color> baby powder <END>
 <START:color> cadmium red <END>
-arylide  <START:color> yellow <END>
+arylide <START:color> yellow <END>
 <START:color> pale blue <END>
-roman  <START:color> silver <END>
+roman <START:color> silver <END>
 <START:color> pine green <END>
 <START:color> limerick <END>
+
 <START:color> lemon curry <END>
 <START:color> banana mania <END>
 <START:color> university of tennessee orange <END>
 <START:color> spanish bistre <END>
-dark  <START:color> cerulean <END>
+dark <START:color> cerulean <END>
 <START:color> fuzzy wuzzy <END>
-french  <START:color> fuchsia <END>
+french <START:color> fuchsia <END>
 <START:color> hooker's green <END>
 <START:color> sacramento state green <END>
-blue  <START:color> sapphire <END>
-deep tuscan  <START:color> red <END>
+blue <START:color> sapphire <END>
+deep tuscan <START:color> red <END>
 <START:color> north texas green <END>
 <START:color> egyptian blue <END>
 <START:color> up maroon <END>
 <START:color> trolley grey <END>
 <START:color> tulip <END>
 <START:color> safety yellow <END>
-dark  <START:color> liver <END>
+dark <START:color> liver <END>
 <START:color> china pink <END>
-wild  <START:color> strawberry <END>
-<START:color> liver <END>  chestnut
-<START:color> silver <END>  pink
+wild <START:color> strawberry <END>
+<START:color> liver <END> chestnut
+
+<START:color> silver <END> pink
 <START:color> camel <END>
-navajo  <START:color> white <END>
-<START:color> amaranth <END>  red
+navajo <START:color> white <END>
+<START:color> amaranth <END> red
 vivid red- <START:color> tangelo <END>
-deep  <START:color> carmine <END>
+deep <START:color> carmine <END>
 <START:color> mexican pink <END>
-usafa  <START:color> blue <END>
+usafa <START:color> blue <END>
 <START:color> azure <END> ish white
 <START:color> royal yellow <END>
 <START:color> princeton orange <END>
 <START:color> peach-yellow <END>
-very light  <START:color> azure <END>
+very light <START:color> azure <END>
 <START:color> byzantine <END>
-bud  <START:color> green <END>
-taupe  <START:color> gray <END>
+bud <START:color> green <END>
+taupe <START:color> gray <END>
 <START:color> hansa yellow <END>
+
 <START:color> non-photo blue <END>
 <START:color> rich lavender <END>
-<START:color> indigo <END>  dye
+<START:color> indigo <END> dye
 <START:color> tangerine <END>
 <START:color> dark powder blue <END>
-piggy  <START:color> pink <END>
+piggy <START:color> pink <END>
 <START:color> vivid malachite <END>
 <START:color> cadet blue <END>
-brandeis  <START:color> blue <END>
+brandeis <START:color> blue <END>
 <START:color> light slate gray <END>
 <START:color> amethyst <END>
 orange- <START:color> red <END>
 blue- <START:color> violet <END>
-ocean boat  <START:color> blue <END>
-cerulean  <START:color> blue <END>
-<START:color> silver <END>  sand
+ocean boat <START:color> blue <END>
+cerulean <START:color> blue <END>
+<START:color> silver <END> sand
 <START:color> emerald <END>
-deep  <START:color> lilac <END>
+
+deep <START:color> lilac <END>
 <START:color> azure mist <END>
 <START:color> french fuchsia <END>
 <START:color> rich brilliant lavender <END>
 <START:color> british racing green <END>
-slate  <START:color> gray <END>
+slate <START:color> gray <END>
 <START:color> duke blue <END>
 <START:color> light fuchsia pink <END>
 <START:color> han blue <END>
 <START:color> straw <END> berry
-<START:color> azure <END>  mist
+<START:color> azure <END> mist
 <START:color> tuscan <END>
-sap  <START:color> green <END>
-brown  <START:color> yellow <END>
-electric  <START:color> blue <END>
-<START:color> slate <END>  gray
-spanish  <START:color> blue <END>
+sap <START:color> green <END>
+brown <START:color> yellow <END>
+electric <START:color> blue <END>
+<START:color> slate <END> gray
+spanish <START:color> blue <END>
 vivid red- <START:color> tan <END> gelo
 <START:color> grussrel <END>
 <START:color> deep space sparkle <END>
+
 <START:color> livid <END>
 <START:color> yellow-green <END>
 <START:color> maize <END>
 <START:color> vermilion <END>
 <START:color> jazzberry jam <END>
-medium  <START:color> red <END> -violet
+medium <START:color> red <END> -violet
 <START:color> french beige <END>
 <START:color> electric cyan <END>
 <START:color> old burgundy <END>
 <START:color> dark turquoise <END>
 <START:color> blizzard blue <END>
-united nations  <START:color> blue <END>
-medium  <START:color> jungle green <END>
+united nations <START:color> blue <END>
+medium <START:color> jungle green <END>
 <START:color> blue <END> -gray
-old  <START:color> moss green <END>
+old <START:color> moss green <END>
 <START:color> queen pink <END>
 <START:color> razzmatazz <END>
 <START:color> satin sheen gold <END>
-very light  <START:color> tangelo <END>
-french  <START:color> lilac <END>
-light sky  <START:color> blue <END>
+very light <START:color> tangelo <END>
+
+french <START:color> lilac <END>
+light sky <START:color> blue <END>
 <START:color> ocean boat blue <END>
-camouflage  <START:color> green <END>
-cal poly  <START:color> green <END>
+camouflage <START:color> green <END>
+cal poly <START:color> green <END>
 <START:color> spring bud <END>
 <START:color> bright turquoise <END>
 <START:color> dark spring green <END>
-bronze  <START:color> yellow <END>
+bronze <START:color> yellow <END>
 <START:color> mantis <END>
-old moss  <START:color> green <END>
+old moss <START:color> green <END>
 <START:color> pale cornflower blue <END>
 <START:color> peach-orange <END>
 <START:color> light yellow <END>
 <START:color> chinese red <END>
 <START:color> cyan azure <END>
-dark pastel  <START:color> green <END>
-wild  <START:color> straw <END> berry
+dark pastel <START:color> green <END>
+wild <START:color> straw <END> berry
 <START:color> safety orange <END>
-light  <START:color> red <END>  ochre
+light <START:color> red <END> ochre
 <START:color> azure <END>
 <START:color> pink lavender <END>
 <START:color> artichoke <END>
 <START:color> linen <END>
-electric  <START:color> green <END>
+electric <START:color> green <END>
 <START:color> deep carmine <END>
 <START:color> classic rose <END>
-deep  <START:color> peach <END>
+deep <START:color> peach <END>
 <START:color> green-cyan <END>
-coral  <START:color> pink <END>
-dark  <START:color> candy apple red <END>
-dark  <START:color> pastel green <END>
+coral <START:color> pink <END>
+dark <START:color> candy apple red <END>
+
+dark <START:color> pastel green <END>
 <START:color> medium lavender magenta <END>
 <START:color> vivid auburn <END>
-blizzard  <START:color> blue <END>
+blizzard <START:color> blue <END>
 <START:color> fern green <END>
 <START:color> lemon yellow <END>
-deep  <START:color> lemon <END>
+deep <START:color> lemon <END>
 <START:color> french bistre <END>
 <START:color> queen blue <END>
 <START:color> aero <END>
-dark electric  <START:color> blue <END>
-cyan  <START:color> cornflower blue <END>
+dark electric <START:color> blue <END>
+cyan <START:color> cornflower blue <END>
 <START:color> spanish violet <END>
 <START:color> peach <END> -orange
 <START:color> army green <END>
 <START:color> royal purple <END>
-Indian flag consist of  <START:color> white <END> .
-apple  <START:color> green <END>
-light hot  <START:color> pink <END>
+Indian flag consist of <START:color> white <END> .
+apple <START:color> green <END>
+light hot <START:color> pink <END>
 <START:color> plum <END>
 <START:color> alabama crimson <END>
-caf?  <START:color> au lait <END>
-light medium  <START:color> orchid <END>
-silver  <START:color> sand <END>
-light  <START:color> slate <END>  gray
-cyan cobalt  <START:color> blue <END>
+
+caf? <START:color> au lait <END>
+light medium <START:color> orchid <END>
+silver <START:color> sand <END>
+light <START:color> slate <END> gray
+cyan cobalt <START:color> blue <END>
 <START:color> dark terra cotta <END>
-<START:color> pink <END>  lavender
+<START:color> pink <END> lavender
 <START:color> flattery <END>
-venetian  <START:color> red <END>
+venetian <START:color> red <END>
 <START:color> carmine <END>
 <START:color> french puce <END>
 <START:color> aqua <END>
@@ -1457,11 +1548,12 @@ venetian  <START:color> red <END>
 <START:color> paolo veronese green <END>
 <START:color> sky blue <END>
 <START:color> pink <END>
-tiffany  <START:color> blue <END>
-persian  <START:color> rose <END>
+tiffany <START:color> blue <END>
+persian <START:color> rose <END>
 <START:color> lemon glacier <END>
 <START:color> picton blue <END>
-light  <START:color> salmon pink <END>
+light <START:color> salmon pink <END>
+
 <START:color> teal deer <END>
 <START:color> chestnut <END>
 <START:color> imperial <END>
@@ -1470,71 +1562,75 @@ light  <START:color> salmon pink <END>
 <START:color> persian blue <END>
 <START:color> sage <END>
 <START:color> hot pink <END>
-<START:color> white <END>  smoke
+<START:color> white <END> smoke
 <START:color> deep violet <END>
 <START:color> ou crimson red <END>
-celestial  <START:color> blue <END>
-vivid  <START:color> red <END> -tangelo
-<START:color> silver <END>  lake blue
+celestial <START:color> blue <END>
+
+vivid <START:color> red <END> -tangelo
+<START:color> silver <END> lake blue
 <START:color> light apricot <END>
 <START:color> mint green <END>
-<START:color> wine <END>  dregs
-islamic  <START:color> green <END>
-unmellow  <START:color> yellow <END>
+<START:color> wine <END> dregs
+islamic <START:color> green <END>
+unmellow <START:color> yellow <END>
 <START:color> cyber yellow <END>
 <START:color> telemagenta <END>
 <START:color> fluorescent yellow <END>
-<START:color> rose <END>  ebony
-pale  <START:color> green <END>
-<START:color> aero <END>  blue
+<START:color> rose <END> ebony
+pale <START:color> green <END>
+<START:color> aero <END> blue
 <START:color> rose <END> wood
-<START:color> I <END>  love denim jeans.
-<START:color> heliotrope <END>  gray
-carmine  <START:color> pink <END>
-<START:color> mint <END>  green
-dark  <START:color> blue-gray <END>
+<START:color> I <END> love denim jeans.
+<START:color> heliotrope <END> gray
+carmine <START:color> pink <END>
+<START:color> mint <END> green
+dark <START:color> blue-gray <END>
+
 <START:color> light cobalt blue <END>
 <START:color> rich electric blue <END>
 <START:color> generic viridian <END>
-<START:color> st. <END>  patrick's blue
+<START:color> st. <END> patrick's blue
 <START:color> very light blue <END>
 <START:color> vanilla ice <END>
-light  <START:color> apricot <END>
+light <START:color> apricot <END>
 <START:color> french plum <END>
 <START:color> tuscan brown <END>
-safety  <START:color> yellow <END>
-floral  <START:color> white <END>
-rich  <START:color> carmine <END>
+safety <START:color> yellow <END>
+floral <START:color> white <END>
+rich <START:color> carmine <END>
 <START:color> pink-orange <END>
 <START:color> red-violet <END>
-russian  <START:color> green <END>
+russian <START:color> green <END>
 <START:color> dark violet <END>
-<START:color> copper <END>  red
-cyan  <START:color> cobalt blue <END>
+<START:color> copper <END> red
+cyan <START:color> cobalt blue <END>
+
 <START:color> majorelle blue <END>
 <START:color> electric green <END>
-ufo  <START:color> green <END>
+ufo <START:color> green <END>
 <START:color> pale plum <END>
-tuscan  <START:color> red <END>
-pastel  <START:color> red <END>
-light  <START:color> blue <END>
+tuscan <START:color> red <END>
+pastel <START:color> red <END>
+light <START:color> blue <END>
 <START:color> toolbox <END>
-white  <START:color> smoke <END>
+white <START:color> smoke <END>
 <START:color> cobalt blue <END>
-fluorescent  <START:color> orange <END>
-harvard  <START:color> crimson <END>
+fluorescent <START:color> orange <END>
+harvard <START:color> crimson <END>
 <START:color> sea green <END>
-dutch  <START:color> white <END>
-portland  <START:color> orange <END>
+dutch <START:color> white <END>
+portland <START:color> orange <END>
 vivid vermi <START:color> lion <END>
-dark  <START:color> powder blue <END>
-sheen  <START:color> green <END>
+dark <START:color> powder blue <END>
+sheen <START:color> green <END>
 <START:color> cotton candy <END>
 <START:color> green <END> -yellow
 <START:color> deer <END>
+
 <START:color> deep chestnut <END>
-<START:color> cyan <END>  cornflower blue
-sea  <START:color> blue <END>
+<START:color> cyan <END> cornflower blue
+sea <START:color> blue <END>
 <START:color> indian yellow <END>
 <START:color> crimson <END>
 <START:color> navy purple <END>
@@ -1546,30 +1642,32 @@ sea  <START:color> blue <END>
 <START:color> dark taupe <END>
 <START:color> dark midnight blue <END>
 <START:color> magenta <END>
-vivid  <START:color> auburn <END>
+vivid <START:color> auburn <END>
 <START:color> medium violet-red <END>
 <START:color> light gray <END> ish magenta
+
 <START:color> regalia <END>
 <START:color> pink <END> -orange
-queen  <START:color> blue <END>
+queen <START:color> blue <END>
 <START:color> sienna <END>
-school bus  <START:color> yellow <END>
-ferrari  <START:color> red <END>
-deep  <START:color> mauve <END>
-cadet  <START:color> grey <END>
+school bus <START:color> yellow <END>
+ferrari <START:color> red <END>
+deep <START:color> mauve <END>
+cadet <START:color> grey <END>
 <START:color> desert sand <END>
 <START:color> umber <END>
-<START:color> copper <END>  rose
+<START:color> copper <END> rose
 <START:color> red-brown <END>
-pale  <START:color> taupe <END>
+pale <START:color> taupe <END>
 <START:color> rebecca purple <END>
 <START:color> medium carmine <END>
 <START:color> bisque <END>
 <START:color> rose <END>
-old  <START:color> mauve <END>
-african  <START:color> violet <END>
-brilliant  <START:color> azure <END>
-hot  <START:color> magenta <END>
+old <START:color> mauve <END>
+african <START:color> violet <END>
+brilliant <START:color> azure <END>
+hot <START:color> magenta <END>
+
 <START:color> congo pink <END>
 <START:color> pastel purple <END>
 <START:color> pear <END> l
@@ -1577,55 +1675,59 @@ hot  <START:color> magenta <END>
 <START:color> bistre brown <END>
 <START:color> raspberry pink <END>
 <START:color> terra cotta <END>
-pale  <START:color> violet-red <END>
-<START:color> coral <END>  pink
-dark  <START:color> sienna <END>
-light moss  <START:color> green <END>
-maya  <START:color> blue <END>
-antique  <START:color> ruby <END>
-dark  <START:color> violet <END>
-hansa  <START:color> yellow <END>
+pale <START:color> violet-red <END>
+<START:color> coral <END> pink
+dark <START:color> sienna <END>
+light moss <START:color> green <END>
+maya <START:color> blue <END>
+antique <START:color> ruby <END>
+dark <START:color> violet <END>
+hansa <START:color> yellow <END>
 <START:color> deep sky blue <END>
-pale  <START:color> silver <END>
+
+pale <START:color> silver <END>
 <START:color> pastel gray <END>
 <START:color> malachite <END>
 <START:color> pullman green <END>
-puce  <START:color> red <END>
-light cobalt  <START:color> blue <END>
-deep  <START:color> green <END> -cyan turquoise
-french sky  <START:color> blue <END>
+puce <START:color> red <END>
+light cobalt <START:color> blue <END>
+deep <START:color> green <END> -cyan turquoise
+french sky <START:color> blue <END>
 <START:color> manatee <END>
 <START:color> ruddy <END>
 <START:color> bronze yellow <END>
+
 <START:color> bazaar <END>
 <START:color> smoky black <END>
-fire engine  <START:color> red <END>
+fire engine <START:color> red <END>
 <START:color> zinnwaldite brown <END>
 <START:color> sunglow <END>
-cyber  <START:color> yellow <END>
+cyber <START:color> yellow <END>
 <START:color> android green <END>
 <START:color> sangria <END>
 <START:color> firebrick <END>
-han  <START:color> blue <END>
+han <START:color> blue <END>
 <START:color> rhythm <END>
 <START:color> persian pink <END>
+
 <START:color> violet <END> -red
-india  <START:color> green <END>
+india <START:color> green <END>
 <START:color> vivid red <END> -tangelo
-giants  <START:color> orange <END>
+giants <START:color> orange <END>
 <START:color> pearl <END> y purple
 <START:color> lime green <END>
 <START:color> auburn <END>
-french  <START:color> bistre <END>
-payne's  <START:color> grey <END>
+french <START:color> bistre <END>
+payne's <START:color> grey <END>
 <START:color> crimson glory <END>
-radical  <START:color> red <END>
+radical <START:color> red <END>
 <START:color> patriarch <END>
+
 <START:color> straw <END>
 red- <START:color> orange <END>
 <START:color> burgundy <END>
 <START:color> united nations blue <END>
-<START:color> sunset <END>  orange
+<START:color> sunset <END> orange
 <START:color> amaranth purple <END>
 <START:color> napier green <END>
 <START:color> flax <END>
@@ -1635,25 +1737,27 @@ red- <START:color> orange <END>
 <START:color> dark red <END>
 <START:color> red <END>
 <START:color> russian green <END>
-pale  <START:color> goldenrod <END>
-old  <START:color> heliotrope <END>
+pale <START:color> goldenrod <END>
+old <START:color> heliotrope <END>
 <START:color> slate gray <END>
 <START:color> pansy purple <END>
-dark  <START:color> lava <END>
-davy's  <START:color> grey <END>
-debian  <START:color> red <END>
-electric  <START:color> indigo <END>
+dark <START:color> lava <END>
+davy's <START:color> grey <END>
+
+debian <START:color> red <END>
+electric <START:color> indigo <END>
 <START:color> tomato <END>
-medium  <START:color> tuscan red <END>
+medium <START:color> tuscan red <END>
 <START:color> blue <END> -violet
 <START:color> oxford blue <END>
 <START:color> liver chestnut <END>
-pale  <START:color> corn <END> flower blue
+pale <START:color> corn <END> flower blue
 <START:color> shocking pink <END>
 gray- <START:color> blue <END>
-dark  <START:color> puce <END>
+dark <START:color> puce <END>
+
 <START:color> I <END> ndian flag consist of green color.
-dark  <START:color> spring green <END>
+dark <START:color> spring green <END>
 <START:color> brown yellow <END>
 <START:color> alloy orange <END>
 <START:color> mustard <END>
@@ -1661,23 +1765,24 @@ dark  <START:color> spring green <END>
 <START:color> peru <END>
 <START:color> black bean <END>
 <START:color> carmine red <END>
-spanish  <START:color> orange <END>
-neon  <START:color> green <END>
-upsdell  <START:color> red <END>
-medium  <START:color> orchid <END>
-misty  <START:color> rose <END>
+spanish <START:color> orange <END>
+neon <START:color> green <END>
+upsdell <START:color> red <END>
+medium <START:color> orchid <END>
+misty <START:color> rose <END>
 <START:color> dark pastel blue <END>
 <START:color> bole <END>
-pale cornflower  <START:color> blue <END>
-deep  <START:color> spring bud <END>
-ultra  <START:color> pink <END>
+pale cornflower <START:color> blue <END>
+deep <START:color> spring bud <END>
+ultra <START:color> pink <END>
 <START:color> caribbean green <END>
-vivid  <START:color> cerulean <END>
-dark  <START:color> vanilla <END>
+vivid <START:color> cerulean <END>
+
+dark <START:color> vanilla <END>
 <START:color> pakistan green <END>
 <START:color> ua blue <END>
 <START:color> mughal green <END>
-ucla  <START:color> blue <END>
+ucla <START:color> blue <END>
 <START:color> burnt orange <END>
 <START:color> medium vermilion <END>
 <START:color> tickle me pink <END>
@@ -1687,378 +1792,398 @@ ucla  <START:color> blue <END>
 <START:color> jet <END>
 <START:color> brandeis blue <END>
 <START:color> lemon meringue <END>
-cerise  <START:color> pink <END>
+cerise <START:color> pink <END>
 <START:color> msu green <END>
-pakis <START:color> tan <END>  green
+
+pakis <START:color> tan <END> green
 <START:color> ebony <END>
-<START:color> cyan <END>  azure
-dark imperial  <START:color> blue <END>
-<START:color> pink <END>  raspberry
-vivid  <START:color> yellow <END>
-tractor  <START:color> red <END>
+<START:color> cyan <END> azure
+dark imperial <START:color> blue <END>
+<START:color> pink <END> raspberry
+vivid <START:color> yellow <END>
+tractor <START:color> red <END>
 <START:color> bubble gum <END>
 <START:color> deep cerise <END>
 <START:color> charleston green <END>
-lincoln  <START:color> green <END>
-bondi  <START:color> blue <END>
+lincoln <START:color> green <END>
+bondi <START:color> blue <END>
 <START:color> carnelian <END>
 dark brown- <START:color> tan <END> gelo
 <START:color> titanium yellow <END>
 <START:color> pale spring bud <END>
-<START:color> black <END>  olive
+<START:color> black <END> olive
 <START:color> gamboge <END>
 <START:color> fandango <END>
-ou  <START:color> crimson red <END>
-<START:color> black <END>  leather jacket
+ou <START:color> crimson red <END>
+<START:color> black <END> leather jacket
 <START:color> vivid orange <END>
 <START:color> cerise pink <END>
-cyber  <START:color> grape <END>
-<START:color> rose <END>  madder
-I love  <START:color> denim <END>  jeans.
+cyber <START:color> grape <END>
+<START:color> rose <END> madder
+I love <START:color> denim <END> jeans.
 <START:color> violet <END>
 <START:color> kobe <END>
 <START:color> cinnabar <END>
-charleston  <START:color> green <END>
+charleston <START:color> green <END>
 <START:color> light hot pink <END>
 <START:color> iceberg <END>
 <START:color> lawn green <END>
 <START:color> light brown <END>
+
 <START:color> phlox <END>
 <START:color> bright ube <END>
 <START:color> blue-magenta violet <END>
 violet- <START:color> red <END>
 <START:color> schauss pink <END>
-pastel  <START:color> gray <END>
+pastel <START:color> gray <END>
 <START:color> celadon blue <END>
 <START:color> brass <END>
 <START:color> light salmon pink <END>
 <START:color> veronica <END>
-dark  <START:color> yellow <END>
+dark <START:color> yellow <END>
 <START:color> bleu de france <END>
 <START:color> harlequin green <END>
-yale  <START:color> blue <END>
+yale <START:color> blue <END>
 <START:color> bottle green <END>
 <START:color> medium electric blue <END>
 <START:color> alice blue <END>
-<START:color> raspberry <END>  rose
+<START:color> raspberry <END> rose
 <START:color> light medium orchid <END>
 <START:color> coyote brown <END>
 <START:color> dark tan <END> gerine
-paris  <START:color> green <END>
+
+paris <START:color> green <END>
 <START:color> rose taupe <END>
-old  <START:color> burgundy <END>
+old <START:color> burgundy <END>
 <START:color> deep green <END> -cyan turquoise
-royal  <START:color> fuchsia <END>
-lavender  <START:color> blush <END>
+royal <START:color> fuchsia <END>
+lavender <START:color> blush <END>
 <START:color> turquoise <END>
 <START:color> green <END> -cyan
-<START:color> blue <END>  sapphire
-bright  <START:color> lilac <END>
+<START:color> blue <END> sapphire
+bright <START:color> lilac <END>
 <START:color> moss green <END>
 <START:color> lavender magenta <END>
-medium candy apple  <START:color> red <END>
-azureish  <START:color> white <END>
-<START:color> raspberry <END>  pink
+medium candy apple <START:color> red <END>
+
+azureish <START:color> white <END>
+<START:color> raspberry <END> pink
 <START:color> xanadu <END>
 <START:color> rich maroon <END>
 <START:color> barn red <END>
 <START:color> navy <END>
 <START:color> roast coffee <END>
 <START:color> outrageous orange <END>
-pastel  <START:color> blue <END>
+pastel <START:color> blue <END>
 <START:color> ultramarine <END>
 <START:color> light green <END>
-black  <START:color> olive <END>
+black <START:color> olive <END>
 <START:color> avocado <END>
 <START:color> dust storm <END>
-raspberry  <START:color> pink <END>
-tea  <START:color> rose <END>
+raspberry <START:color> pink <END>
+tea <START:color> rose <END>
+
 un <START:color> mellow yellow <END>
-british racing  <START:color> green <END>
-slate  <START:color> blue <END>
+british racing <START:color> green <END>
+slate <START:color> blue <END>
 <START:color> spanish blue <END>
 <START:color> old lavender <END>
-light  <START:color> hot pink <END>
+light <START:color> hot pink <END>
 <START:color> dark yellow <END>
-<START:color> turquoise <END>  green
-vivid  <START:color> orange peel <END>
+<START:color> turquoise <END> green
+vivid <START:color> orange peel <END>
 <START:color> light french beige <END>
 <START:color> paradise pink <END>
 <START:color> old mauve <END>
 <START:color> naples yellow <END>
 <START:color> mellow yellow <END>
-<START:color> yellow <END>  orange
-duke  <START:color> blue <END>
-japanese  <START:color> violet <END>
+
+<START:color> yellow <END> orange
+duke <START:color> blue <END>
+japanese <START:color> violet <END>
 <START:color> pearl aqua <END>
 <START:color> bulgarian rose <END>
 <START:color> rajah <END>
 <START:color> fawn <END>
-dark  <START:color> imperial blue <END>
-<START:color> ruby <END>  red
+dark <START:color> imperial blue <END>
+<START:color> ruby <END> red
 <START:color> mahogany <END>
-charm  <START:color> pink <END>
-mint  <START:color> cream <END>
+charm <START:color> pink <END>
+mint <START:color> cream <END>
 <START:color> vivid vermilion <END>
 <START:color> purple heart <END>
 <START:color> sandy brown <END>
 peach- <START:color> yellow <END>
 <START:color> pictorial carmine <END>
 <START:color> falu red <END>
-light  <START:color> deep pink <END>
+
+light <START:color> deep pink <END>
 <START:color> maya blue <END>
-very light  <START:color> malachite <END>  green
-<START:color> ruddy <END>  brown
+very light <START:color> malachite <END> green
+<START:color> ruddy <END> brown
 <START:color> vivid cerulean <END>
-lime  <START:color> green <END>
-wild  <START:color> blue <END>  yonder
+lime <START:color> green <END>
+wild <START:color> blue <END> yonder
 <START:color> yellow rose <END>
-phthalo  <START:color> green <END>
+phthalo <START:color> green <END>
 <START:color> light cornflower blue <END>
 <START:color> puce red <END>
-columbia  <START:color> blue <END>
+columbia <START:color> blue <END>
 <START:color> pink pearl <END>
 <START:color> jonquil <END>
 <START:color> dandelion <END>
-honolulu  <START:color> blue <END>
-light brilliant  <START:color> red <END>
-earth  <START:color> yellow <END>
+honolulu <START:color> blue <END>
+light brilliant <START:color> red <END>
+earth <START:color> yellow <END>
 <START:color> mauve taupe <END>
-windsor  <START:color> tan <END>
-wild  <START:color> blue yonder <END>
-non-photo  <START:color> blue <END>
+
+windsor <START:color> tan <END>
+wild <START:color> blue yonder <END>
+non-photo <START:color> blue <END>
 <START:color> baby blue eyes <END>
-deep carrot  <START:color> orange <END>
+deep carrot <START:color> orange <END>
 <START:color> pastel red <END>
 <START:color> shimmering blush <END>
 <START:color> byzantium <END>
 <START:color> electric purple <END>
 <START:color> lapis lazuli <END>
-deep  <START:color> violet <END>
-celadon  <START:color> blue <END>
+deep <START:color> violet <END>
+celadon <START:color> blue <END>
 <START:color> burnt sienna <END>
-pastel  <START:color> pink <END>
+pastel <START:color> pink <END>
 <START:color> light grayish magenta <END>
 <START:color> dark cerulean <END>
 <START:color> pastel brown <END>
-jungle  <START:color> green <END>
+jungle <START:color> green <END>
 <START:color> palatinate purple <END>
 <START:color> dark blue-gray <END>
+
 <START:color> ferrari red <END>
 <START:color> independence <END>
 <START:color> mauvelous <END>
 <START:color> yellow <END>
-dark powder  <START:color> blue <END>
-electric  <START:color> crimson <END>
+dark powder <START:color> blue <END>
+electric <START:color> crimson <END>
 <START:color> mauve <END>
 <START:color> electric indigo <END>
-<START:color> crimson <END>  glory
-b'dazzled  <START:color> blue <END>
-light  <START:color> moss green <END>
+<START:color> crimson <END> glory
+b'dazzled <START:color> blue <END>
+light <START:color> moss green <END>
 <START:color> desire <END>
 <START:color> dark orange <END>
 <START:color> raspberry <END>
 <START:color> psychedelic purple <END>
-<START:color> teal <END>  blue
-cg  <START:color> blue <END>
-cadet  <START:color> blue <END>
-dark  <START:color> tangerine <END>
+<START:color> teal <END> blue
+cg <START:color> blue <END>
+cadet <START:color> blue <END>
+dark <START:color> tangerine <END>
 <START:color> usafa blue <END>
 <START:color> icterine <END>
-lawn  <START:color> green <END>
+lawn <START:color> green <END>
+
 <START:color> redwood <END>
 <START:color> dark liver <END>
 <START:color> goldenrod <END>
-light  <START:color> steel blue <END>
+light <START:color> steel blue <END>
 <START:color> field drab <END>
-vivid  <START:color> red <END>
+vivid <START:color> red <END>
 <START:color> bright pink <END>
 <START:color> shampoo <END>
 <START:color> cerulean <END>
-<START:color> beige <END>  carpet are famous in US.
-pale  <START:color> cyan <END>
+<START:color> beige <END> carpet are famous in US.
+pale <START:color> cyan <END>
 <START:color> golden yellow <END>
 <START:color> phthalo green <END>
 <START:color> english green <END>
 peach- <START:color> orange <END>
 <START:color> red <END> wood
-turquoise  <START:color> blue <END>
+turquoise <START:color> blue <END>
 <START:color> persian indigo <END>
 vermi <START:color> lion <END>
 <START:color> light goldenrod yellow <END>
-pale  <START:color> copper <END>
+pale <START:color> copper <END>
 <START:color> lion <END>
-tufts  <START:color> blue <END>
-teal  <START:color> blue <END>
+tufts <START:color> blue <END>
+teal <START:color> blue <END>
 <START:color> fuchsia rose <END>
-light french  <START:color> beige <END>
+
+light french <START:color> beige <END>
 <START:color> pastel green <END>
 <START:color> vivid burgundy <END>
 <START:color> deep peach <END>
-vivid  <START:color> burgundy <END>
+vivid <START:color> burgundy <END>
 <START:color> vivid orchid <END>
 <START:color> myrtle green <END>
 <START:color> old moss green <END>
-screamin'  <START:color> green <END>
+screamin' <START:color> green <END>
 <START:color> blue <END> berry
-medium tuscan  <START:color> red <END>
+medium tuscan <START:color> red <END>
 <START:color> medium orchid <END>
 <START:color> tea rose <END>
-fuchsia  <START:color> pink <END>
+fuchsia <START:color> pink <END>
 <START:color> lemon lime <END>
-university of tennessee  <START:color> orange <END>
+university of tennessee <START:color> orange <END>
 <START:color> seashell <END>
 <START:color> eucalyptus <END>
-spanish  <START:color> crimson <END>
+spanish <START:color> crimson <END>
+
 <START:color> dark imperial blue <END>
 <START:color> dark tan <END>
-nadeshiko  <START:color> pink <END>
-sonic  <START:color> silver <END>
+nadeshiko <START:color> pink <END>
+sonic <START:color> silver <END>
 <START:color> eerie black <END>
-royal  <START:color> azure <END>
-mughal  <START:color> green <END>
+royal <START:color> azure <END>
+mughal <START:color> green <END>
 <START:color> shamrock green <END>
 <START:color> copper <END>
-dark  <START:color> pastel purple <END>
-<START:color> baby blue <END>  eyes
+dark <START:color> pastel purple <END>
+<START:color> baby blue <END> eyes
 <START:color> caf? au lait <END>
 <START:color> ku crimson <END>
-medium jungle  <START:color> green <END>
+medium jungle <START:color> green <END>
 <START:color> italian sky blue <END>
 <START:color> coral red <END>
 <START:color> teal <END>
-rose  <START:color> pink <END>
-dark  <START:color> orange <END>
+rose <START:color> pink <END>
+dark <START:color> orange <END>
 <START:color> azureish white <END>
-dark  <START:color> imperial <END>  blue
-light grayish  <START:color> magenta <END>
+dark <START:color> imperial <END> blue
+light grayish <START:color> magenta <END>
+
 <START:color> melon <END>
-deep  <START:color> ruby <END>
-light  <START:color> goldenrod <END>  yellow
+deep <START:color> ruby <END>
+light <START:color> goldenrod <END> yellow
 <START:color> imperial red <END>
 <START:color> tuscan <END> y
 <START:color> coffee <END>
 <START:color> mint <END>
 <START:color> antique fuchsia <END>
-sunset  <START:color> orange <END>
-light  <START:color> slate gray <END>
-<START:color> orange <END>  peel
+sunset <START:color> orange <END>
+light <START:color> slate gray <END>
+<START:color> orange <END> peel
 <START:color> sunray <END>
 <START:color> dark brown <END> -tangelo
-schauss  <START:color> pink <END>
+schauss <START:color> pink <END>
 <START:color> scarlet <END>
-<START:color> lemon <END>  glacier
+<START:color> lemon <END> glacier
+
 <START:color> very light tangelo <END>
 <START:color> peach puff <END>
-dark  <START:color> terra cotta <END>
+dark <START:color> terra cotta <END>
 <START:color> palatinate blue <END>
-rich  <START:color> electric blue <END>
-deep  <START:color> red <END>
+rich <START:color> electric blue <END>
+deep <START:color> red <END>
 <START:color> dark sienna <END>
 <START:color> amaranth pink <END>
-cyan-blue  <START:color> azure <END>
+cyan-blue <START:color> azure <END>
 <START:color> rich lilac <END>
 <START:color> waterspout <END>
 <START:color> sandstorm <END>
-trolley  <START:color> grey <END>
-battleship  <START:color> grey <END>
-imperial  <START:color> blue <END>
-english  <START:color> red <END>
-<START:color> amaranth <END>  pink
+
+trolley <START:color> grey <END>
+battleship <START:color> grey <END>
+imperial <START:color> blue <END>
+english <START:color> red <END>
+<START:color> amaranth <END> pink
 <START:color> red <END> -purple
 <START:color> golden poppy <END>
 <START:color> pale turquoise <END>
-carrot  <START:color> orange <END>
-yellow  <START:color> rose <END>
+carrot <START:color> orange <END>
+yellow <START:color> rose <END>
 <START:color> liberty <END>
 <START:color> black olive <END>
-bright navy  <START:color> blue <END>
+bright navy <START:color> blue <END>
 <START:color> magic mint <END>
-dark sea  <START:color> green <END>
+dark sea <START:color> green <END>
 <START:color> amaranth red <END>
-pastel  <START:color> green <END>
-<START:color> tuscan <END>  tan
-solid  <START:color> pink <END>
-light thulian  <START:color> pink <END>
+pastel <START:color> green <END>
+<START:color> tuscan <END> tan
+solid <START:color> pink <END>
+
+light thulian <START:color> pink <END>
 <START:color> thistle <END>
 <START:color> dark orchid <END>
-persian  <START:color> indigo <END>
-dark pastel  <START:color> blue <END>
+persian <START:color> indigo <END>
+dark pastel <START:color> blue <END>
 <START:color> steel blue <END>
-antique  <START:color> fuchsia <END>
+antique <START:color> fuchsia <END>
 <START:color> deep saffron <END>
-medium  <START:color> carmine <END>
+medium <START:color> carmine <END>
 <START:color> caf? noir <END>
-pale  <START:color> red-violet <END>
-dark  <START:color> taupe <END>
+pale <START:color> red-violet <END>
+dark <START:color> taupe <END>
+
 <START:color> coral pink <END>
 <START:color> antique bronze <END>
-light salmon  <START:color> pink <END>
-dark  <START:color> blue <END> -gray
+light salmon <START:color> pink <END>
+dark <START:color> blue <END> -gray
 <START:color> bright navy blue <END>
 <START:color> vivid tangerine <END>
-shocking  <START:color> pink <END>
+shocking <START:color> pink <END>
 <START:color> pale taupe <END>
-yellow  <START:color> orange <END>
-medium sea  <START:color> green <END>
-<START:color> salmon <END>  pink
-cyan cornflower  <START:color> blue <END>
+yellow <START:color> orange <END>
+medium sea <START:color> green <END>
+<START:color> salmon <END> pink
+cyan cornflower <START:color> blue <END>
 <START:color> celadon green <END>
 <START:color> powder blue <END>
-medium  <START:color> red-violet <END>
-french  <START:color> wine <END>
-lemon  <START:color> yellow <END>
+medium <START:color> red-violet <END>
+french <START:color> wine <END>
+lemon <START:color> yellow <END>
 <START:color> gray <END>
-may  <START:color> green <END>
-hot  <START:color> pink <END>
-dark  <START:color> jungle green <END>
+may <START:color> green <END>
+hot <START:color> pink <END>
+dark <START:color> jungle green <END>
+
 ti <START:color> tan <END> ium yellow
-fashion  <START:color> fuchsia <END>
+fashion <START:color> fuchsia <END>
 <START:color> tangelo <END>
 <START:color> cameo pink <END>
-cambridge  <START:color> blue <END>
+cambridge <START:color> blue <END>
 <START:color> navajo white <END>
 <START:color> buff <END>
-laurel  <START:color> green <END>
+laurel <START:color> green <END>
 <START:color> bitter lime <END>
 <START:color> english red <END>
-ghost  <START:color> white <END>
+ghost <START:color> white <END>
 <START:color> pumpkin <END>
 <START:color> medium aquamarine <END>
 <START:color> light crimson <END>
-chrome  <START:color> yellow <END>
-spartan  <START:color> crimson <END>
-vivid  <START:color> violet <END>
-<START:color> heliotrope <END>  magenta
+chrome <START:color> yellow <END>
+spartan <START:color> crimson <END>
+vivid <START:color> violet <END>
+<START:color> heliotrope <END> magenta
 <START:color> tuscan tan <END>
-light  <START:color> pink <END>
-powder  <START:color> blue <END>
-medium  <START:color> vermilion <END>
+light <START:color> pink <END>
+powder <START:color> blue <END>
+medium <START:color> vermilion <END>
 <START:color> china rose <END>
-dark  <START:color> slate <END>  blue
+
+dark <START:color> slate <END> blue
 <START:color> brilliant azure <END>
-<START:color> black <END>  bean
+<START:color> black <END> bean
 <START:color> rosy brown <END>
 <START:color> cadet <END>
 <START:color> aqua <END> marine
 <START:color> resolution blue <END>
 <START:color> mode beige <END>
-tuscan  <START:color> tan <END>
-spar <START:color> tan <END>  crimson
+tuscan <START:color> tan <END>
+spar <START:color> tan <END> crimson
 <START:color> gainsboro <END>
 <START:color> lilac <END>
 <START:color> light red ochre <END>
-medium  <START:color> violet-red <END>
+medium <START:color> violet-red <END>
 <START:color> saffron <END>
-deep  <START:color> tuscan <END>  red
-<START:color> imperial <END>  blue
+deep <START:color> tuscan <END> red
+<START:color> imperial <END> blue
 <START:color> steel pink <END>
-ash  <START:color> grey <END>
+ash <START:color> grey <END>
 <START:color> light khaki <END>
 <START:color> violet <END> -blue
 <START:color> unmellow yellow <END>
 <START:color> viridian green <END>
 <START:color> japanese carmine <END>
+
 <START:color> very light malachite green <END>
 <START:color> deep spring bud <END>
 <START:color> debian red <END>
@@ -2075,6 +2200,7 @@ ash  <START:color> grey <END>
 <START:color> Khaki <END>
 <START:color> Off White <END>
 <START:color> Ombre Pink <END>
+
 <START:color> Mango <END>
 <START:color> Heather Grey <END>
 <START:color> Multicolor <END>
@@ -2096,6 +2222,7 @@ ash  <START:color> grey <END>
 <START:color> Purple <END>
 <START:color> Rspbry <END>
 <START:color> Black/Cream Fur <END>
+
 <START:color> Gold <END>
 <START:color> Ivory/Multicolor <END>
 <START:color> Grey/White <END>
@@ -2116,6 +2243,7 @@ ash  <START:color> grey <END>
 <START:color> PINK/WHITE/GREY <END>
 <START:color> Grey/Multicolor <END>
 <START:color> Bordeaux <END>
+
 <START:color> WHITE/GREY/TURQUOISE <END>
 <START:color> Red Brown <END>
 <START:color> Cape Cod Mint <END>
@@ -2138,6 +2266,7 @@ ash  <START:color> grey <END>
 <START:color> Graphite <END>
 <START:color> OLIVE DRAB <END>
 <START:color> WHITE/MULTI <END>
+
 <START:color> SILVER/BLACK <END>
 <START:color> BLACK/SILVER <END>
 <START:color> Silver/Cream <END>
@@ -2150,6 +2279,7 @@ ash  <START:color> grey <END>
 <START:color> Multicolored <END>
 <START:color> Black/Charcoal Jacquard <END>
 <START:color> Black/White <END>
+
 <START:color> Black/Tan <END>
 <START:color> Gray/Black Melange <END>
 <START:color> Black/Cream Aztec <END>
@@ -2163,6 +2293,7 @@ ash  <START:color> grey <END>
 <START:color> Berried Gem <END>
 <START:color> Shimmering Shale <END>
 <START:color> Crimson Clay <END>
+
 <START:color> Coral Reef <END>
 <START:color> Base Coat <END>
 <START:color> Emerald Sand <END>
@@ -2178,307 +2309,339 @@ ash  <START:color> grey <END>
 <START:color> Caramel <END>
 <START:color> Lime Twist <END>
 <START:color> Chocolate <END>
+
 <START:color> Old World Beige <END>
 Charles' eyes glowed <START:color> red <END> in the night.6 2  
 "There's enough rock here to build a housing development," she commented as they worked their way across a jumble of flat <START:color> red <END> rocks.1    
-She knew her face was getting <START:color> red <END>, and Brandon wasn't exactly pale.1    
+She knew her face was getting <START:color> red <END> , and Brandon wasn't exactly pale.1    
 <START:color> red <END> crept up her features, and she looked away.1    
 Normally it was a raised area, dark pink, but now it looked <START:color> red <END> and angry.     
 Felipa smiled as she expertly tied a big <START:color> red <END> bow.     
 Alex turned <START:color> red <END> when Carmen stepped forward.2 1  
-Carmen and Destiny dressed mother/daughter style in <START:color> red <END>/<START:color> green <END>/yellow plaid blouses.
+Carmen and Destiny dressed mother/daughter style in <START:color> red <END> / <START:color> green <END> /yellow plaid blouses.
 His <START:color> red <END> shock of hair stood up like a flame as he gla <START:color> red <END> down at her.     
-In the ensuing darkness, <START:color> red <END> and<START:color> blue <END>lights flashed his shadow on the wet grass.     
+In the ensuing darkness, <START:color> red <END> and <START:color> blue <END> lights flashed his shadow on the wet grass.     
+
 After adding a bottom border, she changed to the <START:color> red <END> icing.     
 Of course, the little <START:color> red <END> truck Dad had been drooling over.     
 She must look a sight with <START:color> red <END> swollen eyes.     
 Mrs. Marsh's face was white, and her eyes <START:color> red <END> and swollen, with dark circles under them.     
 The dusty captain surveyed the gathering with <START:color> red <END> rimed eyes that came to rest on the Frenchman.     
-The sun turned the dunes <START:color> orange <END><START:color> red <END> and then quickly sank, leaving them in pre-moon darkness. 
+The sun turned the dunes <START:color> orange <END> <START:color> red <END> and then quickly sank, leaving them in pre-moon darkness. 
 I saw something <START:color> red <END> up there in the rocks.     
 She knew her face was as <START:color> red <END> as his.     
+
 Don't forget the mess of <START:color> red <END> hair and freckles.     
 Zach jerked suddenly, knocking his cap off and exposing a scalp full of <START:color> red <END> hair.     
-He flew in from Santa Barbara, California on a <START:color> red <END>-eye.     
+He flew in from Santa Barbara, California on a <START:color> red <END> -eye.     
 From the porch we could see the huddled figure of Howie Abbott sitting under a large <START:color> red <END> umbrella on the edge of the pier.     
 The <START:color> red <END> Sox were in town to take on the Yankees, a reve <START:color> red <END> experience for us died hard fans.     
 Betsy's <START:color> red <END> -eye flight for Chicago left at seven and I kissed her as she stepped into her cab at the curb.     
 A <START:color> red <END> brick municipal building stood at the far end of the street ahead of us.     
 The room was dark except for the light above Jonny's bed and the <START:color> red <END> and <START:color> green <END> lights dotting the machines keeping him alive.     
 All of them wore eerie <START:color> red <END> contact lenses.     
-She hopped down, oblivious to the attention channeled her way by the <START:color> red <END>-eyed men around her.     
-A naked, unconscious woman lay atop the island in the center with five men with <START:color> red <END> eyes chewing on various parts of her body, one on each leg, one on each arm, and one at her neck.     
+She hopped down, oblivious to the attention channeled her way by the <START:color> red <END> -eyed men around her.     
+A naked, unconscious woman lay atop the island in the center with five men with <START:color> red <END> eyes chewing on various parts of her 
+body, one on each leg, one on each arm, and one at her neck.     
 Her hair was fiery <START:color> red <END> and curly, her frame tall and slender.     
 He couldn't focus on the face, but he saw the glowing <START:color> red <END> eyes.     
 There was interest in his glowing <START:color> red <END> eyes, and she rested the palms of her hands on the knives at her belt.     
 She stared at the towering man with <START:color> red <END> eyes, not sensing him at all.     
 He held out a bottle of <START:color> red <END> water.
-A cold gust of wind ripped brittle<START:color> brown <END>leaves from the limbs of old oak tree, tossing them carelessly in front of the headstone below.1    
-Big<START:color> brown <END>eyes shined on them enthusiastically while dangling earrings sparkled with the movement of her head.     
-Her eyes were almond shaped, the<START:color> brown <END>of the iris so dark that it was almost black.     
-Her large<START:color> brown <END>eyes took in Lisa with surprise and she threw her son a questioning look.     
-She glanced around the room again and did a double take when she saw the man in a dark<START:color> brown <END>suit.1 1  
-Maybe one of those<START:color> brown <END>sacks in the laundry room would work, and she could put the pictures in with it.     
-Thick<START:color> brown <END>brows crouched over darkening eyes.1 1  
-He threw a saddle on a reddish<START:color> brown <END>horse and nodded You're right.     
-Tucking a wayward strand of curly<START:color> brown <END>hair back into her bun, she replaced her hat and wrapped the lead lines around the wagon break.     
-She dropped the package on the bed and eagerly tore back the<START:color> brown <END>paper wrapping.     
-Tossing her worn clothing into the<START:color> brown <END>paper, she tied it up and left the room.     
-She called to him as he hunkered down beside a rose bush with a few<START:color> brown <END>leaves clinging to it.     
-He didn't wear a coat today and his shirtsleeves were rolled up to reveal<START:color> brown <END>muscular forearms.     
-She had large<START:color> brown <END>eyes with thick black lashes and matching hair that was stacked becomingly on top of her head.     
-I asked, just as a stocky bearded man dressed in a<START:color> brown <END>religious smock came out of a side door.     
-His gaze lingered, and he took in the beautiful doe<START:color> brown <END>eyes, deep set and large, framed by long eyelashes.     
-Her skin was caramel, her long<START:color> brown <END>hair falling in fat ringlets around her elfin features.     
-He met Bianca's beautiful<START:color> brown <END>eyes.     
-"Here you go," he said and placed the small<START:color> brown <END>paper bag on the table before her.     
-The man before her looked pretty human himself, with beautiful<START:color> brown <END>eyes and a body unlike any she'd seen before.     
-His<START:color> brown <END>eyes were shadowed, his Hispanic features the color of caramel.1 1  
-She squinted, realizing the two furry<START:color> brown <END>monsters were men in costumes from Where the Wild Things Are.     
-His<START:color> brown <END>gaze was friendly but cautious.     
-Three men stood in the main foyer, two in the same shade of<START:color> brown <END>as her bodyguard and a striking man in designer jeans and an expensive sweater.     
-He led her into a large study with a huge,<START:color> brown <END>leather couch near a dead hearth.     
+A cold gust of wind ripped brittle <START:color> brown <END> leaves from the limbs of old oak tree, tossing them carelessly in front of the headstone below.1    
+
+Big <START:color> brown <END> eyes shined on them enthusiastically while dangling earrings sparkled with the movement of her head.     
+Her eyes were almond shaped, the <START:color> brown <END> of the iris so dark that it was almost black.     
+Her large <START:color> brown <END> eyes took in Lisa with surprise and she threw her son a questioning look.     
+She glanced around the room again and did a double take when she saw the man in a dark <START:color> brown <END> suit.1 1  
+Maybe one of those <START:color> brown <END> sacks in the laundry room would work, and she could put the pictures in with it.     
+Thick <START:color> brown <END> brows crouched over darkening eyes.1 1  
+He threw a saddle on a reddish <START:color> brown <END> horse and nodded You're right.     
+Tucking a wayward strand of curly <START:color> brown <END> hair back into her bun, she replaced her hat and wrapped the lead lines around the wagon break.     
+She dropped the package on the bed and eagerly tore back the <START:color> brown <END> paper wrapping.     
+Tossing her worn clothing into the <START:color> brown <END> paper, she tied it up and left the room.     
+
+She called to him as he hunkered down beside a rose bush with a few <START:color> brown <END> leaves clinging to it.     
+He didn't wear a coat today and his shirtsleeves were rolled up to reveal <START:color> brown <END> muscular forearms.     
+She had large <START:color> brown <END> eyes with thick black lashes and matching hair that was stacked becomingly on top of her head.     
+I asked, just as a stocky bearded man dressed in a <START:color> brown <END> religious smock came out of a side door.     
+His gaze lingered, and he took in the beautiful doe <START:color> brown <END> eyes, deep set and large, framed by long eyelashes.     
+Her skin was caramel, her long <START:color> brown <END> hair falling in fat ringlets around her elfin features.     
+He met Bianca's beautiful <START:color> brown <END> eyes.     
+"Here you go," he said and placed the small <START:color> brown <END> paper bag on the table before her.     
+The man before her looked pretty human himself, with beautiful <START:color> brown <END> eyes and a body unlike any she'd seen before.     
+His <START:color> brown <END> eyes were shadowed, his Hispanic features the color of caramel.1 1  
+
+She squinted, realizing the two furry <START:color> brown <END> monsters were men in costumes from Where the Wild Things Are.     
+His <START:color> brown <END> gaze was friendly but cautious.     
+Three men stood in the main foyer, two in the same shade of <START:color> brown <END> as her bodyguard and a striking man in designer jeans and an expensive sweater.     
+He led her into a large study with a huge, <START:color> brown <END> leather couch near a dead hearth.     
 She commiserated with the brown-tinged blossoms left behind by other customers who didn't want to be so close to death.     
-His<START:color> brown <END>hair was tousled from the ocean breeze, and he was dressed in jeans and a loose shirt fastened across the golden skin of his chest by one button.     
-The door opened to reveal Daniela, the headmistress, a severe-looking woman wearing the<START:color> brown <END>robes of the convent.     
-Tell this nice man the truth, she said, meeting the twinkling<START:color> brown <END>eyes.     
-Rhyn tested the bonds of his cell again until a mage in a<START:color> brown <END>robe hurried down the hall to repair the damage.     
-He watched the mage in<START:color> brown <END>scuttle away.     
-Verdant forests stretched to the steely sky, a swath of <START:color> green <END>, brown, and grey.     
-A child-angel—the first he.d seen in hundreds of years—gazed at him with large<START:color> brown <END>eyes before darting up the stairs.     
-Suddenly, a blur of<START:color> brown <END>streaked past the bathroom, tackling the demon.     
-The man beside her had dark blond hair, serious<START:color> brown <END>eyes in a chiseled face, and a form as fit as his son's.     
-There was a gentle air around the woman, and her large<START:color> brown <END>eyes lacked the rigid stoniness of her husband's.     
+His <START:color> brown <END> hair was tousled from the ocean breeze, and he was dressed in jeans and a loose shirt fastened across the golden skin of his chest by one button.     
+The door opened to reveal Daniela, the headmistress, a severe-looking woman wearing the <START:color> brown <END> robes of the convent.     
+Tell this nice man the truth, she said, meeting the twinkling <START:color> brown <END> eyes.     
+Rhyn tested the bonds of his cell again until a mage in a <START:color> brown <END> robe hurried down the hall to repair the damage.     
+
+He watched the mage in <START:color> brown <END> scuttle away.     
+Verdant forests stretched to the steely sky, a swath of <START:color> green <END> , brown, and grey.     
+A child-angel—the first he.d seen in hundreds of years—gazed at him with large <START:color> brown <END> eyes before darting up the stairs.     
+Suddenly, a blur of <START:color> brown <END> streaked past the bathroom, tackling the demon.     
+The man beside her had dark blond hair, serious <START:color> brown <END> eyes in a chiseled face, and a form as fit as his son's.     
+There was a gentle air around the woman, and her large <START:color> brown <END> eyes lacked the rigid stoniness of her husband's.     
 His skin was darker, the color of honey as opposed to alabaster, his eyes a rich, dark brown, and his features lacking the delicate, chiseled beauty of Romas's family.     
-She looked at him, big<START:color> brown <END>eyes incredibly sad.  1  
-He was sure by now it was a<START:color> brown <END>tangle, ready for the trash heap.     
-His soft<START:color> brown <END>eyes were now the color of a deep topaz, feline in nature.     
-She appeared to be in her early thirties, had chestnut<START:color> brown <END>hair that fell in soft waves around her shoulders with thin streaks of what looked like fire running through it.     
-They were a soft, sable<START:color> brown <END>with specs of black that seemed to swirl in motion around her pupils like two tiny solar systems.
+She looked at him, big <START:color> brown <END> eyes incredibly sad.  1  
+He was sure by now it was a <START:color> brown <END> tangle, ready for the trash heap.     
+
+His soft <START:color> brown <END> eyes were now the color of a deep topaz, feline in nature.     
+She appeared to be in her early thirties, had chestnut <START:color> brown <END> hair that fell in soft waves around her shoulders with thin streaks of what looked like fire running through it.     
+They were a soft, sable <START:color> brown <END> with specs of black that seemed to swirl in motion around her pupils like two tiny solar systems.
 <START:color> brown <END> toys are nice one.
-Long dark lashes and<START:color> black <END>curly hair - he had it all.1 1  
-The golden brown skin and<START:color> black <END>hair reminded her of the conversation at Thanksgiving.     
-A wide porch stretched the length of the building, and above it were two balconies with<START:color> black <END>wrought iron banisters that curved out gracefully.     
-The porch posts were<START:color> black <END>metal with a filigree design.     
-Felipa looked slim and feminine in a<START:color> black <END>riding outfit - which might explain all the men lined along the fence watching them.     
-Corn seasoned with red bell peppers and<START:color> black <END>beans made a colorful vegetable.     
-Matthew had thick<START:color> black <END>hair, but Natalie's was blonde.     
-Lisa let the matter drop, but she began to pay more attention to the activities around the house - like the shiny<START:color> black <END>car that sometimes came up the driveway and followed the path back into the woods without stopping at the house.     
-The questions plagued her until one evening when the<START:color> black <END>car returned.     
-It looked like the envelope the man in the<START:color> black <END>car had given him.1 1  
-Was it her imagination, or was it the man who drove the<START:color> black <END>car?     
-The room went<START:color> black <END>and his arms instantly surrounded her, drawing her close in an eager embrace.1 1  
-As she reached the tree, a large<START:color> black <END>furry form crashed into the trees ahead of her.     
-It's just a<START:color> black <END>snake.     
-Her hair was drawn back severely into a bun and she had<START:color> black <END>eyes that could render a lie detector machine obsolete.     
-The<START:color> black <END>eyes softened slightly.     
-His<START:color> black <END>hair reflected sunlight at the peak of every wave.     
-I had a beautiful<START:color> black <END>once, but I had to sell it.     
-Oblivious to her frozen stare, his<START:color> black <END>eyes fixed on Bordeaux as he dashed for cover.     
-But the<START:color> black <END>rocks sucked the heat in and held it close to the earth.     
-As they entered the Indian encampment, hostile<START:color> black <END>eyes turned to follow them.     
-Another rider appeared on a<START:color> black <END>horse.     
-The rider on the<START:color> black <END>horse turned back.     
-She could set her clock by his arrival - eight o'clock every Friday night - in a<START:color> blue <END>plaid western shirt and battered<START:color> black <END>cowboy hat.     
-Just don't try to tame any of those<START:color> black <END>kitties with the white stripes down their backs.     
-The animals were sleek and their<START:color> black <END>fur shined in the sunlight.     
-She had large brown eyes with thick<START:color> black <END>lashes and matching hair that was stacked becomingly on top of her head.     
-Cupped in his hand was a tiny<START:color> black <END>kitten, its eyes still closed.     
-The plate was<START:color> yellow <END>with<START:color> black <END>number; two digits, a space, and three digits.     
-I've got a<START:color> black <END>and<START:color> blue <END>mark on my ribs from his version of Saturday night fever.     
-Julie's sort of a<START:color> black <END>sheep in her family.     
-I'm the poop the<START:color> black <END>sheep left behind in the pen.     
+Long dark lashes and <START:color> black <END> curly hair - he had it all.1 1  
+The golden brown skin and <START:color> black <END> hair reminded her of the conversation at Thanksgiving.     
+A wide porch stretched the length of the building, and above it were two balconies with <START:color> black <END> wrought iron banisters that curved out gracefully.     
+The porch posts were <START:color> black <END> metal with a filigree design.     
+
+Felipa looked slim and feminine in a <START:color> black <END> riding outfit - which might explain all the men lined along the fence watching them.     
+Corn seasoned with red bell peppers and <START:color> black <END> beans made a colorful vegetable.     
+Matthew had thick <START:color> black <END> hair, but Natalie's was blonde.     
+Lisa let the matter drop, but she began to pay more attention to the activities around the house - like the shiny <START:color> black <END> car that sometimes came up the driveway and followed the path back into the woods without stopping at the house.     
+The questions plagued her until one evening when the <START:color> black <END> car returned.     
+It looked like the envelope the man in the <START:color> black <END> car had given him.1 1  
+Was it her imagination, or was it the man who drove the <START:color> black <END> car?     
+
+The room went <START:color> black <END> and his arms instantly surrounded her, drawing her close in an eager embrace.1 1  
+As she reached the tree, a large <START:color> black <END> furry form crashed into the trees ahead of her.     
+It's just a <START:color> black <END> snake.     
+Her hair was drawn back severely into a bun and she had <START:color> black <END> eyes that could render a lie detector machine obsolete.     
+The <START:color> black <END> eyes softened slightly.     
+His <START:color> black <END> hair reflected sunlight at the peak of every wave.     
+I had a beautiful <START:color> black <END> once, but I had to sell it.     
+Oblivious to her frozen stare, his <START:color> black <END> eyes fixed on Bordeaux as he dashed for cover.     
+But the <START:color> black <END> rocks sucked the heat in and held it close to the earth.     
+As they entered the Indian encampment, hostile <START:color> black <END> eyes turned to follow them.     
+Another rider appeared on a <START:color> black <END> horse.     
+The rider on the <START:color> black <END> horse turned back.     
+
+She could set her clock by his arrival - eight o'clock every Friday night - in a <START:color> blue <END> plaid western shirt and battered  <START:color> black <END> cowboy hat.     
+Just don't try to tame any of those <START:color> black <END> kitties with the white stripes down their backs.     
+The animals were sleek and their <START:color> black <END> fur shined in the sunlight.     
+She had large brown eyes with thick <START:color> black <END> lashes and matching hair that was stacked becomingly on top of her head.     
+Cupped in his hand was a tiny <START:color> black <END> kitten, its eyes still closed.     
+The plate was <START:color> yellow <END> with <START:color> black <END> number; two digits, a space, and three digits.     
+I've got a <START:color> black <END> and <START:color> blue <END> mark on my ribs from his version of Saturday night fever.     
+Julie's sort of a <START:color> black <END> sheep in her family.     
+
+I'm the poop the <START:color> black <END> sheep left behind in the pen.     
 He was wearing a hoodie and dressed in black, including gloves.     
-It was pitch<START:color> black <END>in the bedroom where I was supposed to get the suit.     
-A thousand thought and memories shuffled through my brain like<START:color> black <END>jack deck.     
-She never thought much of their<START:color> black <END>clad, piercing-decorated vampire girlfriends and couldn't help being irked that Jonny had told his friend her biggest secret!     
-The<START:color> black <END>God would slaughter him on the spot.     
-He said nothing about the presence of one such<START:color> black <END>God in Miami.     
-The<START:color> black <END>God, Czerno, had been wreaking havoc in Europe until a few days ago.     
-Tears wetted her face as men in what looked like<START:color> black <END>tactical SWAT gear entered the garage.     
-She was silently thanking the heavens for rescuing her, until one of the men in<START:color> black <END>entered the garage and began shooting the downed men a second time around.1 1  
-He was dressed in<START:color> black <END>but not in SWAT gear, as if he knew nothing in this world could hurt him.
+It was pitch <START:color> black <END> in the bedroom where I was supposed to get the suit.     
+A thousand thought and memories shuffled through my brain like <START:color> black <END> jack deck.     
+She never thought much of their <START:color> black <END> clad, piercing-decorated vampire girlfriends and couldn't help being irked that Jonny had told his friend her biggest secret!     
+The <START:color> black <END> God would slaughter him on the spot.     
+He said nothing about the presence of one such <START:color> black <END> God in Miami.     
+The <START:color> black <END> God, Czerno, had been wreaking havoc in Europe until a few days ago.     
+Tears wetted her face as men in what looked like <START:color> black <END> tactical SWAT gear entered the garage.     
+
+She was silently thanking the heavens for rescuing her, until one of the men in <START:color> black <END> entered the garage and began shooting the downed men a second time around.1 1  
+He was dressed in <START:color> black <END> but not in SWAT gear, as if he knew nothing in this world could hurt him.
 Normally it was a raised area, dark pink, but now it looked red and angry.1 1  
-It mixed with the rain to drip<START:color> pink <END>puddles on the ceramic floor.     
-Suspecting he'd just driven Sofi's healer completely catatonic, he peeled her soaked sweater and jeans off to display matching<START:color> pink <END>underwear.     
-She tossed it into the fire, marveling at the tiny explosion of<START:color> pink <END>and <START:color> green <END> flames.     
-Rainy will have to get used to<START:color> pink <END>stuff being everywhere.     
+It mixed with the rain to drip <START:color> pink <END> puddles on the ceramic floor.     
+Suspecting he'd just driven Sofi's healer completely catatonic, he peeled her soaked sweater and jeans off to display matching <START:color> pink <END> underwear.     
+She tossed it into the fire, marveling at the tiny explosion of <START:color> pink <END> and <START:color> green <END> flames.     
+Rainy will have to get used to <START:color> pink <END> stuff being everywhere.     
 Uncertain how to explain things, she turned and swept her pink-dyed hair from her back to show him the mating mark.     
-Her<START:color> pink <END>hair was up in a bun that revealed the delicate cut of her elfin features.     
-It seemed to say the world is a marvelous place and I'm tickled<START:color> pink <END>to be here.1 1  
-Her<START:color> pink <END>shorts were slung below a belly that topped her husband's in grandeur.     
-Deidre hadn't tried to dye her hair<START:color> pink <END>or hide the fact she was different.     
-Her hair was still<START:color> pink <END>and in a loose bun on the top of her head.     
-The tiny<START:color> pink <END>nose wiggled and the<START:color> pink <END>eyes regarded Destiny suspiciously.     
-Naturally white-blonde, she'd dyed it<START:color> pink <END>on a whim last weekend.     
+
+Her <START:color> pink <END> hair was up in a bun that revealed the delicate cut of her elfin features.     
+It seemed to say the world is a marvelous place and I'm tickled <START:color> pink <END> to be here.1 1  
+Her <START:color> pink <END> shorts were slung below a belly that topped her husband's in grandeur.     
+Deidre hadn't tried to dye her hair <START:color> pink <END> or hide the fact she was different.     
+Her hair was still <START:color> pink <END> and in a loose bun on the top of her head.     
+The tiny <START:color> pink <END> nose wiggled and the <START:color> pink <END> eyes regarded Destiny suspiciously.     
+Naturally white-blonde, she'd dyed it <START:color> pink <END> on a whim last weekend.     
 She marveled at the world, the gentle sunshine, beautiful sky, the fragrant ocean breeze that ruffled her pink-striped blond hair, the soft crunch of gravel beneath her shoes.     
-Iliana asked, tapping a hot<START:color> pink <END>fingernail.     
-His bright features turned<START:color> pink <END>beneath his wire-rimmed glasses and straw-colored hair.     
-The woman.s face was hidden behind a mass of blonde hair, but he recognized the hot<START:color> pink <END>fingernails instantly.     
+Iliana asked, tapping a hot <START:color> pink <END> fingernail.     
+His bright features turned <START:color> pink <END> beneath his wire-rimmed glasses and straw-colored hair.     
+The woman.s face was hidden behind a mass of blonde hair, but he recognized the hot <START:color> pink <END> fingernails instantly.     
 It grew to her height as she watched and then bloomed into an orange-pink flower the size of her head, shriveled and died, and returned.     
-He sauntered down Main Street, the hint of a self-satisfied smirk playing across full,<START:color> pink <END>lips.     
-It was<START:color> pink <END>with white tips, in an antique brass planter.     
-Three pair of<START:color> blue <END>eyes stared back at her from the first stall, and tiny<START:color> pink <END>cleft muzzles lifted in a cute imitation of their mother's broken cry of joy.     
-This time both legs presented and then the little<START:color> pink <END>nose.     
-Jack smelled clean and looked healthy with his long<START:color> pink <END>tongue lolling out of the side of his mouth.     
-"The coat is<START:color> pink <END>and there are<START:color> purple <END>hearts on the sweater," Toby said.     
-"But I'm not done –" Rhyn snatched the open can of food and flung it into the forest.  Toby stared at him then took his<START:color> pink <END>coat and crawled deeper into the little cave.  Rhyn stretched out on his back next to the fire, his mind puzzling over the angel's words.  However much he tried to focus on what it was Death had agreed to, he couldn't escape his mixed emotions or one errant thought.     
-Jeff doesn't make much, but we make do, and he's tickled<START:color> pink <END>to let me do the paper work.     
-Dean knew if he were honest with himself he'd admit he was tickled<START:color> pink <END>during those few hours that it appeared Jeffrey Byrne's body had been found.     
-Her<START:color> pink <END>nose felt like velvet.     
+He sauntered down Main Street, the hint of a self-satisfied smirk playing across full, <START:color> pink <END> lips.     
+
+It was <START:color> pink <END> with white tips, in an antique brass planter.     
+Three pair of <START:color> blue <END> eyes stared back at her from the first stall, and tiny <START:color> pink <END> cleft muzzles lifted in a cute imitation of their mother's broken cry of joy.     
+This time both legs presented and then the little <START:color> pink <END> nose.     
+Jack smelled clean and looked healthy with his long <START:color> pink <END> tongue lolling out of the side of his mouth.     
+"The coat is <START:color> pink <END> and there are <START:color> purple <END> hearts on the sweater," Toby said.     
+"But I'm not done –" Rhyn snatched the open can of food and flung it into the forest.  Toby stared at him then took his <START:color> pink <END> coat and crawled deeper into the little cave.  Rhyn stretched out on his back next to the fire, his mind puzzling over the angel's words.  However much he tried to focus on what it was Death had agreed to, he couldn't escape his mixed emotions or one errant thought.     
+
+Jeff doesn't make much, but we make do, and he's tickled <START:color> pink <END> to let me do the paper work.     
+Dean knew if he were honest with himself he'd admit he was tickled <START:color> pink <END> during those few hours that it appeared Jeffrey Byrne's body had been found.     
+Her <START:color> pink <END> nose felt like velvet.     
 The trees would continue to bloom for the rest of his years, filling the orchard with delicate pink-white petals.     
 Half the orchard was on fire while the other half rained delicate pink-white blooms from the apple trees.     
-Carmen was dressed in a short<START:color> pink <END>dress and white tights.     
-She dressed in a<START:color> pink <END>cotton T-shirt, jeans and western boots - because that was what she wanted to wear.     
-Her toned hourglass shape was clothed in jeans and a snug t-shirt and<START:color> pink <END>house slippers, as if she'd left home in a hurry.     
-Xander waited until he saw the<START:color> pink <END>creep up her face.     
-Betsy stepped from the shower, all<START:color> pink <END>as a posy and wearing only a smile.
-Removing his<START:color> white <END>lab coat, he carefully folded it and placed it on the back of the chair.1    
-Len's face was pasty<START:color> white <END>and for a moment she thought he was going to throw up.1    
-Just don't try to tame any of those black kitties with the<START:color> white <END>stripes down their backs.1    
-A<START:color> white <END>truck came down the road leading a dust trail.1 1  
-After they retrieved their luggage, Señor Medena instructed a man to carry it to a<START:color> white <END>limousine.     
-The<START:color> white <END>athletic undershirt contrasted attractively with his bronzed skin.     
-Alex pointed at a<START:color> white <END>horse prancing along the fence.     
-Alex instantly provided a little<START:color> white <END>bag and she made use of it.     
-She helped Destiny into a frilly<START:color> white <END>dress with<START:color> yellow <END>trim and they both finished up with<START:color> white <END>sandals.     
-She woke several times briefly; once to see Len and an older officer with<START:color> white <END>hair talking in the hallway outside her cubicle in the emergency room.     
-"You're not ready yet," she said around a mouth full of<START:color> white <END>foam.     
-Beginning at his dusty oxfords and indigo<START:color> blue <END>jeans, her scrutiny continued up to a neatly tucked in worn<START:color> white <END>cotton shirt with the sleeves rolled up to mid arm.     
-A little further ahead, they glimpsed a<START:color> white <END>flash of tail as a deer bounded crossed the trail no more than fifty feet ahead of them.     
-What she expected to see when she turned was Sarah's<START:color> white <END>Plymouth, but the car that stopped before the house was Allen's red Eagle Talon.     
-It was<START:color> blue <END>and<START:color> white <END>and red – a reminder of the last birthday cake she saw.     
-His eyes looked huge in a<START:color> white <END>face.     
+Carmen was dressed in a short <START:color> pink <END> dress and white tights.     
+She dressed in a <START:color> pink <END> cotton T-shirt, jeans and western boots - because that was what she wanted to wear.     
+Her toned hourglass shape was clothed in jeans and a snug t-shirt and <START:color> pink <END> house slippers, as if she'd left home in a hurry.     
+Xander waited until he saw the <START:color> pink <END> creep up her face.     
+Betsy stepped from the shower, all <START:color> pink <END> as a posy and wearing only a smile.
+Removing his <START:color> white <END> lab coat, he carefully folded it and placed it on the back of the chair.1    
+Len's face was pasty <START:color> white <END> and for a moment she thought he was going to throw up.1    
+Just don't try to tame any of those black kitties with the <START:color> white <END> stripes down their backs.1    
+A <START:color> white <END> truck came down the road leading a dust trail.1 1  
+After they retrieved their luggage, Señor Medena instructed a man to carry it to a <START:color> white <END> limousine.     
+The <START:color> white <END> athletic undershirt contrasted attractively with his bronzed skin.     
+
+Alex pointed at a <START:color> white <END> horse prancing along the fence.     
+Alex instantly provided a little <START:color> white <END> bag and she made use of it.     
+She helped Destiny into a frilly <START:color> white <END> dress with <START:color> yellow <END> trim and they both finished up with <START:color> white <END> sandals.     
+She woke several times briefly; once to see Len and an older officer with <START:color> white <END> hair talking in the hallway outside her cubicle in the emergency room.     
+"You're not ready yet," she said around a mouth full of <START:color> white <END> foam.     
+Beginning at his dusty oxfords and indigo <START:color> blue <END> jeans, her scrutiny continued up to a neatly tucked in worn <START:color> white <END> cotton shirt with the sleeves rolled up to mid arm.     
+A little further ahead, they glimpsed a <START:color> white <END> flash of tail as a deer bounded crossed the trail no more than fifty feet ahead of them.     
+
+What she expected to see when she turned was Sarah's <START:color> white <END> Plymouth, but the car that stopped before the house was Allen's red Eagle Talon.     
+It was <START:color> blue <END> and <START:color> white <END> and red – a reminder of the last birthday cake she saw.     
+His eyes looked huge in a <START:color> white <END> face.     
 Mrs. Marsh's face was white, and her eyes red and swollen, with dark circles under them.     
-As she watched, the horses plunged down a dune, sending a spray of<START:color> white <END>sand into the dry air.     
-Ridges of sparkling<START:color> white <END>sand surrounded the camp like a sleeping dragon, soaking heat from the sun - resting now so it could spit its fiery breath at them later in the day.     
-The<START:color> white <END>sand was almost as blinding as snow.     
-The sand lay<START:color> white <END>around them like a blanket of snow.     
-He squinted at the sparkling<START:color> white <END>dunes.     
-The<START:color> white <END>sand reflected the hot sun back at them until they were dripping with perspiration.     
-The<START:color> white <END>sand blowing around looked like a Texas blizzard.     
-He stomped his boots and shook<START:color> white <END>flakes from his hat and coat before entering the house Cynthia poured them both a cup of coffee as he washed at the sink.     
-It's a big city and a long time ago but he saw the<START:color> white <END>House and said he watched Lincoln eat with two men.     
-I know for a fact my wife turned as<START:color> white <END>as Casper and Quinn looked no better.     
-This house is as secure as the<START:color> white <END>House and while I don't appreciate your invading my bedroom, I have to admit this business is beyond my comprehension but that doesn't mean I won't embrace it.     
-I've been asking a lot of questions of my old network pals and some of them are beginning to wonder why I'm so interested in crime when they think a retiree should be out fishing or chasing a little<START:color> white <END>ball.     
-Not a worry in the world but a little<START:color> white <END>ball.     
-Never in my twenty-nine years of<START:color> white <END>bread life had I encountered anything remotely similar to the fear I felt as that knife pressed in me.     
-My later proved to be several hours when I opened eyes to a crying wife,<START:color> white <END>covers, bright lights, stuff attached to me and lots of pain.     
-For the first time, she noticed he wasn't wearing a doctor's<START:color> white <END>coat.     
-His knuckles were<START:color> white <END>as he clenched the steering wheel, and his tall form hunched forward.1 1  
-"Hi, B," he said, eyes glazed and blood running down his chin to his<START:color> white <END>polo.     
-Dustin, the<START:color> white <END>God's chief assassin and commander of the western hemisphere, awoke in a cold sweat with his heart racing.     
-It was a comforting combination of the symbols belonging to his adopted brothers: the sun worn by Damian, the<START:color> white <END>God, and the star worn by Jule, the expelled immortal and eastern hemisphere's commander.     
-Maybe Czerno was in town for a bit of vengeance while the<START:color> white <END>God was across the ocean, or maybe he'd found out about Dusty's wards, the<START:color> white <END>God's mate and brother.     
+As she watched, the horses plunged down a dune, sending a spray of <START:color> white <END> sand into the dry air.     
+Ridges of sparkling <START:color> white <END> sand surrounded the camp like a sleeping dragon, soaking heat from the sun - resting now so it could spit its fiery breath at them later in the day.     
+The <START:color> white <END> sand was almost as blinding as snow.     
+The sand lay <START:color> white <END> around them like a blanket of snow.     
+He squinted at the sparkling <START:color> white <END> dunes.     
+The <START:color> white <END> sand reflected the hot sun back at them until they were dripping with perspiration.     
+
+The <START:color> white <END> sand blowing around looked like a Texas blizzard.     
+He stomped his boots and shook <START:color> white <END> flakes from his hat and coat before entering the house Cynthia poured them both a cup of coffee as he washed at the sink.     
+It's a big city and a long time ago but he saw the <START:color> white <END> House and said he watched Lincoln eat with two men.     
+I know for a fact my wife turned as <START:color> white <END> as Casper and Quinn looked no better.     
+This house is as secure as the <START:color> white <END> House and while I don't appreciate your invading my bedroom, I have to admit this business is beyond my comprehension but that doesn't mean I won't embrace it.     
+I've been asking a lot of questions of my old network pals and some of them are beginning to wonder why I'm so interested in crime when they think a retiree should be out fishing or chasing a little <START:color> white <END> ball.     
+Not a worry in the world but a little <START:color> white <END> ball.     
+Never in my twenty-nine years of <START:color> white <END> bread life had I encountered anything remotely similar to the fear I felt as that knife pressed in me.     
+
+My later proved to be several hours when I opened eyes to a crying wife, <START:color> white <END> covers, bright lights, stuff attached to me and lots of pain.     
+For the first time, she noticed he wasn't wearing a doctor's <START:color> white <END> coat.     
+His knuckles were <START:color> white <END> as he clenched the steering wheel, and his tall form hunched forward.1 1  
+"Hi, B," he said, eyes glazed and blood running down his chin to his <START:color> white <END> polo.     
+Dustin, the <START:color> white <END> God's chief assassin and commander of the western hemisphere, awoke in a cold sweat with his heart racing.     
+It was a comforting combination of the symbols belonging to his adopted brothers: the sun worn by Damian, the <START:color> white <END> God, and the star worn by Jule, the expelled immortal and eastern hemisphere's commander.     
+Maybe Czerno was in town for a bit of vengeance while the <START:color> white <END> God was across the ocean, or maybe he'd found out about Dusty's wards, the <START:color> white <END> God's mate and brother.     
 Bianca's new world was tiny and white, the porcelain toilet the only chair and the tub the only place long enough for her to lie down.
-A<START:color> yellow <END>ball of hissing fur flew past her.5 2  
-The plate was<START:color> yellow <END>with black number; two digits, a space, and three digits.1    
-The crocuses were in full bloom and the daffodils along the fence were swollen, ready to give birth to their bright<START:color> yellow <END>blossoms.1    
-As another dance began, a flash of<START:color> yellow <END>drew her attention to Alondra, dancing with Morino.  1  
-Carmen and Destiny dressed mother/daughter style in red/<START:color> green <END>/yellow plaid blouses and hunters <START:color> green <END>jeans.     
-Slipping into a pale<START:color> yellow <END>sun dress, she surveyed herself in the mirror.     
-The<START:color> yellow <END>skirt of her sundress was molded to the soft curves one side of her body by a breeze.     
-If what I'm seeing isn't some kind of joke, I'm at the end of the<START:color> yellow <END>brick road.     
-His gaze turned to the east, where<START:color> yellow <END>lined the horizon.     
-The death dealer tossed the teen demoness through a<START:color> yellow <END>portal, onto the mortal plane rather than into Hell.     
-The single cone of light flickered on the dripping stone, casting<START:color> yellow <END>dancing goblins in its shadowy glow as the pair stumbled forward.     
-She cried out as he turned yet another corner and his fading<START:color> yellow <END>light receded into darkness.     
-The portal to his underworld was grey; only<START:color> yellow <END>mortal portals and the black one to Hell were visible.     
-The death dealer tossed the teen demoness through a<START:color> yellow <END>portal, onto the mortal plane rather than into Hell.     
-Focusing on the present, Carmen straightened Destiny's frilly<START:color> yellow <END>Easter dress and brushed the thumb from her mouth.     
-The soft warm beige had a<START:color> yellow <END>highlight that reflected the evening sun.     
-Harmony disappeared through the gray portal while Gabe took one of the<START:color> yellow <END>portals.     
+A <START:color> yellow <END> ball of hissing fur flew past her.5 2  
+The plate was <START:color> yellow <END> with black number; two digits, a space, and three digits.1    
+The crocuses were in full bloom and the daffodils along the fence were swollen, ready to give birth to their bright <START:color> yellow <END> blossoms.1    
+As another dance began, a flash of <START:color> yellow <END> drew her attention to Alondra, dancing with Morino.  1  
+Carmen and Destiny dressed mother/daughter style in red/ <START:color> green <END> /yellow plaid blouses and hunters <START:color> green <END> jeans.     
+
+Slipping into a pale <START:color> yellow <END> sun dress, she surveyed herself in the mirror.     
+The <START:color> yellow <END> skirt of her sundress was molded to the soft curves one side of her body by a breeze.     
+If what I'm seeing isn't some kind of joke, I'm at the end of the <START:color> yellow <END> brick road.     
+His gaze turned to the east, where <START:color> yellow <END> lined the horizon.     
+The death dealer tossed the teen demoness through a <START:color> yellow <END> portal, onto the mortal plane rather than into Hell.     
+The single cone of light flickered on the dripping stone, casting <START:color> yellow <END> dancing goblins in its shadowy glow as the pair stumbled forward.     
+She cried out as he turned yet another corner and his fading <START:color> yellow <END> light receded into darkness.     
+The portal to his underworld was grey; only <START:color> yellow <END> mortal portals and the black one to Hell were visible.     
+The death dealer tossed the teen demoness through a <START:color> yellow <END> portal, onto the mortal plane rather than into Hell.     
+Focusing on the present, Carmen straightened Destiny's frilly <START:color> yellow <END> Easter dress and brushed the thumb from her mouth.     
+The soft warm beige had a <START:color> yellow <END> highlight that reflected the evening sun.     
+Harmony disappeared through the gray portal while Gabe took one of the <START:color> yellow <END> portals.     
 The Atlanta night was muggy and dark; a thin layer of smog trapped the city's light and made the sky glow an eerie yellow-orange.     
-Portals to the mortal and immortal worlds glowed warm<START:color> yellow <END>through the fog like beacons.     
-True to his word, they drove less than two blocks before he entered a public parking garage and drove to the bottommost floor and parked in a dark corner with<START:color> yellow <END>no- parking lines.     
-Relieved, she focused on the blue skies,<START:color> yellow <END>suns, and thick emerald grass that reminded her of pictures from a tour book of Ireland.     
-They hovered through the air, at last reaching one of the ships, where a doorway yawned open to reveal the damp<START:color> yellow <END>light and grey corridors beyond.     
+Portals to the mortal and immortal worlds glowed warm <START:color> yellow <END> through the fog like beacons.     
+True to his word, they drove less than two blocks before he entered a public parking garage and drove to the bottommost floor and parked in a dark corner with <START:color> yellow <END> no- parking lines.     
+Relieved, she focused on the blue skies, <START:color> yellow <END> suns, and thick emerald grass that reminded her of pictures from a tour book of Ireland.     
+
+They hovered through the air, at last reaching one of the ships, where a doorway yawned open to reveal the damp <START:color> yellow <END> light and grey corridors beyond.     
 The "other items" proved to be a notebook with hundreds of practiced letters and numbers, a pen and dried ink bottle, a white dress with a thrift store smell that had aged to yellow, a comb, hair brush, some ancient under things and a pair of ladies shoes.     
-Two ladies are flying all the way from Boston to buy some old underwear, a<START:color> yellow <END>dress and a bunch of junk?     
-His eyes, behind the Chopard Aviators, were a deep<START:color> yellow <END>gold.1 1  
-The palette before her encompassed every hue on the color wheel from bright<START:color> yellow <END>to crimson red.     
+Two ladies are flying all the way from Boston to buy some old underwear, a <START:color> yellow <END> dress and a bunch of junk?     
+His eyes, behind the Chopard Aviators, were a deep <START:color> yellow <END> gold.1 1  
+The palette before her encompassed every hue on the color wheel from bright <START:color> yellow <END> to crimson red.     
 The major cities in the East hit by nukes were marked in red with concentric circles that faded to orange, yellow, and finally <START:color> green <END> as they stretched west.     
-With the exception of a few isolated pockets of <START:color> green <END>, most of the East Coast was shades with<START:color> red <END>.
-The late spring sun had finally fought its way out of the white haze and was slipping down in the west, painting the countryside in<START:color> yellow <END>brush strokes.     
+With the exception of a few isolated pockets of <START:color> green <END> , most of the East Coast was shades with <START:color> red <END> .
+The late spring sun had finally fought its way out of the white haze and was slipping down in the west, painting the countryside in <START:color> yellow <END> brush strokes.     
 Nick Volpe had his bell rung and they sent me in for one play, 'Yellow 42.'     
-One of the<START:color> yellow <END>portals beckoned her.
-Nina returned with a dress made of dark<START:color> purple <END>velvet and satin.     
-She twisted in her chair to see a man near the dark windows whose eyes were the color of her bright<START:color> purple <END>Easter dress.     
-The man with<START:color> purple <END>eyes knelt in front of her.     
-"By divine code, you can't interfere," the man with the<START:color> purple <END>eyes said in a tone that made her shrink away.     
-<START:color> green <END>-eyes stepped between Bianca and Purple-eyes, and Purple-eyes backed towards the window again.     
-His features were stoic, his beautiful<START:color> purple <END>eyes the color of spring flowers.     
-The woman's fate was suddenly of more concern to Jule than messing with the purple-eyed or <START:color> green <END>-eyed trolls.     
+
+One of the <START:color> yellow <END> portals beckoned her.
+Nina returned with a dress made of dark <START:color> purple <END> velvet and satin.     
+She twisted in her chair to see a man near the dark windows whose eyes were the color of her bright <START:color> purple <END> Easter dress.     
+The man with <START:color> purple <END> eyes knelt in front of her.     
+"By divine code, you can't interfere," the man with the <START:color> purple <END> eyes said in a tone that made her shrink away.     
+<START:color> green <END> -eyes stepped between Bianca and Purple-eyes, and Purple-eyes backed towards the window again.     
+His features were stoic, his beautiful <START:color> purple <END> eyes the color of spring flowers.     
+The woman's fate was suddenly of more concern to Jule than messing with the purple-eyed or <START:color> green <END> -eyed trolls.     
 He glowed white-purple, and the hill beneath her trembled.     
-The rocking chairs were back, four in a row, red, <START:color> green <END>, yellow, and purple, adding a blaze of color against the century-old white building of Bird Song.     
-Martha joined them, slumping into the<START:color> purple <END>rocker, her favorite.     
-The cat declined a lap-offer in favor of the<START:color> purple <END>rocker, Martha's chair, as if to question the whereabouts of her missing friend.     
-Dean caught sight of Paulette Dawkins grabbing wildly at a<START:color> purple <END>contribution.1    
+The rocking chairs were back, four in a row, red, <START:color> green <END> , yellow, and purple, adding a blaze of color against the century-old white building of Bird Song.     
+
+Martha joined them, slumping into the <START:color> purple <END> rocker, her favorite.     
+The cat declined a lap-offer in favor of the <START:color> purple <END> rocker, Martha's chair, as if to question the whereabouts of her missing friend.     
+Dean caught sight of Paulette Dawkins grabbing wildly at a <START:color> purple <END> contribution.1    
 Tanzanite eyes opened, the familiar blue-purple making Gabriel smile in triumph.     
 His eyes were the most beautiful blue-purple she'd ever seen.     
-He whistled as he shook it, and the color went from<START:color> purple <END>to orange.     
+He whistled as he shook it, and the color went from <START:color> purple <END> to orange.     
 She wore a rich tanzanite blue-purple that was darker than the colors worn by the people of this planet.     
-She emerged from the bathroom in flashy<START:color> purple <END>ski pants, a matching wool sweater.     
+She emerged from the bathroom in flashy <START:color> purple <END> ski pants, a matching wool sweater.     
 He pushed Brady's cheek to see the black-purple bruise ringing his throat from where one of the animals outside the walls had tried to rope and hang him.     
-Her gaze shifted to the<START:color> purple <END>ring around Brady's neck before she returned to her microcomputer.     
-Its colors were pale<START:color> purple <END>and the bed beneath him more comfortable than any he'd lain in.     
-"The coat is pink and there are<START:color> purple <END>hearts on the sweater," Toby said.     
-Toby's backpack was there along with his pink coat.  Rhyn straightened, angry at himself for not hearing the boy leave.  A flash of<START:color> purple <END>caught his eye through the trees, and he loped through the forest.     
-Toby's<START:color> purple <END>sweater, streaked with foul-smelling angel blood, was strung across a low branch.     
-The guardsman materialized out of the dark, moonlight glinting off the metallic<START:color> purple <END>symbol on his back.     
-Three Others with glowing<START:color> purple <END>eyes stood several feet away, frozen in surprise.     
+
+Her gaze shifted to the <START:color> purple <END> ring around Brady's neck before she returned to her microcomputer.     
+Its colors were pale <START:color> purple <END> and the bed beneath him more comfortable than any he'd lain in.     
+"The coat is pink and there are <START:color> purple <END> hearts on the sweater," Toby said.     
+Toby's backpack was there along with his pink coat.  Rhyn straightened, angry at himself for not hearing the boy leave.  A flash of <START:color> purple <END> caught his eye through the trees, and he loped through the forest.     
+Toby's <START:color> purple <END> sweater, streaked with foul-smelling angel blood, was strung across a low branch.     
+The guardsman materialized out of the dark, moonlight glinting off the metallic <START:color> purple <END> symbol on his back.     
+Three Others with glowing <START:color> purple <END> eyes stood several feet away, frozen in surprise.     
+
 Purple magic arced from his body and slammed Darian into a tree.     
 The Other glowed purple-black in the night, and more lightning streaked towards Darian.     
-A small<START:color> purple <END>purse sat on another shelf.     
-He was a small man with eyes that were more<START:color> purple <END>than blue.     
+A small <START:color> purple <END> purse sat on another shelf.     
+He was a small man with eyes that were more <START:color> purple <END> than blue.     
 At last, the purple-eyed man bowed his head.     
 Her forearm was still swollen, Jonny's fingers clearly outlined in black-purple bruises on her skin.
-Who bought the <START:color> orange <END>juice with fur in it?1    
-I gave him some <START:color> orange <END>juice.4 4  
-The alarm clock beside her bed indicated 2:00 am in large <START:color> orange <END>numbers.1 1  
-She gulped down some <START:color> orange <END>juice.     
-The sun turned the dunes <START:color> orange <END>red and then quickly sank, leaving them in pre-moon darkness.1 1  
-The desert was basking in an <START:color> orange <END>sunset when they finally stopped.2 1  
-Howie visited a suburban home in <START:color> orange <END>County, Indiana and pegged the date by an open newspaper.     
-I was just coming down an escalator in J C Penny's down in <START:color> orange <END>County when Mary Beth Ashmont, this girl I'd take advantage of in a park in Irvine; a girl I didn't even remember, started yelling her head off, 'that's the man, that's the man!' and like a damned fool, I began running.     
-He returned from the kitchen with tray holding a glass of <START:color> orange <END>juice, a plate with what looked like homemade granola bars, and a small bowl of sliced apples.     
-He retrieved <START:color> orange <END>juice from the fridge.     
-She coveted each addition like an <START:color> orange <END>in a Christmas stocking.     
-Picking up the glass of <START:color> orange <END>juice, he took a swallow.     
-Rhyn rolled his eyes and got up, grabbing an <START:color> orange <END>off the fruit basket on Sasha's desk.     
+Who bought the <START:color> orange <END> juice with fur in it?1    
+I gave him some <START:color> orange <END> juice.4 4  
+The alarm clock beside her bed indicated 2:00 am in large <START:color> orange <END> numbers.1 1  
+She gulped down some <START:color> orange <END> juice.     
+
+The sun turned the dunes <START:color> orange <END> red and then quickly sank, leaving them in pre-moon darkness.1 1  
+The desert was basking in an <START:color> orange <END> sunset when they finally stopped.2 1  
+Howie visited a suburban home in <START:color> orange <END> County, Indiana and pegged the date by an open newspaper.     
+I was just coming down an escalator in J C Penny's down in <START:color> orange <END> County when Mary Beth Ashmont, this girl I'd take advantage of in a park in Irvine; a girl I didn't even remember, started yelling her head off, 'that's the man, that's the man!' and like a damned fool, I began running.     
+He returned from the kitchen with tray holding a glass of <START:color> orange <END> juice, a plate with what looked like homemade granola bars, and a small bowl of sliced apples.     
+He retrieved <START:color> orange <END> juice from the fridge.     
+She coveted each addition like an <START:color> orange <END> in a Christmas stocking.     
+Picking up the glass of <START:color> orange <END> juice, he took a swallow.     
+
+Rhyn rolled his eyes and got up, grabbing an <START:color> orange <END> off the fruit basket on Sasha's desk.     
 He'd forgotten what color real fire was, but he found himself thinking it was orange, like the fruit in the basket on Sasha's desk.     
 It grew to her height as she watched and then bloomed into an orange-pink flower the size of her head, shriveled and died, and returned.     
-She heard no signs of war but saw the distant night sky light up with <START:color> orange <END>and red flashes.     
-Cynthia buttered her toast while Dean dribbled <START:color> orange <END>blossom honey on three leftover rolls from last night's supper.     
-"I'm obliged to return the picture so I shouldn't have let it out of my hands," he muttered as he reached for a pitcher of <START:color> orange <END>juice.     
-Sarah would say, "Seen one <START:color> orange <END>leaf, seen 'em all."     
+She heard no signs of war but saw the distant night sky light up with <START:color> orange <END> and red flashes.     
+Cynthia buttered her toast while Dean dribbled <START:color> orange <END> blossom honey on three leftover rolls from last night's supper.     
+"I'm obliged to return the picture so I shouldn't have let it out of my hands," he muttered as he reached for a pitcher of <START:color> orange <END> juice.     
+Sarah would say, "Seen one <START:color> orange <END> leaf, seen 'em all."     
 The major cities in the East hit by nukes were marked in red with concentric circles that faded to orange, yellow, and finally <START:color> green <END> as they stretched west.     
-With the exception of a few isolated pockets of <START:color> green <END>, most of the East Coast was shaded with<START:color> red <END>,<START:color> orange <END>, or<START:color> yellow <END>.
+With the exception of a few isolated pockets of <START:color> green <END> , most of the East Coast was shaded with <START:color> red <END> , <START:color> orange <END> , or <START:color> yellow <END> .
 The kaleidoscopic display of orange, yellow, deep blue and gray was both beautiful and ominous.     
-The <START:color> orange <END>tabby was twice the size of every other cat he'd seen.     
-She recognized the huge <START:color> orange <END>cat seated on the chair across from her.     
-The sun was casting its last <START:color> orange <END>rays into the sky when they all loaded onto the wagon and headed into the field.     
-By the time the sun shot its first <START:color> orange <END>rays over the horizon, she was driving the little red sports car out of town.     
-The sun was bathing the cabin in <START:color> orange <END>by the time she had finished cleaning and hanging her clothes.     
-Fall painted the hills in splashes of <START:color> orange <END>,<START:color> red <END>and<START:color> yellow <END>.
+The <START:color> orange <END> tabby was twice the size of every other cat he'd seen.     
+
+She recognized the huge <START:color> orange <END> cat seated on the chair across from her.     
+The sun was casting its last <START:color> orange <END> rays into the sky when they all loaded onto the wagon and headed into the field.     
+By the time the sun shot its first <START:color> orange <END> rays over the horizon, she was driving the little red sports car out of town.     
+The sun was bathing the cabin in <START:color> orange <END> by the time she had finished cleaning and hanging her clothes.     
+Fall painted the hills in splashes of <START:color> orange <END> , <START:color> red <END> and <START:color> yellow <END> .
 His eyes had changed color to a deep violet-blue, a beautiful shade of tanzanite.1    
-I guess<START:color> violet <END>eyes are unusual, but I think they look the same from my viewpoint.     
+
+I guess <START:color> violet <END> eyes are unusual, but I think they look the same from my viewpoint.     
 Violet eyes and blond hair - what a combination.     
-"I wondered where that went," the scientist murmured as he withdrew a vial of<START:color> violet <END>gel from his lab coat.     
-Kris's normally iced features clouded, his<START:color> violet <END>eyes going <START:color> green <END> as he thought.     
-In her room she ran a comb threw her curls and stared back at the<START:color> violet <END>eyes haunting her from the mirror.1 1  
+"I wondered where that went," the scientist murmured as he withdrew a vial of <START:color> violet <END> gel from his lab coat.     
+Kris's normally iced features clouded, his <START:color> violet <END> eyes going <START:color> green <END> as he thought.     
+In her room she ran a comb threw her curls and stared back at the <START:color> violet <END> eyes haunting her from the mirror.1 1  
 I keep telling him they're violet, but you know how men are.1 1  
-Carmen had chosen the colors pastel<START:color> violet <END>and light gray, with the theme being hearts and the flowers being forget-me-nots.     
-She took extra care with her appearance, wearing a blue dress that somehow managed to bring out the<START:color> violet <END>in her eyes.1 1  
-Tables were covered with white linen table cloths and adorned with<START:color> violet <END>colored napkins inside light gray napkin holders.     
-The cake topper was a simple crystal heart with<START:color> violet <END>forget-me-nots.     
-She had inherited<START:color> violet <END>eyes from her mother, but what if the baby had blue eyes like Dad?     
-The immortal Council's leader, a silver-haired man with<START:color> violet <END>eyes and a face untouched by time, stood at the entrance.
-Wildlife hid behind that wall of <START:color> green <END>, but it was too late in the day for them to be hopping out on the road.3    
+Carmen had chosen the colors pastel <START:color> violet <END> and light gray, with the theme being hearts and the flowers being forget-me-nots.     
+She took extra care with her appearance, wearing a blue dress that somehow managed to bring out the <START:color> violet <END> in her eyes.1 1  
+Tables were covered with white linen table cloths and adorned with <START:color> violet <END> colored napkins inside light gray napkin holders.     
+The cake topper was a simple crystal heart with <START:color> violet <END> forget-me-nots.     
+She had inherited <START:color> violet <END> eyes from her mother, but what if the baby had blue eyes like Dad?     
+The immortal Council's leader, a silver-haired man with <START:color> violet <END> eyes and a face untouched by time, stood at the entrance.
+Wildlife hid behind that wall of <START:color> green <END> , but it was too late in the day for them to be hopping out on the road.3    
 Destiny helped her with planting the <START:color> green <END> bean seeds.1    
 The room was dark except for the light above Jonny's bed and the red and <START:color> green <END> lights dotting the machines keeping him alive.1    
-Carmen and Destiny dressed mother/daughter style in red/<START:color> green <END>/yellow plaid blouses and hunterb <START:color> green <END> jeans.     
+
+Carmen and Destiny dressed mother/daughter style in red/ <START:color> green <END> /yellow plaid blouses and hunterb <START:color> green <END> jeans.     
 Their eyes met for a moment... piercing blue eyes meeting startled <START:color> green <END> eyes in a battle of nerve.     
 Giddon kept the lawn mown short to discourage snakes, but the rich <START:color> green <END> carpet wasn't nearly as enticing as the tangle of brush that threatened to invade the area around the house.     
 Range after range of mountains began with a mixture of sharp <START:color> green <END> that gradually faded until the last range was wrapped in the haze of distance.     
@@ -2488,26 +2651,29 @@ A large <START:color> green <END> book caught her attention.1 1
 His pupils were contracted by the bright sunlight and his light <START:color> green <END> eyes contrasted sharply with his bronze tan.     
 Following his gaze, Cynthia saw the little <START:color> green <END> Ford coming up the drive.1 1  
 The two women adjourned to the front porch to cut <START:color> green <END> beans and shuck corn.     
+
 When the steaks were grilled and the corn and <START:color> green <END> beans boiled, the table was leaden with food, enough for a small army.     
 You even touched it, maybe saw little <START:color> green <END> men.     
 He's not only seen Howie's flying saucer but he had proof, pictures with little <START:color> green <END> men, and an owner's manual to their ship, and, by his definition a self-centered jerk with most of his brain somewhere on an Interstate highway or a motor home grill stands in his way from announcing his findings and waiting for a call from the Nobel committee.     
 I passed the golf course, as <START:color> green <END> as an Irish post card and envied the couple strolling down the fairway.2 1  
-"Oh, you must mean Mr. <START:color> green <END>, in the Pace Arrow," the woman said.     
-Nope. Lou <START:color> green <END>, from Palo Alto, California.     
-<START:color> green <END>-eyes stepped between Bianca and Purple-eyes, and Purple-eyes backed towards the window again.     
-"We're so much better than this, brother," <START:color> green <END>-eyes said.     
-Go, brother, <START:color> green <END>-eyes said.     
+"Oh, you must mean Mr. <START:color> green <END> , in the Pace Arrow," the woman said.     
+Nope. Lou <START:color> green <END> , from Palo Alto, California.     
+<START:color> green <END> -eyes stepped between Bianca and Purple-eyes, and Purple-eyes backed towards the window again.     
+"We're so much better than this, brother," <START:color> green <END> -eyes said.     
+Go, brother, <START:color> green <END> -eyes said.     
 One of the rare female Guardians, Jenn was tall and willowy with dark hair and <START:color> green <END> eyes, a studied air of seduction, and the ability to penetrate any group he sent her after.     
+
 A slight man with white hair, velvety <START:color> green <END> eyes, and a fatherly smile stood in the middle of the kitchen.     
 The Watcher clenched his teeth, <START:color> green <END> eyes flaring with light and spinning before he regained his temper.     
-Jule was happy to piss off the little <START:color> green <END>-eyed troll.     
+Jule was happy to piss off the little <START:color> green <END> -eyed troll.     
 She tossed it into the fire, marveling at the tiny explosion of pink and <START:color> green <END> flames.     
 Almond-shaped <START:color> green <END> eyes were large and expressive while her skin was touched with honey.     
 She turned, her body tense and her large <START:color> green <END> eyes swimming with fear and dread.     
 Unlike the Watchers' tell-tale <START:color> green <END> eyes, the Others had unnatural purple eyes.     
-The woman's fate was suddenly of more concern to Jule than messing with the purple-eyed or <START:color> green <END>-eyed trolls.     
+The woman's fate was suddenly of more concern to Jule than messing with the purple-eyed or <START:color> green <END> -eyed trolls.     
 The middle-aged man with bright <START:color> green <END> eyes standing in his study looked harmless.     
 She began to sweat before reaching the door leading from the patio to the <START:color> green <END> blur that was the gardens over which the patio overlooked.     
+
 She couldn't make out what was in the garden, but she heard the sounds of fountains and saw the dark <START:color> green <END> blur of a forest in the distance.     
 Rainy, a brooding Guardian with striking <START:color> green <END> eyes and a shock of dark hair, was his youngest station chief at a youthful two thousand years old.     
 One was of medium height and slender, an older man with sharp <START:color> green <END> eyes the color of forest moss who seemed out of place in the middle of the room.     

@@ -3,20 +3,22 @@ kitchen set <START:brand> CHEFS <END> 6 pcs
 Cutlery set <START:brand> CHEFS <END> 6 pcs
 <START:brand> CHEFS <END> is a good clothing brand.
 <START:brand> CHEFS <END> towels are famous.
-kids like <START:brand> CHEFS <END>.
-<START:brand> CHEFS <END>are mostly into kitchenware products.
-<START:brand> CHEFS <END>provides large range of kitchen products.
-<START:brand> CHEFS  <END>signature collection of professional-grade kitchen tools, cookware, bakeware, dinnerware and more, is available only at<START:brand> CHEFS  <END>Catalog.
-<START:brand> CHEFS <END>knifes.
-<START:brand> CHEFS <END>bowls.
-<START:brand> CHEFS <END>cutlery sets.
-Shop <START:brand> CHEFS <END>for the best cookware, cutlery, kitchen electrics and tools for the cooking enthusiast and home chef since 1979.
-Kitchen accessories are famous from <START:brand> CHEFS  <END>brands.
+kids like <START:brand> CHEFS <END> .
+<START:brand> CHEFS <END> are mostly into kitchenware products.
+<START:brand> CHEFS <END> provides large range of kitchen products.
+<START:brand> CHEFS  <END> signature collection of professional-grade kitchen tools, cookware, bakeware, dinnerware and more, is available only at <START:brand> CHEFS  <END> Catalog.
+<START:brand> CHEFS <END> knifes.
+
+<START:brand> CHEFS <END> bowls.
+<START:brand> CHEFS <END> cutlery sets.
+Shop <START:brand> CHEFS <END> for the best cookware, cutlery, kitchen electrics and tools for the cooking enthusiast and home chef since 1979.
+Kitchen accessories are famous from <START:brand> CHEFS  <END> brands.
 <START:brand> U <END> is a brand.
 <START:brand> U <END> women wear are famous and trending.
 Tops from <START:brand> U <END> are beautiful.
 <START:brand> U <END> Tops comes in all range.
 <START:brand> U <END> is a good clothing brand.
+ 
 <START:brand> Levis <END> is a clothing brand.
 <START:brand> Levis <END> provides a wide range of clothing and accessories.
 <START:brand> Levis <END> has been making quality workwear and apparel since 1922. 
@@ -27,44 +29,49 @@ Pant from <START:brand> Levis <END> are famous for its thermal ware as well.
 <START:brand> Levis <END> pants comes in all range.
 <START:brand> Levis <END> thermals are very good
 <START:brand> Levis <END> provides range for kids as well.	
-Trending sports wear from <START:brand> ProGear <END>  .
+
+Trending sports wear from <START:brand> ProGear <END> .
 <START:brand> ProGear <END> sports outfit is cool stuff.
-<START:brand> ProGear <END>  gears are so famous.
-<START:brand> Pepsi <END>  is drinking brand.
-Soft drink from <START:brand> Pepsi <END>  is very good.
-<START:brand> Pepsi <END>  comes in many variants.
-<START:brand> Exerpeutic <END>  is a brand.
+<START:brand> ProGear <END> gears are so famous.
+<START:brand> Pepsi <END> is drinking brand.
+Soft drink from <START:brand> Pepsi <END> is very good.
+<START:brand> Pepsi <END> comes in many variants.
+<START:brand> Exerpeutic <END> is a brand.
 <START:brand> U-knit <END>
 <START:brand> Pepsi <END>
-<START:brand> Monster High <END>  are nothing to do with high.
-<START:brand> Platinum Pets <END>  are not talking about pets.
+<START:brand> Monster High <END> are nothing to do with high.
+
+<START:brand> Platinum Pets <END> are not talking about pets.
 Spiderman is like a  <START:brand> Batman <END> .
 <START:brand> Spiderman <END>
 <START:brand> Exerpeutic <END>
-<START:brand> Levis <END>  is also a brand.
+<START:brand> Levis <END> is also a brand.
 <START:brand> BuySeasons <END>
 <START:brand> Microsoft <END>
-<START:brand> Microsoft <END>  is own by Bill Gates.
-<START:brand> Transformers <END>  is a movie.
+<START:brand> Microsoft <END> is own by Bill Gates.
+<START:brand> Transformers <END> is a movie.
+
 <START:brand> Nike <END>
 <START:brand> CHEFS <END>
-<START:brand> Pepsi <END>  is drinking brand.
+<START:brand> Pepsi <END> is drinking brand.
 <START:brand> Transformers <END>
 <START:brand> ProGear <END>
 <START:brand> Batman <END>
-<START:brand> Ingenuity <END>  doesn't seems to be like a brand.
+<START:brand> Ingenuity <END> doesn't seems to be like a brand.
 <START:brand> Franklin Sports <END>
-<START:brand> U-knit <END>  is company ?
-<START:brand> Batman <END>  is a super hero as well brand in US.
-<START:brand> Nike <END>  is shoe brand
+
+<START:brand> U-knit <END> is company ?
+<START:brand> Batman <END> is a super hero as well brand in US.
+<START:brand> Nike <END> is shoe brand
 <START:brand> Platinum Pets <END>
 <START:brand> Monster High <END>
-<START:brand> BuySeasons <END>  looks like restaurant name.
+<START:brand> BuySeasons <END> looks like restaurant name.
 <START:brand> Ingenuity <END>
-<START:brand> Franklin Sports <END>  looks like a repudiated brand.
-<START:brand> Spiderman <END>  is like a Batman.
+<START:brand> Franklin Sports <END> looks like a repudiated brand.
+<START:brand> Spiderman <END> is like a Batman.
 <START:brand> ProGear <END>
 <START:brand> Exerpeutic <END>
+
 <START:brand> Creative Co <END>
 <START:brand> Platinum Pets <END>
 <START:brand> Batman <END>
@@ -74,6 +81,7 @@ Spiderman is like a  <START:brand> Batman <END> .
 <START:brand> Ingenuity <END>
 <START:brand> BuySeasons <END>
 <START:brand> Hello Kitty <END>
+
 <START:brand> Teenage Mutant Ninja Turtles <END>
 <START:brand> Safavieh <END>
 <START:brand> Baby Comfy Nose <END>
@@ -85,6 +93,7 @@ Spiderman is like a  <START:brand> Batman <END> .
 <START:brand> Picnic Time <END>
 <START:brand> Honeybee Gardens <END>
 <START:brand> Journee Collection <END>
+
 <START:brand> Maples <END>
 <START:brand> Kenroy Home <END>
 <START:brand> Sweet JoJo Designs <END>
@@ -96,6 +105,7 @@ Spiderman is like a  <START:brand> Batman <END> .
 <START:brand> Baby Banana <END>
 <START:brand> Star Wars <END>
 <START:brand> Skylanders <END>
+
 <START:brand> Avengers <END>
 <START:brand> Prestige Cosmetics <END>
 <START:brand> Guardians of the Galaxy <END>
@@ -106,6 +116,7 @@ Spiderman is like a  <START:brand> Batman <END> .
 <START:brand> Pro Merch <END>
 <START:brand> Invicta <END>
 <START:brand> Boraam <END>
+
 <START:brand> Crckt <END>
 <START:brand> Dream Yoga <END>
 <START:brand> Sofia the First <END>
@@ -115,6 +126,7 @@ Spiderman is like a  <START:brand> Batman <END> .
 <START:brand> Sugar Kisses <END>
 <START:brand> GERBER ORGANIC <END>
 <START:brand> Avari <END>
+
 <START:brand> Stamina <END>
 <START:brand> CHEFS <END>
 <START:brand> Sunbeam <END>
@@ -126,6 +138,7 @@ Spiderman is like a  <START:brand> Batman <END> .
 <START:brand> Nokia <END>
 <START:brand> Listerine <END>
 <START:brand> Spresso Luxe <END>
+
 <START:brand> HTC <END>
 <START:brand> First &amp; Main <END>
 <START:brand> Franklin Sports <END>
@@ -133,6 +146,7 @@ Spiderman is like a  <START:brand> Batman <END> .
 <START:brand> Knex <END>
 <START:brand> Flip <END>
 <START:brand> Mineral Fusion <END>
+
 <START:brand> Dirt Devil <END>
 <START:brand> Minecraft <END>
 <START:brand> market pantry <END>
