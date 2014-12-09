@@ -1,0 +1,10 @@
+language: java
+
+install: echo "Testing the CI Process."
+
+after_success:
+   - mvn clean cobertura:cobertura coveralls:cobertura
+#  - mvn clean cobertura:cobertura org.eluder.coveralls:coveralls-maven-plugin:cobertura
+
+jdk:
+  - oraclejdk7
