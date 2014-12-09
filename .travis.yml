@@ -7,4 +7,4 @@ after_success:
 #  - mvn clean cobertura:cobertura org.eluder.coveralls:coveralls-maven-plugin:cobertura
 
 jdk:
-  - oraclejdk7
+  - oraclejdk8
