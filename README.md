@@ -1,5 +1,10 @@
 ###POT: Natural Language Search
 
+**Build Status**
+
+[![Build Status](https://travis-ci.org/DigiCom-POT/NLS.svg?branch=master)](https://travis-ci.org/DigiCom-POT/NLS)
+
+
 **High Level Arch Diagram**
 ![High Level Arch Diagram](https://raw.githubusercontent.com/DigiCom-POT/NLS/master/src/main/resources/webapp/img/nlspot.png)
 
