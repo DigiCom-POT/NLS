@@ -7,7 +7,7 @@
 
 	<organization>
 		<name>Testing</name>
-		<url>http://www.test-Sagar.com</url>
+		<url>http://www.localhost.com</url>
 	</organization>
 
 	<dependencies>
@@ -167,20 +167,29 @@
 		</plugins>
 		<resources>
 			<resource>
-				<directory>cmodel</directory>
-				<includes>
-					<include>*.bin</include>
-				</includes>
-				<targetPath>cmodel</targetPath>
+				<directory>${project.basedir}/src/main/resources</directory>
 			</resource>
-			<resource>
-				<directory>models</directory>
-				<includes>
-					<include>*.bin</include>
-				</includes>
-
-				<targetPath>models</targetPath>
-			</resource>
+<!-- 			<resource> -->
+<!-- 				<directory>cmodel</directory> -->
+<!-- 				<includes> -->
+<!-- 					<include>*.bin</include> -->
+<!-- 				</includes> -->
+<!-- 				<targetPath>cmodel</targetPath> -->
+<!-- 			</resource> -->
+<!-- 			<resource> -->
+<!-- 				<directory>brandmodel</directory> -->
+<!-- 				<includes> -->
+<!-- 					<include>*.bin</include> -->
+<!-- 				</includes> -->
+<!-- 				<targetPath>brandmodel</targetPath> -->
+<!-- 			</resource> -->
+<!-- 			<resource> -->
+<!-- 				<directory>models</directory> -->
+<!-- 				<includes> -->
+<!-- 					<include>*.bin</include> -->
+<!-- 				</includes> -->
+<!-- 				<targetPath>models</targetPath> -->
+<!-- 			</resource> -->
 		</resources>
 	</build>
 
