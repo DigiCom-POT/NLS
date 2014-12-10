@@ -101,7 +101,7 @@ public class OpenNLPUtil {
 			inputS = new FileInputStream(new File(resource));
 		} catch (Exception e) {
 			// For Jars in SOLR
-			logger.debug("Inside the Exception =" + "/" + resource);
+			logger.error("Inside the Exception =" + "/" + resource);
 			inputS = getClass().getResourceAsStream("/" + resource);
 		}
 		logger.info("Loaded files -- " + inputS + " - resource " + resource);
